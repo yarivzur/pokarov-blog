@@ -8,28 +8,71 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
+
+const postsByYear = posts.reduce((acc, post) => {
+  const y = post.data.pubDate.getFullYear();
+  (acc[y] ??= []).push(post);
+  return acc;
+}, /** @type {Record<number, typeof posts>} */ ({}));
+
+const years = Object.keys(postsByYear)
+  .map(Number)
+  .sort((a, b) => b - a);
+
+const categories = Array.from(
+  new Set(posts.map((p) => p.data.category).filter(Boolean))
+).sort((a, b) => a.localeCompare(b));
+
 ---
 
-<BaseLayout>
+<BaseLayout title={`${SITE_TITLE} — Blog`} description={SITE_DESCRIPTION} lang="en" dir="ltr">
 		<main>
 			<section>
-				<ul>
-					{
-						posts.map((post) => (
-							<li dir="auto">
-<a href={`/blog/${encodeURIComponent(post.id)}/`}>
-									{post.data.heroImage && (
-										<Image width={720} height={360} src={post.data.heroImage} alt="" />
-									)}
-									<h4 class="title" dir="auto">{post.data.title}</h4>
-									<p class="date">
-										<FormattedDate date={post.data.pubDate} />
-									</p>
-								</a>
-							</li>
-						))
-					}
-				</ul>
+			<div class="filters" dir="ltr">
+  <div class="search">
+    <input id="postSearch" type="search" placeholder="Search posts…" autocomplete="off" />
+  </div>
+
+  {categories.length > 0 && (
+    <div class="chips" aria-label="Filter by category">
+      <button class="chip is-active" type="button" data-category="">All</button>
+      {categories.map((c) => (
+        <button class="chip" type="button" data-category={c} dir="auto">{c}</button>
+      ))}
+    </div>
+  )}
+
+  <div class="meta">
+    <span id="resultCount">{posts.length}</span> posts
+    <button id="clearFilters" class="clear" type="button">Clear</button>
+  </div>
+</div>
+				
+				{years.map((year) => (
+  <div class="year-group" data-year={year}>
+    <h3 class="year-title">{year}</h3>
+    <ul>
+      {postsByYear[year].map((post) => (
+        <li
+          dir="auto"
+          data-category={post.data.category ?? ""}
+          data-search={`${post.data.title ?? ""} ${post.data.description ?? ""}`.toLowerCase()}
+        >
+          <a href={`/blog/${encodeURIComponent(post.id)}/`}>
+            {post.data.heroImage && (
+              <Image width={720} height={360} src={post.data.heroImage} alt="" />
+            )}
+            <h4 class="title" dir="auto">{post.data.title}</h4>
+            <p class="date"><FormattedDate date={post.data.pubDate} /></p>
+            {post.data.description && <p class="desc" dir="auto">{post.data.description}</p>}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+))}
+
+
 			</section>
 		</main>
 
@@ -37,6 +80,57 @@ const posts = (await getCollection('blog')).sort(
 			main {
 				width: 960px;
 			}
+			.filters {
+  display: grid;
+  gap: 0.75rem;
+  margin: 1rem 0 1.25rem;
+}
+
+.search input {
+  width: 100%;
+  max-width: 520px;
+  padding: 0.65rem 0.8rem;
+  border: 1px solid rgba(var(--gray), 35%);
+  border-radius: 12px;
+  background: white;
+  color: rgb(var(--black));
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.chip {
+  border: 1px solid rgba(var(--gray), 35%);
+  border-radius: 999px;
+  padding: 0.35rem 0.7rem;
+  background: white;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+
+.chip.is-active {
+  border-color: rgb(var(--accent));
+  color: rgb(var(--accent));
+}
+
+.meta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: rgb(var(--gray));
+}
+
+.clear {
+  border: 0;
+  background: transparent;
+  color: rgb(var(--accent));
+  cursor: pointer;
+  padding: 0;
+}
+
 			ul {
 				display: flex;
 				flex-wrap: wrap;
@@ -101,6 +195,120 @@ const posts = (await getCollection('blog')).sort(
 					font-size: 1.563em;
 				}
 			}
+
+		ul li a {
+  padding: 0.75rem;
+  border-radius: 14px;
+}
+
+ul li a:hover {
+  background: rgba(var(--gray), 6%);
+}
+
+.year-title {
+  margin: 1.5rem 0 0.75rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgb(var(--gray-dark));
+  opacity: 0.75;
+}
+
+.year-group {
+  padding-top: 0.25rem;
+  border-top: 1px solid rgba(var(--gray), 18%);
+}
+
+.year-group:first-child {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.desc {
+  margin: 0.35rem 0 0;
+  color: rgb(var(--gray-dark));
+  line-height: 1.35;
+  opacity: 0.9;
+}
+
 		</style>
+
+<script>
+  const searchEl = document.getElementById("postSearch");
+  const chips = Array.from(document.querySelectorAll(".chip"));
+  const clearBtn = document.getElementById("clearFilters");
+  const countEl = document.getElementById("resultCount");
+	const items = Array.from(document.querySelectorAll(".year-group li"));
+	const yearGroups = Array.from(document.querySelectorAll(".year-group"));
+  let activeCategory = "";
+
+  function normalize(s) {
+    return (s || "")
+      .toLowerCase()
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+
+  function apply() {
+    const q = normalize(searchEl?.value);
+    let visible = 0;
+
+    for (const li of items) {
+      const cat = li.getAttribute("data-category") || "";
+      const hay = li.getAttribute("data-search") || "";
+
+      const matchCat = !activeCategory || cat === activeCategory;
+      const matchQ = !q || hay.includes(q);
+
+      const show = matchCat && matchQ;
+      li.style.display = show ? "" : "none";
+      if (show) visible += 1;
+    }
+
+    if (countEl) countEl.textContent = String(visible);
+
+		for (const g of yearGroups) {
+  		const anyVisible = g.querySelectorAll('li:not([style*="display: none"])').length > 0;
+  		g.style.display = anyVisible ? "" : "none";
+}
+  }
+
+  function setActiveChip() {
+    for (const btn of chips) {
+      const isActive = (btn.dataset.category || "") === activeCategory;
+      btn.classList.toggle("is-active", isActive);
+    }
+  }
+
+  // chip clicks
+  for (const btn of chips) {
+    btn.addEventListener("click", () => {
+      activeCategory = btn.dataset.category || "";
+      setActiveChip();
+      apply();
+    });
+  }
+
+  // search typing
+  if (searchEl) {
+    searchEl.addEventListener("input", apply);
+  }
+
+  // clear
+  if (clearBtn) {
+    clearBtn.addEventListener("click", () => {
+      activeCategory = "";
+      if (searchEl) searchEl.value = "";
+      setActiveChip();
+      apply();
+      searchEl?.focus?.();
+    });
+  }
+
+  // initial state
+  setActiveChip();
+  apply();
+</script>
 
 		</BaseLayout>
