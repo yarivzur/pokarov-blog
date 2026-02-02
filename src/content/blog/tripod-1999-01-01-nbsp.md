@@ -1,5 +1,5 @@
 ---
-title: "&nbsp;"
+title: ""
 pubDate: "1999-01-01"
 source: "tripod"
 category: "internet"

@@ -1,5 +1,5 @@
 ---
-title: "בטח שמתם לב ש&hellip;"
+title: "בטח שמתם לב ש…"
 pubDate: "2008-12-21"
 source: "bitterness"
 original_id: 151

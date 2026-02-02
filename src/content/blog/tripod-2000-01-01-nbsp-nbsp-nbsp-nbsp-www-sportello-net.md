@@ -1,5 +1,5 @@
 ---
-title: "·&nbsp;&nbsp;&nbsp;&nbsp;"
+title: "·"
 pubDate: "2000-01-01"
 source: "tripod"
 category: "internet"

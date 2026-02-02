@@ -9,9 +9,14 @@ import Header from '../components/Header.astro';
 type Props = CollectionEntry<'blog'>['data'];
 
 const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+
+const isHebrew = /[\u0590-\u05FF]/.test(title);
+const pageDir = isHebrew ? "rtl" : "ltr";
+const pageLang = isHebrew ? "he" : "en";
+
 ---
 
-<html lang="en">
+<html lang={pageLang} dir={pageDir}>
 	<head>
 		<BaseHead title={title} description={description} />
 		<style>
@@ -52,13 +57,30 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			.last-updated-on {
 				font-style: italic;
 			}
+			.post {
+  text-align: start;
+}
+
+.post .title,
+.post h1 {
+  direction: inherit;
+  unicode-bidi: plaintext;
+  text-align: start;
+}
+
+/* Apply bidi + alignment to actual rendered markdown elements */
+.post .prose :where(p, li, blockquote, h2, h3, h4, h5, h6) {
+  direction: inherit;
+  unicode-bidi: plaintext;
+  text-align: start;
+}
 		</style>
 	</head>
 
 	<body>
 		<Header />
 		<main>
-			<article>
+			<article class="post">
 				<div class="hero-image">
 					{heroImage && <Image width={1020} height={510} src={heroImage} alt="" />}
 				</div>

@@ -1,5 +1,5 @@
 ---
-title: "דו&rdquo;ח הישרדות &ndash; 25.12.2008 / &ldquo;מגדל אננס, רעות&rdquo;"
+title: "דו”ח הישרדות – 25.12.2008 / “מגדל אננס, רעות”"
 pubDate: "2008-12-25"
 source: "bitterness"
 original_id: 164

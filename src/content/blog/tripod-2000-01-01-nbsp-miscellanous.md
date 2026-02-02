@@ -1,5 +1,5 @@
 ---
-title: "&nbsp;Miscellanous"
+title: "Miscellanous"
 pubDate: "2000-01-01"
 source: "tripod"
 category: "misc"

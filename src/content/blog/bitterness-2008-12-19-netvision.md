@@ -1,5 +1,5 @@
 ---
-title: "פוצ&rsquo;מוי נטוויז&rsquo;ן"
+title: "פוצ’מוי נטוויז’ן"
 pubDate: "2008-12-19"
 source: "bitterness"
 original_id: 150

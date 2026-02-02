@@ -1,5 +1,5 @@
 ---
-title: "דו&quot;ח הישרדות, 12.3.2008"
+title: 'דו"ח הישרדות, 12.3.2008'
 pubDate: "2008-03-12"
 source: "bitterness"
 original_id: 128

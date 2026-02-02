@@ -153,3 +153,16 @@ hr {
 	/* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
 	white-space: nowrap;
 }
+
+/* --- Bidi (Hebrew/English) handling --- */
+[dir="auto"] {
+  unicode-bidi: plaintext;
+  text-align: start;
+}
+
+/* Keep code readable even inside RTL content */
+pre, code, kbd, samp {
+  direction: ltr;
+  unicode-bidi: isolate;
+  text-align: left;
+}
