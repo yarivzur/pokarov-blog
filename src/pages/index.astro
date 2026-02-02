@@ -1,7 +1,5 @@
 ---
-import BaseHead from "../components/BaseHead.astro";
-import Header from "../components/Header.astro";
-import Footer from "../components/Footer.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import { getCollection } from "astro:content";
 
@@ -11,15 +9,8 @@ const posts = (await getCollection("blog"))
   .slice(0, 6);
 ---
 
-<!doctype html>
-<html lang="en">
-  <head>
-    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-  </head>
-  <body>
-    <Header />
-
-    <main class="container">
+<BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION} lang="en" dir="ltr">
+  <main class="container">
       <section class="hero">
         <h1>{SITE_TITLE}</h1>
         <p class="lead">{SITE_DESCRIPTION}</p>
@@ -56,9 +47,7 @@ const posts = (await getCollection("blog"))
       </section>
     </main>
 
-    <Footer />
-  </body>
-</html>
+</BaseLayout>
 
 <style>
   .container { max-width: 880px; margin: 0 auto; padding: 2.5rem 1.25rem; }
