@@ -1,0 +1,58 @@
+---
+title: "Home Alone VI - A New Morning"
+pubDate: "2000-01-01"
+source: "tripod"
+category: "personal"
+original_file: "/writings/private/Home_Alone/fog0000000059.html"
+---
+
+
+ 
+
+
+
+
+
+ | [.portfolio](../../../Portfolio.html) 
+ | [.writings](../../fog0000000017.html) 
+ | [.bio](../../../bio/fog0000000019.html) 
+ | [.links](../../../links/fog0000000097.html) 
+ | [.blog](../../../blogIndex.html) 
+ | [.home](../../../Home.html) 
+
+
+
+
+
+ |
+
+
+
+ |
+
+
+ |
+
+**Wed, 30 January 2002**
+
+# Home Alone VI - A New Morning
+Good Morning. Waking up to a new morning. All my best friends have turned into text mode. As Master Binyamini put it last night - "Now we are going to be good friends, you'll see, Wait a minute I have a call waiting from Dana. Talk to you later".
+
+Waking up late, starting your morning in a frrenzy of unfocused actions, absent-mindingly making a mental note that your stomach has returned to normal functioning after two weeks. No time to revel in it. Gotta run, listening on the radion to some new dirt on Mrs. Netanyahoo, contemplating you crumbling homeland and life, leaving the air-conditioned cab, going into an air-conditioned room. starting a 4-hour long screaming discussion on the looks of an application they'll never let you write. Having your girlfriend's ex laughingly iterate details you told her last night. Just a joy day. And to top it - Dentist at 19:00.
+
+Yariv "Text Mode" Zur.
+
+[Previous](fog0000000058.html) | [Next](fog0000000060.html)
+
+
+
+
+
+
+
+
+
+
+
+
+ |
