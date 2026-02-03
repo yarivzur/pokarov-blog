@@ -37,7 +37,7 @@ G'Day.
 
 Yariv. All alone in da big city
 
-[Previous](fog0000000059.html) | [Next](fog0000000061.html)
+Previous | Next
 
 
 

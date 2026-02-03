@@ -37,7 +37,7 @@ Yariv. Somehow more rejuvinated and enthusiastic. Oh, and with regular bowel mov
 
 P.S. Saw E.T. last night. Still makes me cry.
 
-[Previous](fog0000000060.html) | [Next](fog0000000062.html)
+Previous | Next
 
 
 

@@ -62,7 +62,7 @@ Yariv. Melting away, and enjoying every minute of it.
 P.S. Guy, Talked to your sistah last night, and as J.L & P.M put it: "It's getting better all the ti-i-i-i-me."
 VL.
 
-[Previous](fog0000000063.html) | [UP](../fog0000000042.html)
+Previous | [UP](../fog0000000042.html)
 
 
 

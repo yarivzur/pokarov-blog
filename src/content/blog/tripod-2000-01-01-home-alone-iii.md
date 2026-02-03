@@ -35,7 +35,7 @@ Good Morning. It's 11:00, 13th July. I'm at work, managing my way between design
 allez le bleu (sp?)
 Yariv.
 
-[Previous](fog0000000055.html) | [Next](fog0000000057.html)
+Previous | Next
 
 
 

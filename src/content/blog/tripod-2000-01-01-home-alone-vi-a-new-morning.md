@@ -36,7 +36,7 @@ Waking up late, starting your morning in a frrenzy of unfocused actions, absent-
 
 Yariv "Text Mode" Zur.
 
-[Previous](fog0000000058.html) | [Next](fog0000000060.html)
+Previous | Next
 
 
 

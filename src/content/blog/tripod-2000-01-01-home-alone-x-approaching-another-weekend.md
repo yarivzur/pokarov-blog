@@ -36,7 +36,7 @@ That's it. All of you enjoy your lifes. I'll just drudge on to a another weekend
 May God have mercy on us all.
 Yariv.
 
-[Previous](fog0000000062.html) | [Next](fog0000000064.html)
+Previous | Next
 
 
 

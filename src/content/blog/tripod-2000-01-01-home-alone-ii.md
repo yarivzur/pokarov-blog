@@ -36,7 +36,7 @@ Things are now getting better. I only have a huge headache, but my legs are almo
 "Rumors of my death were too early"
 Yariv.
 
-[Previous](fog0000000054.html) | [Next](fog0000000056.html)
+Previous | Next
 
 
 

@@ -36,7 +36,7 @@ It is another scorching morning in downtown Tel-Aviv, as I made my way between t
 
 Yariv.
 
-[Previous](fog0000000056.html) | [Next](fog0000000058.html)
+Previous | Next
 
 
 

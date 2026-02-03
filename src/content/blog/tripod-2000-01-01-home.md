@@ -30,7 +30,7 @@ original_file: "/Home.html"
 
 
  |
- [](http://redirect.fogcreek.com/?id=vlvl&url=http%3A//www.fogcreek.com/CityDesk)
+  
 
  |
  [Contact](mailto:vl_vl@yahoo.com)

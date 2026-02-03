@@ -39,7 +39,7 @@ Excellent day to all of us. By the time I finished writing this, the fog has lif
 
 Yariv.
 
-[Previous](fog0000000057.html) | [Next](fog0000000059.html)
+Previous | Next
 
 
 

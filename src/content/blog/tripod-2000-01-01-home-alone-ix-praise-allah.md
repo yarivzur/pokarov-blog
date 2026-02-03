@@ -42,7 +42,7 @@ P.S.
 Last Episode of Seinfeld last night. It actually gets better and better each time you see it.
 VL.
 
-[Previous](fog0000000061.html) | [Next](fog0000000063.html)
+Previous | Next
 
 
 
