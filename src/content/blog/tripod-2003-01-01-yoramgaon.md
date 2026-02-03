@@ -13,12 +13,6 @@ original_file: "/writings/2fg/TV/2003/YoramGaon.html"
 
 
 
- | [.portfolio](../../../../Portfolio.html) 
- | [.writings](../../../fog0000000017.html) 
- | [.bio](../../../../bio/fog0000000019.html) 
- | [.links](../../../../links/fog0000000097.html) 
- | [.blog](../../../../blogIndex.html) 
- | [.home](../../../../Home.html) 
 
 
 

@@ -13,12 +13,6 @@ original_file: "/gibson/fog0000000026.html"
 
 
 
- | [.portfolio](../Portfolio.html) 
- | [.writings](../writings/fog0000000017.html) 
- | [.bio](../bio/fog0000000019.html) 
- | [.links](../links/fog0000000097.html) 
- | [.blog](../blogIndex.html) 
- | [.home](../Home.html) 
 
 
 
@@ -46,7 +40,6 @@ Recently, Gibson also wrote a brilliant article for Wired magazine, about [Singa
 
 Another book by Gibson is [Agrippa - A book of the dead](fog0000000031.html) which is actually a poem. But more interesting than the book itself, is [how it was made](fog0000000032.html).
 
->
 
 
 

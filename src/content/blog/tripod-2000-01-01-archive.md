@@ -6,12 +6,6 @@ category: "blog"
 original_file: "/blog/general/Archive.html"
 ---
 
-| [.portfolio](../../Portfolio.html) 
- | [.writings](../../writings/fog0000000017.html) 
- | [.bio](../../bio/fog0000000019.html) 
- | [.links](../../links/fog0000000097.html) 
- | [.blog](../../blogIndex.html) 
- | [.home](../../Home.html) 
 
      
 
@@ -44,7 +38,6 @@ original_file: "/blog/general/Archive.html"
 
 What follows are archives for months in the past:
 
->
 
  [December 2003](../archives/December2003.html)
 
