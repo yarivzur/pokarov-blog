@@ -1,9 +1,9 @@
 ---
-title: 'דו"ח הישרדות, 14.2.2008'
-pubDate: "2008-02-14"
-source: "bitterness"
+title: "דו\"ח הישרדות, 14.2.2008"
+pubDate: "2008-02-14T13:54:36"
+source: "bitterness-inc"
+category: "Bitterness Inc"
 original_id: 122
-slug: "survivor-15"
 ---
 
 הפי ולנטיינז דיי! במיוחד לעידן שהגעגועים למושיק גורמים לו לעמוד לבד ולהתייפח מתחת לזרם המים השוצף כמו אחרונת סצינות הבחורה המתייפחת במקלחת. 
@@ -18,4 +18,4 @@ slug: "survivor-15"
 
  
 
-[](http://www.flickr.com/photos/7777143@N06/2264177983/)
+[![image](http://static.flickr.com/2204/2264177983_f591a650fe.jpg)](http://www.flickr.com/photos/7777143@N06/2264177983/)

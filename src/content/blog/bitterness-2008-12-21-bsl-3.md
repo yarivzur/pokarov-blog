@@ -1,9 +1,9 @@
 ---
 title: "בטח שמתם לב ש…"
-pubDate: "2008-12-21"
-source: "bitterness"
+pubDate: "2008-12-21T00:28:54"
+source: "bitterness-inc"
+category: "Bitterness Inc"
 original_id: 151
-slug: "bsl-3"
 ---
 
 -  העונה החדשה של “יס” הגיעה והמקס לא עומד בעומס. דקסטר, קוראים לי ארל, גיבורים (בשבוע הבא), דספרט, איש משפחה ועוד רבים וטובים. 

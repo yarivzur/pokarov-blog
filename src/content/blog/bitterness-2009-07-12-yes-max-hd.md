@@ -1,9 +1,9 @@
 ---
 title: "פרופסור מקס"
-pubDate: "2009-07-12"
-source: "bitterness"
+pubDate: "2009-07-12T12:03:08"
+source: "bitterness-inc"
+category: "Bitterness Inc"
 original_id: 225
-slug: "yes-max-hd"
 ---
 
 דבר ראשון, גילוי נאות: לפני כמה שבועות פנו אליי (דרך טוויטר) מיחסי הציבור של יס, והציעו לי לקבל יס מקס HD לחודשיים ניסיון, כולל כל הערוצים הרלוונטיים בתמורה לזה שאכתוב על זה בבלוג. חשוב להבהיר – בשום שלב לא נאמר לי מה לכתוב, איך לכתוב ולמה לכתוב. ביקורת כנה ומנומקת היא כל מה שנדרש. זה יהיה לגיטימי מצד ששת קוראיי הבלוג להתעלם לחלוטין מהפוסט ולהגיד שמכרתי את עצמי בזול. מצד שני – יש לי יס מקס HD אז לכו לנענע.  
@@ -16,7 +16,7 @@ slug: "yes-max-hd"
 
    
 
-[](http://blog.pokarov.com/wp-content/uploads/2009/07/DSCF9440.jpg)   
+[![image](http://blog.pokarov.com/wp-content/uploads/2009/07/DSCF9440_thumb.jpg)](http://blog.pokarov.com/wp-content/uploads/2009/07/DSCF9440.jpg)   
 
 יס מקס HD בפעולה (הכבשים לא כלולות במבצע)    
 

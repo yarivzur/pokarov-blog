@@ -1,16 +1,16 @@
 ---
 title: "Microsoft is Dead"
-pubDate: "2007-04-11"
-source: "bitterness"
+pubDate: "2007-04-11T08:52:08"
+source: "bitterness-inc"
+category: "Bitterness Inc"
 original_id: 46
-slug: "microsoft-is-dead"
 ---
 
 אחד הדיונים החמים יותר בבלוגוספירה בימים אלו נסוב סביב מאמר של [פול גרהאם](http://www.paulgraham.com/microsoft.html). במאמר הוא קובע שמיקרוסופט מתה. נכון שמדובר בפרובוקציה זולה (ואפקטיבית), אבל כמה מהטענות שלו שוות התייחסות: 
 
 1. רק סבתות משתמשות ב- windows. כל המאאאגניבים עברו מזמן למק. יש את הסצינה ב" Legally Blonde" החביב בו כל תלמידי המשפטים החננות בהרווארד מגיעים עם ה- Thinkpad השחור הסטנדרטי, ורק ריס ווית'רספון מגיעה עם המק הורוד המפונפן. כמובן שאצלנו בארץ לא מרגישים את המגמה במלוא עוצמתה בגלל בעיות התמיכה בעברית של המק (ככה שמעתי, לפחות) 
 
-[](http://www.flickr.com/photos/7777143@N06/454994328/) 
+[![image](http://static.flickr.com/217/454994328_9fe1d5b75a.jpg)](http://www.flickr.com/photos/7777143@N06/454994328/) 
 
   
 

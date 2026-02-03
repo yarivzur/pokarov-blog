@@ -1,9 +1,9 @@
 ---
 title: "דו”ח הישרדות – 25.12.2008 / “מגדל אננס, רעות”"
-pubDate: "2008-12-25"
-source: "bitterness"
+pubDate: "2008-12-25T11:17:18"
+source: "bitterness-inc"
+category: "Bitterness Inc"
 original_id: 164
-slug: "survivor2"
 ---
 
 נו. בשעה טובה חזרה לחיינו “הישרדות”. אחרי הזוועה של “האח הגדול” (אני מאוד מקווה שכל פעם שארז ואסי יסתכלו במראה הם יראו את הראיון של עינב בובליל ב”פנאי פלוס” מצד אחד ואת ליאון מתפרק מצד שני), סוף סוף אפשר לחזור לריאליטי כמו שצריך. יחד עם “הישרדות גבון” האמריקאי שרץ לנו במקביל, אפשר לומר שהחיים לא רעים.  
@@ -14,7 +14,7 @@ slug: "survivor2"
 
 ציטוט השבוע: “מיכל נראית כאילו היא בדרך לעוד לקוח מרוצה” / אירית  
 
-[](http://israblog.nana10.co.il/blogread.asp?blog=600833)   
+[![image](http://f.nau.co.il/upload/Xternal/IsraBlog/33/08/60/600833/posts/17500840.jpg)](http://israblog.nana10.co.il/blogread.asp?blog=600833)   
 
      
 

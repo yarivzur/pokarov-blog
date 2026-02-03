@@ -1,9 +1,9 @@
 ---
-title: 'דו"ח הישרדות, 10.2.2008'
-pubDate: "2008-02-10"
-source: "bitterness"
+title: "דו\"ח הישרדות, 10.2.2008"
+pubDate: "2008-02-10T11:28:28"
+source: "bitterness-inc"
+category: "Bitterness Inc"
 original_id: 121
-slug: "survivor-14"
 ---
 
 והפעם - **דן, יזע ודמעות** 

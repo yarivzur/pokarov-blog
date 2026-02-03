@@ -4,10 +4,14 @@ import BlogPost from '../../layouts/BlogPost.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
-  return posts.map((post) => ({
-params: { slug: encodeURIComponent(post.id) },
-    props: post,
-  }));
+
+  return posts.flatMap((post) => ([
+    // canonical
+    { params: { slug: post.id }, props: post },
+
+    // legacy links that include ".md"
+    { params: { slug: `${post.id}.md` }, props: post },
+  ]));
 }
 
 type Props = CollectionEntry<'blog'>;

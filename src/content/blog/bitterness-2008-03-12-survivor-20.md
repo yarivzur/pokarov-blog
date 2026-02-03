@@ -1,9 +1,9 @@
 ---
-title: 'דו"ח הישרדות, 12.3.2008'
-pubDate: "2008-03-12"
-source: "bitterness"
+title: "דו\"ח הישרדות, 12.3.2008"
+pubDate: "2008-03-12T14:36:42"
+source: "bitterness-inc"
+category: "Bitterness Inc"
 original_id: 128
-slug: "survivor-20"
 ---
 
 חדי העין שבין קוראינו (וקוראותינו) הבחינו שביום ראשון לא היה דו"ח. אכן. שילוב של צינון קשה ונסיעה דחופה לאמסטרדם גרם להשבתה כללית של כותב הבלוג. שבתי מאמסטרדם (תודה ללופטהנזה שהצליחו לאחר בארבע מתוך ארבע טיסות, לפספס לי את הקונקשן וכו') חולה הרבה יותר וכל נסיון שלי לדבר נשמע כמו דארת' ויידר. 
@@ -18,6 +18,6 @@ slug: "survivor-20"
 
  
 
-  
+![image](http://www.afana.org/images/macbeth3.jpg)  
 
 (נעמה, מרינה ורוחה של ליה) Technorati tags: [הישרדות](http://technorati.com/tags/%d7%94%d7%99%d7%a9%d7%a8%d7%93%d7%95%d7%aa), [ערוץ 10](http://technorati.com/tags/%d7%a2%d7%a8%d7%95%d7%a5%2010), [Survivor](http://technorati.com/tags/Survivor), [TV](http://technorati.com/tags/TV)

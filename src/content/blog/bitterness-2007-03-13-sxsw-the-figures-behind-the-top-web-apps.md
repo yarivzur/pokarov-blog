@@ -1,9 +1,9 @@
 ---
 title: "SXSW: The Figures Behind The Top Web Apps"
-pubDate: "2007-03-13"
-source: "bitterness"
+pubDate: "2007-03-13T09:55:47"
+source: "bitterness-inc"
+category: "Bitterness Inc"
 original_id: 20
-slug: "sxsw-the-figures-behind-the-top-web-apps"
 ---
 
 בפסטיבל SXSW שנערך בימים אלו באוסטין, טקסס (ססססאמק, למה אותי אף אחד לא שולח למקומות האלו?) אחד הסשנים היותר מעניינים בעיניי (בתור עוקב מרחוק) היה סשן שבו ניתחו עלויות של חמישה אתרים מצליחים (יחסית). את המצגת המלאה אפשר למצוא [כאן](http://www.carsonified.com/sxsw.pdf), אבל אני אנסה לסכם: 

@@ -1,9 +1,9 @@
 ---
 title: "Prom Queen"
-pubDate: "2007-04-04"
-source: "bitterness"
+pubDate: "2007-04-04T13:05:42"
+source: "bitterness-inc"
+category: "Bitterness Inc"
 original_id: 41
-slug: "prom-queen"
 ---
 
 נו, כבר התחברתם ל- PQ?  

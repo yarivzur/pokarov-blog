@@ -1,9 +1,9 @@
 ---
 title: "קסם בוהדנה"
-pubDate: "2009-06-10"
-source: "bitterness"
+pubDate: "2009-06-10T16:30:17"
+source: "bitterness-inc"
+category: "Bitterness Inc"
 original_id: 214
-slug: "polishuk"
 ---
 
 הסדרה הכי טובה היום בטלוויזיה שאתם לא רואים (בהנחה שאתם רואים “הפמליה” באדיקות) היא “פולישוק”. באמת. היא סובלת משיבוץ בלתי אפשרי ולא מעט מגרעות ועדיין – היא פשוט מעולה.   
@@ -12,7 +12,7 @@ slug: "polishuk"
 
    
 
-   
+![image](http://img.mako.co.il/2009/05/13/polishuk04_B.jpg)   
 
    
 

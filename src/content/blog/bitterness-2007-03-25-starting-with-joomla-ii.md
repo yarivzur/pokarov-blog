@@ -1,9 +1,9 @@
 ---
 title: "Starting with Joomla - II"
-pubDate: "2007-03-25"
-source: "bitterness"
+pubDate: "2007-03-25T01:30:45"
+source: "bitterness-inc"
+category: "Bitterness Inc"
 original_id: 31
-slug: "starting-with-joomla-ii"
 ---
 
 יש שתי דרכים עיקריות להתקין ג'ומלה - הדרך הקלה, והדרך הקלה מאוד. נתחיל בדרך הקלה מאוד - אם אתם מאוחסנים בספק טוב (הבלוג הזה יושב על [Dreamhost](http://www.dreamhost.com/r.cgi?283200) המצוינים, אבל ממה שראיתי גם GoDaddy נותנים שרות דומה), אז אתם מקבלים One-click installation לג'ומלה. כל מה שאתם צריכים לעשות זה לתת את שם האתר, לבחור משתמש וססמא ל- Database (כדאי לרשום) ותוך 10 דקות מגיע אי-מייל בסגנון הבא: 
@@ -23,7 +23,7 @@ as well as the official forums here:
 Thanks!
 The Happy DreamHost Installer Robot 
 
- 
+![image](http://static.flickr.com/151/430119275_5fd80c9af6.jpg) 
 
 כמו שאפשר להבין, מדובר בסדרת צעדים קטנה וחביבה שאחריה, הפלא ופלא, יש לכם אתר ג'ומלה רץ. אתם מוזמנים להכנס ולהתחיל לשחק (עוד בהמשך) 
 
