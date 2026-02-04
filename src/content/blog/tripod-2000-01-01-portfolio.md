@@ -31,7 +31,7 @@ original_file: "/Portfolio.html"
 
 
 
-[BuyPass - Self-Scanning Self-Checking shopping carts](BuyPass/BuyPass.html)
+[BuyPass - Self-Scanning Self-Checking shopping carts](/p/buypass_overview/)
 
 [Blazer Magazine](writings/Blazer-2.html)
 

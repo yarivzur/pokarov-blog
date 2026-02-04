@@ -6,30 +6,9 @@ category: "archive"
 original_file: "/BuyPass/BuyPass.html"
 ---
 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![BuyPass logo](/p/buypass/bplogo.jpg)
 
 **Thu, 02 January 2003**
-
- 
-
-
- 
 
 Alas, BuyPass Systems ceased to exist as a live company which develops one of the most nifty products I had the pleasure to work on. While the company still exists (with a CEO), all the employees were dismissed and all development halted. As a token memorial, Follows contact list…
 

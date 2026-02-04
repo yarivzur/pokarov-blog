@@ -34,7 +34,7 @@ So, being in sound mind, and flabby body, young vlvl joined the [Army](http://ww
 
 ...It was a cold January day, aye, with the winds blowin' and the rain pouring down like there be no tommorow... Nope. Not in Israel. The day in January in which vlvl left the Army was, as are 360 days of the year, [hot and humid](http://www.weather.co.il). After leaving the army, He started his undergrad degree in [Tel-Aviv University](http://www.tau.ac.il/), majoring in Psychology, and Computer Science. Since food was scarce, and beer costs much these days, he started working in [Aladdin Knowledge Systems](http://www.aks.com), a fine company with the world's most boring products. At a certain point in the time/space continuum he got fed up, and joined the young start-up company [uTOK](../uTOK/fog0000000045.html).
 
-Alas, at a certain point, uTOK, like [most start-up companies](http://www.koldoon.com/frcl_list.asp?a=8) in the world, went under, So our forlorn hero was forced to start searching for yet another place of employment. After a while, he found his calling in [Buypass Systems](../BuyPass/BuyPass.html). Which surprsingly enough, went under a year after he joined it. Do we see a pattern emeging here?
+Alas, at a certain point, uTOK, like [most start-up companies](http://www.koldoon.com/frcl_list.asp?a=8) in the world, went under, So our forlorn hero was forced to start searching for yet another place of employment. After a while, he found his calling in [Buypass Systems](/p/buypass_overview/). Which surprsingly enough, went under a year after he joined it. Do we see a pattern emeging here?
 
 For the past years, he rekindled his love for writing, a flame the army went to some length to wipe out, and some of his ramblings can be found in the [writings](../writings/fog0000000017.html) section of this site.
 
@@ -55,7 +55,7 @@ Want to see some family photos? click [here](http://vlvl_media.tripod.com/family
 
 **Memorial Pages**
 [uTOK Page](../uTOK/fog0000000045.html)
-[BuyPass Page](../BuyPass/BuyPass.html)
+[BuyPass Page](/p/buypass_overview/)
 
 For those of you eager for a proper resume:
 
