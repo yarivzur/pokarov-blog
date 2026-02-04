@@ -1,32 +1,41 @@
 ---
-import BaseHead from "../components/BaseHead.astro";
-import Header from "../components/Header.astro";
-import Footer from "../components/Footer.astro";
+import Layout from "./Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
 
 type Props = {
   title?: string;
   description?: string;
   lang?: string;
-  dir?: "ltr" | "rtl";
+  dir?: "ltr" | "rtl" | "auto";
+  ogImage?: string;
+  pubDatetime?: Date;
+  modDatetime?: Date | null;
 };
 
 const {
-  title = undefined,
-  description = undefined,
+  title,
+  description,
   lang = "en",
   dir = "ltr",
+  ogImage,
+  pubDatetime,
+  modDatetime,
 } = Astro.props;
 ---
 
-<html lang={lang} dir={dir}>
-  <head>
-    <BaseHead title={title} description={description} />
-  </head>
-  <body>
-    <Header />
-    <main>
-      <slot />
-    </main>
-    <Footer />
-  </body>
-</html>
+<Layout
+  title={title}
+  description={description}
+  lang={lang}
+  dir={dir}
+  ogImage={ogImage}
+  pubDatetime={pubDatetime}
+  modDatetime={modDatetime}
+>
+  <Header />
+  <main class="app-layout flex-1 py-8">
+    <slot />
+  </main>
+  <Footer />
+</Layout>

@@ -1,99 +1,157 @@
 ---
-import { Image } from 'astro:assets';
-import type { CollectionEntry } from 'astro:content';
-import FormattedDate from '../components/FormattedDate.astro';
-import BaseLayout from "./BaseLayout.astro";
+import { Image } from "astro:assets";
+import type { CollectionEntry } from "astro:content";
+import Layout from "./Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import FormattedDate from "@/components/FormattedDate.astro";
+import { getDirectionAndLang } from "@/utils/rtl";
+import { getPubDatetime, getModDatetime, getTags } from "@/utils/postAdapter";
+import { SITE } from "@/config";
 
-type Props = CollectionEntry<'blog'>['data'];
+type Props = CollectionEntry<"blog">["data"] & {
+  // Allow passing the full post for adapter functions
+  post?: CollectionEntry<"blog">;
+};
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const props = Astro.props;
+const { title, description, heroImage, category } = props;
 
-const isHebrew = /[\u0590-\u05FF]/.test(title);
-const pageDir = isHebrew ? "rtl" : "ltr";
-const pageLang = isHebrew ? "he" : "en";
+// Use adapter to get dates
+const pubDate = props.pubDatetime ?? props.pubDate;
+const updatedDate = props.modDatetime ?? props.updatedDate;
 
+// Auto-detect RTL from title
+const { dir: pageDir, lang: pageLang } = getDirectionAndLang(title);
+
+// Get tags from category if not provided
+const tags = props.tags ?? (category ? [category] : []);
 ---
 
-<BaseLayout title={title} description={description} lang={pageLang} dir={pageDir}>
-			<article class="post">
-				<div class="hero-image">
-					{heroImage && <Image width={1020} height={510} src={heroImage} alt="" />}
-				</div>
-				<div class="prose">
-					<div class="title">
-						<div class="date">
-							<FormattedDate date={pubDate} />
-							{
-								updatedDate && (
-									<div class="last-updated-on">
-										Last updated on <FormattedDate date={updatedDate} />
-									</div>
-								)
-							}
-						</div>
-						<h1>{title}</h1>
-						<hr />
-					</div>
-					<slot />
-				</div>
-			</article>
+<Layout
+  title={`${title} | ${SITE.title}`}
+  description={description}
+  lang={pageLang}
+  dir={pageDir}
+  pubDatetime={pubDate}
+  modDatetime={updatedDate}
+>
+  <Header />
 
+  <main class="app-layout flex-1 py-8">
+    <article class="post">
+      {heroImage && (
+        <div class="hero-image mb-8">
+          <Image
+            width={1020}
+            height={510}
+            src={heroImage}
+            alt=""
+            class="w-full rounded-lg"
+          />
+        </div>
+      )}
 
-	<style>
-			main {
-				width: calc(100% - 2em);
-				max-width: 100%;
-				margin: 0;
-			}
-			.hero-image {
-				width: 100%;
-			}
-			.hero-image img {
-				display: block;
-				margin: 0 auto;
-				border-radius: 12px;
-				box-shadow: var(--box-shadow);
-			}
-			.prose {
-				width: 720px;
-				max-width: calc(100% - 2em);
-				margin: auto;
-				padding: 1em;
-				color: rgb(var(--gray-dark));
-			}
-			.title {
-				margin-bottom: 1em;
-				padding: 1em 0;
-				text-align: center;
-				line-height: 1;
-			}
-			.title h1 {
-				margin: 0 0 0.5em 0;
-			}
-			.date {
-				margin-bottom: 0.5em;
-				color: rgb(var(--gray));
-			}
-			.last-updated-on {
-				font-style: italic;
-			}
-			.post {
-  text-align: start;
-}
+      <div class="prose max-w-none">
+        <header class="post-header mb-8 border-b border-border pb-6">
+          <div class="meta mb-4 text-sm text-foreground/70">
+            <FormattedDate date={pubDate} />
+            {updatedDate && (
+              <span class="ml-4">
+                (Updated: <FormattedDate date={updatedDate} />)
+              </span>
+            )}
+          </div>
 
-.post .title,
-.post h1 {
-  direction: inherit;
-  unicode-bidi: plaintext;
-  text-align: start;
-}
+          <h1 class="post-title text-3xl font-bold leading-tight sm:text-4xl" dir="auto">
+            {title}
+          </h1>
 
-/* Apply bidi + alignment to actual rendered markdown elements */
-.post .prose :where(p, li, blockquote, h2, h3, h4, h5, h6) {
-  direction: inherit;
-  unicode-bidi: plaintext;
-  text-align: start;
-}
-		</style>
-	
-</BaseLayout>
+          {tags.length > 0 && (
+            <div class="tags mt-4 flex flex-wrap gap-2">
+              {tags.map((tag) => (
+                <a
+                  href={`/blog/?category=${encodeURIComponent(tag)}`}
+                  class="tag rounded-full bg-muted px-3 py-1 text-sm no-underline hover:bg-accent hover:text-background"
+                  dir="auto"
+                >
+                  {tag}
+                </a>
+              ))}
+            </div>
+          )}
+        </header>
+
+        <div class="post-content" dir="auto">
+          <slot />
+        </div>
+      </div>
+    </article>
+
+    <nav class="post-nav mt-12 border-t border-border pt-6">
+      <a href="/blog" class="back-link text-accent hover:underline">
+        ← Back to all posts
+      </a>
+    </nav>
+  </main>
+
+  <Footer />
+</Layout>
+
+<style>
+  .post {
+    text-align: start;
+  }
+
+  .post-title,
+  .post-content {
+    direction: inherit;
+    unicode-bidi: plaintext;
+    text-align: start;
+  }
+
+  /* Apply bidi to rendered markdown elements */
+  .post-content :global(p),
+  .post-content :global(li),
+  .post-content :global(blockquote),
+  .post-content :global(h2),
+  .post-content :global(h3),
+  .post-content :global(h4),
+  .post-content :global(h5),
+  .post-content :global(h6) {
+    direction: inherit;
+    unicode-bidi: plaintext;
+    text-align: start;
+  }
+
+  /* Keep code readable even inside RTL content */
+  .post-content :global(pre),
+  .post-content :global(code) {
+    direction: ltr;
+    unicode-bidi: isolate;
+    text-align: left;
+  }
+
+  /* RTL blockquote styling */
+  [dir="rtl"] .post-content :global(blockquote) {
+    border-left: none;
+    border-right: 4px solid var(--accent);
+    padding-left: 0;
+    padding-right: 20px;
+  }
+
+  .hero-image :global(img) {
+    display: block;
+    margin: 0 auto;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(var(--gray), 25%);
+  }
+
+  .meta {
+    color: rgb(var(--gray));
+  }
+
+  .tag {
+    transition: all 0.2s ease;
+  }
+</style>

@@ -1,25 +1,35 @@
 ---
 import { getCollection, render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
-import BaseLayout from "../../layouts/BaseLayout.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getDirectionAndLang } from "@/utils/rtl";
+import { SITE } from "@/config";
 
 export async function getStaticPaths() {
   const pages = await getCollection("pages");
 
   return pages.map((p) => ({
-    params: { slug: p.id },     // ✅ string, not array
+    params: { slug: p.id },
     props: p,
   }));
 }
 
 const page = Astro.props as CollectionEntry<"pages">;
 const { Content } = await render(page);
+
+// Auto-detect RTL from title if available
+const title = page.data.title || "Page";
+const { dir, lang } = getDirectionAndLang(title);
 ---
 
-<BaseLayout>
-  <main>
-    <article class="prose" dir="auto">
-      <Content />
-    </article>
-  </main>
+<BaseLayout
+  title={`${title} | ${SITE.title}`}
+  description={page.data.description}
+  lang={lang}
+  dir={dir}
+>
+  <article class="prose max-w-none" dir="auto">
+    {page.data.title && <h1 dir="auto">{page.data.title}</h1>}
+    <Content />
+  </article>
 </BaseLayout>

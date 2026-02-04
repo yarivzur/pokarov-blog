@@ -1,301 +1,198 @@
 ---
-import { Image } from 'astro:assets';
-import { getCollection } from 'astro:content';
-import FormattedDate from '../../components/FormattedDate.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
-import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import FormattedDate from "@/components/FormattedDate.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { SITE } from "@/config";
+import { getSortedPosts, getUniqueCategories, getPostsByYear } from "@/utils/postAdapter";
 
-const posts = (await getCollection('blog')).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
-);
-
-const postsByYear = posts.reduce((acc, post) => {
-  const y = post.data.pubDate.getFullYear();
-  (acc[y] ??= []).push(post);
-  return acc;
-}, /** @type {Record<number, typeof posts>} */ ({}));
-
-const years = Object.keys(postsByYear)
-  .map(Number)
-  .sort((a, b) => b - a);
-
-const categories = Array.from(
-  new Set(posts.map((p) => p.data.category).filter(Boolean))
-).sort((a, b) => a.localeCompare(b));
-
+const posts = await getCollection("blog");
+const sortedPosts = getSortedPosts(posts);
+const postsByYear = getPostsByYear(sortedPosts);
+const years = Object.keys(postsByYear).map(Number).sort((a, b) => b - a);
+const categories = getUniqueCategories(sortedPosts);
 ---
 
-<BaseLayout title={`${SITE_TITLE} — Blog`} description={SITE_DESCRIPTION} lang="en" dir="ltr">
-		<main>
-			<section>
-			<div class="filters" dir="ltr">
-  <div class="search">
-    <input id="postSearch" type="search" placeholder="Search posts…" autocomplete="off" />
-  </div>
+<BaseLayout title={`Blog | ${SITE.title}`} description={SITE.desc} lang="en" dir="ltr">
+  <section>
+    <h1 class="text-3xl font-bold mb-6">Blog</h1>
 
-  {categories.length > 0 && (
-    <div class="chips" aria-label="Filter by category">
-      <button class="chip is-active" type="button" data-category="">All</button>
-      {categories.map((c) => (
-        <button class="chip" type="button" data-category={c} dir="auto">{c}</button>
-      ))}
+    <div class="filters mb-8 space-y-4" dir="ltr">
+      <!-- Search -->
+      <div class="search">
+        <input
+          id="postSearch"
+          type="search"
+          placeholder="Search posts..."
+          autocomplete="off"
+          class="w-full max-w-md rounded-lg border border-border bg-background px-4 py-2 focus:border-accent focus:outline-none"
+        />
+      </div>
+
+      <!-- Category chips -->
+      {categories.length > 0 && (
+        <div class="chips flex flex-wrap gap-2" aria-label="Filter by category">
+          <button
+            class="chip is-active rounded-full border border-border px-3 py-1 text-sm transition-colors hover:border-accent"
+            type="button"
+            data-category=""
+          >
+            All
+          </button>
+          {categories.map((c) => (
+            <button
+              class="chip rounded-full border border-border px-3 py-1 text-sm transition-colors hover:border-accent"
+              type="button"
+              data-category={c}
+              dir="auto"
+            >
+              {c}
+            </button>
+          ))}
+        </div>
+      )}
+
+      <!-- Meta -->
+      <div class="meta flex items-center gap-3 text-sm text-foreground/70">
+        <span><span id="resultCount">{sortedPosts.length}</span> posts</span>
+        <button id="clearFilters" class="text-accent hover:underline" type="button">
+          Clear filters
+        </button>
+      </div>
     </div>
-  )}
 
-  <div class="meta">
-    <span id="resultCount">{posts.length}</span> posts
-    <button id="clearFilters" class="clear" type="button">Clear</button>
-  </div>
-</div>
-				
-				{years.map((year) => (
-  <div class="year-group" data-year={year}>
-    <h3 class="year-title">{year}</h3>
-    <ul>
-      {postsByYear[year].map((post) => (
-        <li
-          dir="auto"
-          data-category={post.data.category ?? ""}
-          data-search={`${post.data.title ?? ""} ${post.data.description ?? ""}`.toLowerCase()}
-        >
-          <a href={`/blog/${encodeURIComponent(post.id)}/`}>
-            {post.data.heroImage && (
-              <Image width={720} height={360} src={post.data.heroImage} alt="" />
-            )}
-            <h4 class="title" dir="auto">{post.data.title}</h4>
-            <p class="date"><FormattedDate date={post.data.pubDate} /></p>
-            {post.data.description && <p class="desc" dir="auto">{post.data.description}</p>}
-          </a>
-        </li>
-      ))}
-    </ul>
-  </div>
-))}
+    <!-- Posts by year -->
+    {years.map((year) => (
+      <div class="year-group border-t border-border pt-4 mb-8" data-year={year}>
+        <h2 class="year-title text-sm font-semibold uppercase tracking-wider text-foreground/60 mb-4">
+          {year}
+        </h2>
+        <ul class="space-y-4">
+          {postsByYear[year].map((post) => (
+            <li
+              dir="auto"
+              data-category={post.data.category ?? ""}
+              data-tags={post.data.tags?.join(",") ?? ""}
+              data-search={`${post.data.title ?? ""} ${post.data.description ?? ""}`.toLowerCase()}
+              class="flex items-start gap-4 py-2 transition-opacity"
+            >
+              <time
+                datetime={post.data.pubDate.toISOString()}
+                class="shrink-0 text-sm text-foreground/60 w-24"
+              >
+                {post.data.pubDate.toLocaleDateString("en-US", {
+                  month: "short",
+                  day: "2-digit",
+                })}
+              </time>
+              <div class="flex-1 min-w-0">
+                <a
+                  href={`/blog/${encodeURIComponent(post.id)}/`}
+                  class="font-medium hover:text-accent transition-colors"
+                  dir="auto"
+                >
+                  {post.data.title}
+                </a>
+                {post.data.category && (
+                  <span class="ml-2 text-xs text-foreground/50" dir="auto">
+                    [{post.data.category}]
+                  </span>
+                )}
+                {post.data.description && (
+                  <p class="mt-1 text-sm text-foreground/70 line-clamp-2" dir="auto">
+                    {post.data.description}
+                  </p>
+                )}
+              </div>
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </section>
+</BaseLayout>
 
-
-			</section>
-		</main>
-
-		<style>
-			main {
-				width: 960px;
-			}
-			.filters {
-  display: grid;
-  gap: 0.75rem;
-  margin: 1rem 0 1.25rem;
-}
-
-.search input {
-  width: 100%;
-  max-width: 520px;
-  padding: 0.65rem 0.8rem;
-  border: 1px solid rgba(var(--gray), 35%);
-  border-radius: 12px;
-  background: white;
-  color: rgb(var(--black));
-}
-
-.chips {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-.chip {
-  border: 1px solid rgba(var(--gray), 35%);
-  border-radius: 999px;
-  padding: 0.35rem 0.7rem;
-  background: white;
-  cursor: pointer;
-  font-size: 0.95rem;
-}
-
-.chip.is-active {
-  border-color: rgb(var(--accent));
-  color: rgb(var(--accent));
-}
-
-.meta {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  color: rgb(var(--gray));
-}
-
-.clear {
-  border: 0;
-  background: transparent;
-  color: rgb(var(--accent));
-  cursor: pointer;
-  padding: 0;
-}
-
-			ul {
-				display: flex;
-				flex-wrap: wrap;
-				gap: 2rem;
-				list-style-type: none;
-				margin: 0;
-				padding: 0;
-			}
-			ul li {
-				width: calc(50% - 1rem);
-			}
-			ul li * {
-				text-decoration: none;
-				transition: 0.2s ease;
-			}
-			ul li:first-child {
-				width: 100%;
-				margin-bottom: 1rem;
-				text-align: center;
-			}
-			ul li:first-child img {
-				width: 100%;
-			}
-			ul li:first-child .title {
-				font-size: 2.369rem;
-			}
-			ul li img {
-				margin-bottom: 0.5rem;
-				border-radius: 12px;
-			}
-			ul li a {
-				display: block;
-			}
-			.title {
-				margin: 0;
-				color: rgb(var(--black));
-				line-height: 1;
-			}
-			.date {
-				margin: 0;
-				color: rgb(var(--gray));
-			}
-			ul li a:hover h4,
-			ul li a:hover .date {
-				color: rgb(var(--accent));
-			}
-			ul a:hover img {
-				box-shadow: var(--box-shadow);
-			}
-			@media (max-width: 720px) {
-				ul {
-					gap: 0.5em;
-				}
-				ul li {
-					width: 100%;
-					text-align: center;
-				}
-				ul li:first-child {
-					margin-bottom: 0;
-				}
-				ul li:first-child .title {
-					font-size: 1.563em;
-				}
-			}
-
-		ul li a {
-  padding: 0.75rem;
-  border-radius: 14px;
-}
-
-ul li a:hover {
-  background: rgba(var(--gray), 6%);
-}
-
-.year-title {
-  margin: 1.5rem 0 0.75rem;
-  font-size: 0.95rem;
-  font-weight: 700;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: rgb(var(--gray-dark));
-  opacity: 0.75;
-}
-
-.year-group {
-  padding-top: 0.25rem;
-  border-top: 1px solid rgba(var(--gray), 18%);
-}
-
-.year-group:first-child {
-  border-top: 0;
-  padding-top: 0;
-}
-
-.desc {
-  margin: 0.35rem 0 0;
-  color: rgb(var(--gray-dark));
-  line-height: 1.35;
-  opacity: 0.9;
-}
-
-		</style>
+<style>
+  .chip.is-active {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+</style>
 
 <script>
-  const searchEl = document.getElementById("postSearch");
+  const searchEl = document.getElementById("postSearch") as HTMLInputElement | null;
   const chips = Array.from(document.querySelectorAll(".chip"));
   const clearBtn = document.getElementById("clearFilters");
   const countEl = document.getElementById("resultCount");
-	const items = Array.from(document.querySelectorAll(".year-group li"));
-	const yearGroups = Array.from(document.querySelectorAll(".year-group"));
+  const items = Array.from(document.querySelectorAll(".year-group li"));
+  const yearGroups = Array.from(document.querySelectorAll(".year-group"));
   let activeCategory = "";
 
-  function normalize(s) {
-    return (s || "")
-      .toLowerCase()
-      .replace(/\s+/g, " ")
-      .trim();
+  // Check URL for initial category filter
+  const urlParams = new URLSearchParams(window.location.search);
+  const initialCategory = urlParams.get("category") || "";
+  if (initialCategory) {
+    activeCategory = initialCategory;
   }
 
-  function apply() {
-    const q = normalize(searchEl?.value);
+  function normalize(s: string): string {
+    return (s || "").toLowerCase().replace(/\s+/g, " ").trim();
+  }
+
+  function apply(): void {
+    const q = normalize(searchEl?.value || "");
     let visible = 0;
 
     for (const li of items) {
       const cat = li.getAttribute("data-category") || "";
+      const tags = li.getAttribute("data-tags") || "";
       const hay = li.getAttribute("data-search") || "";
 
-      const matchCat = !activeCategory || cat === activeCategory;
+      const matchCat = !activeCategory || cat === activeCategory || tags.includes(activeCategory);
       const matchQ = !q || hay.includes(q);
 
       const show = matchCat && matchQ;
-      li.style.display = show ? "" : "none";
+      (li as HTMLElement).style.display = show ? "" : "none";
       if (show) visible += 1;
     }
 
     if (countEl) countEl.textContent = String(visible);
 
-		for (const g of yearGroups) {
-  		const anyVisible = g.querySelectorAll('li:not([style*="display: none"])').length > 0;
-  		g.style.display = anyVisible ? "" : "none";
-}
+    for (const g of yearGroups) {
+      const anyVisible = (g as HTMLElement).querySelectorAll('li:not([style*="display: none"])').length > 0;
+      (g as HTMLElement).style.display = anyVisible ? "" : "none";
+    }
   }
 
-  function setActiveChip() {
+  function setActiveChip(): void {
     for (const btn of chips) {
-      const isActive = (btn.dataset.category || "") === activeCategory;
+      const isActive = (btn as HTMLElement).dataset.category === activeCategory;
       btn.classList.toggle("is-active", isActive);
     }
   }
 
-  // chip clicks
+  // Chip clicks
   for (const btn of chips) {
     btn.addEventListener("click", () => {
-      activeCategory = btn.dataset.category || "";
+      activeCategory = (btn as HTMLElement).dataset.category || "";
       setActiveChip();
       apply();
+      // Update URL
+      const url = new URL(window.location.href);
+      if (activeCategory) {
+        url.searchParams.set("category", activeCategory);
+      } else {
+        url.searchParams.delete("category");
+      }
+      window.history.replaceState({}, "", url.toString());
     });
   }
 
-  // search typing
+  // Search typing
   if (searchEl) {
     searchEl.addEventListener("input", apply);
   }
 
-  // clear
+  // Clear
   if (clearBtn) {
     clearBtn.addEventListener("click", () => {
       activeCategory = "";
@@ -303,12 +200,14 @@ ul li a:hover {
       setActiveChip();
       apply();
       searchEl?.focus?.();
+      // Clear URL params
+      const url = new URL(window.location.href);
+      url.searchParams.delete("category");
+      window.history.replaceState({}, "", url.toString());
     });
   }
 
-  // initial state
+  // Initial state
   setActiveChip();
   apply();
 </script>
-
-		</BaseLayout>

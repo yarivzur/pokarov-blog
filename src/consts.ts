@@ -1,5 +1,5 @@
-// Place any global data in this file.
-// You can import this data from anywhere in your site by using the `import` keyword.
+// Re-export from config for backwards compatibility
+import { SITE } from "./config";
 
-export const SITE_TITLE = 'Bitterness Inc.';
-export const SITE_DESCRIPTION = 'כתיבה אישית מאת יריב צור - טלוויזיה, ספורט, טכנולוגיה ומה שביניהם';
+export const SITE_TITLE = SITE.title;
+export const SITE_DESCRIPTION = SITE.desc;
