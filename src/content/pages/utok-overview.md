@@ -10,16 +10,6 @@ original_file: "/PF/utok_overview.html"
 
 [Overview](/p/utok-overview/) · [Awards & Press](/p/utok_awards/) · [User Reviews](/p/utok_user/) · [Docs & Papers](/p/utok_papers/) · [Links](/p/utok_links/)
 
----
-
-**uTOK — Asynchronous group collaboration**
-
-
----
-
-**
-
-**uTOK — Asynchronous group collaboration**
 
 
 ---
