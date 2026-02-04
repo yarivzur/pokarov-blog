@@ -35,7 +35,7 @@ uTOK**
 Asynchronous group collaboration
  |
 
-[Overview](utok_overview.html) / [ Awards and Press](utok_awards.html) / [User Reviews](utok_user.html) / [Docs and Papers](utok_papers.html) / [uTOK Links](utok_links.html)
+[Overview](/p/utok-overview/) / [ Awards and Press](/p/utok-awards/) / [User Reviews](/p/utok-user/) / [Docs and Papers](/p/utok-papers/) / [uTOK Links](/p/utok-links/)
 
  | [Practical usage](http://www.gypsyhollow.com/Club/Tower.html) - The Ivory tower - a Clubhouse for the uTOK literature group
 

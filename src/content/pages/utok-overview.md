@@ -33,30 +33,32 @@ original_file: "/PF/utok_overview.html"
  |
 uTOK****Asynchronous group collaboration
  |
-
-[Overview](utok_overview.html) / [ Awards and Press](utok_awards.html) / [User Reviews](utok_user.html) / [Docs and Papers](utok_papers.html) / [uTOK Links](utok_links.html)
+[User](/p/utok-user/)
+[Papers](/p/utok-papers/)
+[Awards](/p/utok-awards/)
+[Links](/p/utok-links/)
 
  | uTOK is a knowledge community system allowing people to post and read notes on top of any Web page, thus creating a new layer of knowledge above the World Wide Web. The uTOK name means – Users’ Tree of Knowledge.
-I joined uTOK at May 1999, two months after it's inception. First as a developer on the client team, later as the VP R&D of the company, while still developing the subsequent versions of the product. We developed the product in 6 months, raised $5 Million, grew to 30 employees and opened 3 offices (Tel-Aviv, San Francisco, New York). uTOK had 50,000 users from more then 100 different countries, 1200 user created groups and 350,000 user notes posted on 15,000 URLs. The product won [major awards](utok_awards.html), the press wrote about it, and it was [praised by the users](utok_user.html) that used it. In April 2001 uTOK stopped operating, because we were not economically viable. Here is a short overview of the uTOK product and technology.
+I joined uTOK at May 1999, two months after it's inception. First as a developer on the client team, later as the VP R&D of the company, while still developing the subsequent versions of the product. We developed the product in 6 months, raised $5 Million, grew to 30 employees and opened 3 offices (Tel-Aviv, San Francisco, New York). uTOK had 50,000 users from more then 100 different countries, 1200 user created groups and 350,000 user notes posted on 15,000 URLs. The product won [major awards](/p/utok-awards.html/), the press wrote about it, and it was [praised by the users](/p/utok-user.html/) that used it. In April 2001 uTOK stopped operating, because we were not economically viable. Here is a short overview of the uTOK product and technology.
 
-uTOK Video Presentation** **[Low Bandwidth](utok_low.wmv) / [High Bandwidth](utok_high.wmv)**
+uTOK Video Presentation** **[Low Bandwidth](/p/utok-low.wmv/) / [High Bandwidth](/p/utok-high.wmv/)**
 
  |
 Figure 1
 Click for details
-[](javascript:void(window.open('quantities.gif','view1','width=670,height=300,resizable=yes,left=100,top=120,scrollbars=no')))
+ ))
  |
 Figure 2
 Click for details
-[](javascript:void(window.open('headers.gif','view1','width=690,height=420,resizable=yes,left=100,top=120,scrollbars=no')))
+ ))
  |
 Figure 3
 Click for details
-[](javascript:void(window.open('comment.gif','view1','width=690,height=330,resizable=yes,left=100,top=120,scrollbars=no')))
+ ))
  |
 Figure 4
 Click for details
-[](javascript:void(window.open('site.gif','view1','width=800,height=450,resizable=yes,left=50,top=80,scrollbars=no')))
+ ))
 
 uTOK is a client server application. The client is a stand-alone application that is active whenever the user is online.  The small client window ‘listens’ to the browser (Netscape, Explorer), and for every web page the browser loads – the uTOK client displays the number of user notes previously posted on that particular Web page or Web site (Figure 1).
 

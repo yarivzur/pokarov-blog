@@ -35,7 +35,7 @@ uTOK**
 Asynchronous group collaboration
  |
 
-[Overview](/p/utok_overview/) / [ Awards and Press](/p/utok_awards/) / [User Reviews](/p/utok_user/) / [Docs and Papers](/p/utok_papers/) / [uTOK Links](/p/utok_links/)
+[Overview](/p/utok-overview/) / [ Awards and Press](/p/utok-awards/) / [User Reviews](/p/utok-user/) / [Docs and Papers](/p/utok-papers/) / [uTOK Links](/p/utok-links/)
 
  | [uTOK Patent Application](/utok/papers/uTOK_Patent_application.pdf) - 48 pages, Adobe Acrobat file, 340KB.
 

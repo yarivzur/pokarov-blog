@@ -35,7 +35,7 @@ uTOK**
 Asynchronous group collaboration
  |
 
-[Overview](utok_overview.html) / [ Awards and Press](utok_awards.html) / [User Reviews](utok_user.html) / [Docs and Papers](utok_papers.html) / [uTOK Links](utok_links.html)
+[Overview](/p/utok-overview/) / [ Awards and Press](/p/utok-awards/) / [User Reviews](/p/utok-user/) / [Docs and Papers](/p/utok-papers/) / [uTOK Links](/p/utok-links/)
 
  |
 
@@ -100,7 +100,7 @@ uTOK’s mission, the commitment of the staff and the high quality of the users 
 
  |
  |
-You can find more product reviews and photos at the '[uTOK Links](utok_links.html)' section...
+You can find more product reviews and photos at the '[uTOK Links](/p/utok-links/)' section...
 
 
 

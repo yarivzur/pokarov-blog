@@ -35,7 +35,7 @@ uTOK**
 Asynchronous group collaboration
  |
 
-[Overview](utok_overview.html) / [ Awards and Press](utok_awards.html) / [User Reviews](utok_user.html) / [Docs and Papers](utok_papers.html) / [uTOK Links](utok_links.html)
+[Overview](/p/utok-overview/) / [ Awards and Press](/p/utok-awards/) / [User Reviews](/p/utok-user/) / [Docs and Papers](/p/utok-papers/) / [uTOK Links](/p/utok-links/)
 
  | 
  | uTOK was awarded as one of the top 100 Technology Pioneers by the World Economic Forum, for 1999 and 2000.
@@ -103,7 +103,7 @@ Product fest teems with cool concepts, Bill Machrone
 
  |
  |
-You can find more reviews, opinions and screen shots of uTOK at the '[Links](utok_links.html)' section...
+You can find more reviews, opinions and screen shots of uTOK at the '[Links](/p/utok-links/)' section...
 
 
 
