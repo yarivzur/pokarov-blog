@@ -6,56 +6,35 @@ category: "archive"
 original_file: "/PF/utok_overview.html"
 ---
 
+**uTOK — Asynchronous group collaboration**
+
+[Overview](/p/utok-overview/) · [Awards & Press](/p/utok_awards/) · [User Reviews](/p/utok_user/) · [Docs & Papers](/p/utok_papers/) · [Links](/p/utok_links/)
+
+---
+
+**uTOK — Asynchronous group collaboration**
+
+
+---
+
 **
 
-
- 
-
+**uTOK — Asynchronous group collaboration**
 
 
+---
+uTOK is a knowledge community system allowing people to post and read notes on top of any Web page, thus creating a new layer of knowledge above the World Wide Web. The uTOK name means – Users’ Tree of Knowledge.
 
 
-
-
-
-
-
- |
-
-
-
- |
-
-
- |
-
- |
- |
-uTOK****Asynchronous group collaboration
- |
-[User](/p/utok-user/)
-[Papers](/p/utok-papers/)
-[Awards](/p/utok-awards/)
-[Links](/p/utok-links/)
-
- | uTOK is a knowledge community system allowing people to post and read notes on top of any Web page, thus creating a new layer of knowledge above the World Wide Web. The uTOK name means – Users’ Tree of Knowledge.
-I joined uTOK at May 1999, two months after it's inception. First as a developer on the client team, later as the VP R&D of the company, while still developing the subsequent versions of the product. We developed the product in 6 months, raised $5 Million, grew to 30 employees and opened 3 offices (Tel-Aviv, San Francisco, New York). uTOK had 50,000 users from more then 100 different countries, 1200 user created groups and 350,000 user notes posted on 15,000 URLs. The product won [major awards](/p/utok-awards.html/), the press wrote about it, and it was [praised by the users](/p/utok-user.html/) that used it. In April 2001 uTOK stopped operating, because we were not economically viable. Here is a short overview of the uTOK product and technology.
-
-uTOK Video Presentation** **[Low Bandwidth](/p/utok-low.wmv/) / [High Bandwidth](/p/utok-high.wmv/)**
-
- |
 Figure 1
 Click for details
  ))
- |
 Figure 2
 Click for details
  ))
- |
 Figure 3
 Click for details
  ))
- |
 Figure 4
 Click for details
  ))
@@ -79,15 +58,3 @@ Users had new ways to access unbiased users’ knowledge, and meaningful relatio
 Some users even defined it as the place that enables you to find your soul mate.
 
 Read more about uTOK in the different sections above (Awards and Press, User Reviews, Docs and Papers and uTOK Links).
-
-
-
-
-
-
-
-
-
-
-
- |

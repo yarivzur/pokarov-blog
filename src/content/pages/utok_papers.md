@@ -6,36 +6,23 @@ category: "archive"
 original_file: "/PF/utok_papers.html"
 ---
 
+**uTOK — Asynchronous group collaboration**
+
+[Overview](/p/utok-overview/) · [Awards & Press](/p/utok_awards/) · [User Reviews](/p/utok_user/) · [Docs & Papers](/p/utok_papers/) · [Links](/p/utok_links/)
+
+---
+
+**uTOK — Asynchronous group collaboration**
+
+
+---
+
 **
 
 
- 
-
-
-
-
-
-
-
-
-
-
- |
-
-
-
- |
-
-
- |
-
- |
- |
 uTOK**
 Asynchronous group collaboration
- |
 
-[Overview](/p/utok-overview/) / [ Awards and Press](/p/utok-awards/) / [User Reviews](/p/utok-user/) / [Docs and Papers](/p/utok-papers/) / [uTOK Links](/p/utok-links/)
 
  | [uTOK Patent Application](/utok/papers/uTOK_Patent_application.pdf) - 48 pages, Adobe Acrobat file, 340KB.
 
@@ -47,16 +34,3 @@ Includes: background of the invention, flow diagram, interface drawings, detaile
  | [uTOK Technology Overview](/utok/papers/uTOK_Technology_Overview.doc) - 8 pages, Microsoft Word document, 810KB.
 
 Includes: Technological goals, system architecture, Client design and implementation, Server design and implementation, Protocol design and implementation, Web site architecture.
- 
-
-
-
-
-
-
-
-
-
-
-
- |

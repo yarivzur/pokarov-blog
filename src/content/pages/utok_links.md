@@ -6,36 +6,23 @@ category: "archive"
 original_file: "/PF/utok_links.html"
 ---
 
+**uTOK — Asynchronous group collaboration**
+
+[Overview](/p/utok-overview/) · [Awards & Press](/p/utok_awards/) · [User Reviews](/p/utok_user/) · [Docs & Papers](/p/utok_papers/) · [Links](/p/utok_links/)
+
+---
+
+**uTOK — Asynchronous group collaboration**
+
+
+---
+
 **
 
 
- 
-
-
-
-
-
-
-
-
-
-
- |
-
-
-
- |
-
-
- |
-
- |
- |
 uTOK**
 Asynchronous group collaboration
- |
 
-[Overview](/p/utok-overview/) / [ Awards and Press](/p/utok-awards/) / [User Reviews](/p/utok-user/) / [Docs and Papers](/p/utok-papers/) / [uTOK Links](/p/utok-links/)
 
  | [Practical usage](http://www.gypsyhollow.com/Club/Tower.html) - The Ivory tower - a Clubhouse for the uTOK literature group
 
@@ -48,16 +35,3 @@ Asynchronous group collaboration
  | [Article](http://www.clickz.com/brand/brand_mkt/print.php/819511) - ClickZ - Users Do The Branding
 
  | [Article](http://www.canadalawbook.ca/headline55_arc.html) - Building community on your law firm's intranet
-
-
-
-
-
-
-
-
-
-
-
-
- |

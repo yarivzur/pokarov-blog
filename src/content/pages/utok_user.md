@@ -6,38 +6,23 @@ category: "archive"
 original_file: "/PF/utok_user.html"
 ---
 
+**uTOK — Asynchronous group collaboration**
+
+[Overview](/p/utok-overview/) · [Awards & Press](/p/utok_awards/) · [User Reviews](/p/utok_user/) · [Docs & Papers](/p/utok_papers/) · [Links](/p/utok_links/)
+
+---
+
+**uTOK — Asynchronous group collaboration**
+
+
+---
+
 **
 
 
- 
-
-
-
-
-
-
-
-
-
-
- |
-
-
-
- |
-
-
- |
-
- |
- |
 uTOK**
 Asynchronous group collaboration
- |
 
-[Overview](/p/utok-overview/) / [ Awards and Press](/p/utok-awards/) / [User Reviews](/p/utok-user/) / [Docs and Papers](/p/utok-papers/) / [uTOK Links](/p/utok-links/)
-
- |
 
  | Epinions, Member Reviews - 100% Recommending 
 
@@ -97,19 +82,3 @@ uTOK user #102172, USA
  | Excellent Spirit
 
 uTOK’s mission, the commitment of the staff and the high quality of the users create not only a perfect community for the exchange of ideas, but also an excellent spirit of online discussion.”
-
- |
- |
-You can find more product reviews and photos at the '[uTOK Links](/p/utok-links/)' section...
-
-
-
-
-
-
-
-
-
-
-
- |
