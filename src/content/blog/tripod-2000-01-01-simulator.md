@@ -20,14 +20,11 @@ original_file: "/writings/blazer/Simulator.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sat, 13 April 2002**
 
@@ -507,4 +504,3 @@ F-16. ולא סתם סימולטור – סימולטור עם כיפה מלאה
 
 
 
- |

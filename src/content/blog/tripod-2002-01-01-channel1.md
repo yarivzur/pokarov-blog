@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2002/Channel1.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 12 April 2002**
 
@@ -75,4 +72,3 @@ original_file: "/writings/2fg/TV/2002/Channel1.html"
 
 
 
- |

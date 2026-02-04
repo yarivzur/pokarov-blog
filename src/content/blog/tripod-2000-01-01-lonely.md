@@ -18,14 +18,11 @@ original_file: "/writings/Yedioth_Sport/Lonely.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sun, 21 September 2003**
 
@@ -77,4 +74,3 @@ original_file: "/writings/Yedioth_Sport/Lonely.html"
 
 
 
- |

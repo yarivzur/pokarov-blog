@@ -12,15 +12,12 @@ original_file: "/links/www.buypass-systems.com.html"
 
 
 
- |
 
 
 
 
 
- |
 
- |
 
 
 
@@ -28,7 +25,6 @@ original_file: "/links/www.buypass-systems.com.html"
 
 
 
- |
 
 
 
@@ -40,13 +36,11 @@ original_file: "/links/www.buypass-systems.com.html"
 
 
 
- |
 
 
 
 
 
- | [](../index.html)
 
 
 
@@ -62,13 +56,11 @@ original_file: "/links/www.buypass-systems.com.html"
 
 
 
- |
 
 
 
 
 
- | [](../index.html)
 
 
 
@@ -84,13 +76,11 @@ original_file: "/links/www.buypass-systems.com.html"
 
 
 
- |
 
 
 
 
 
- |
 
 
 
@@ -148,9 +138,6 @@ original_file: "/links/www.buypass-systems.com.html"
 ](https://registration.lycos.com/helpcenter_passthrough.php?m_PR=26)
 **
 
- | 
- |      »** [**Lycos Worldwide**](javascript:;)  |  | © [Copyright](http://info.lycos.com/legal/legal.asp#copy) 2006, Lycos, Inc. Lycos is a registered trademark of Lycos, Inc. All Rights Reserved.
- | 
- |      [About Lycos](http://info.lycos.com/lycosinfo.asp/) | [Help](https://registration.lycos.com/helpcenter_passthrough.php?m_PR=26&task=knowledge) | [Jobs](https://www.lycos.com/lycosinc/jobs/) | [Advertise](https://www.lycos.com/lycosinc/advertising.html) | 
- | 
+»** [**Lycos Worldwide**](javascript:;) · © [Copyright](http://info.lycos.com/legal/legal.asp#copy) 2006, Lycos, Inc. Lycos is a registered trademark of Lycos, Inc. All Rights Reserved.
+[About Lycos](http://info.lycos.com/lycosinfo.asp/) · [Help](https://registration.lycos.com/helpcenter_passthrough.php?m_PR=26&task=knowledge) · [Jobs](https://www.lycos.com/lycosinc/jobs/) · [Advertise](https://www.lycos.com/lycosinc/advertising.html)
      Your use of this website constitutes acceptance of the Lycos [Privacy Policy](http://info.lycos.com/privacy/privacy.html) and [Terms & Conditions](http://info.lycos.com/legal/legal.html)

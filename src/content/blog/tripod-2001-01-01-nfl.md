@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2001/NFL.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Tue, 11 September 2001**
 
@@ -69,4 +66,3 @@ original_file: "/writings/2fg/TV/2001/NFL.html"
 
 
 
- |

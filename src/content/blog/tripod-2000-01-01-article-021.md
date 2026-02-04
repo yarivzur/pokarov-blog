@@ -18,14 +18,11 @@ original_file: "/writings/2fg/food/fog0000000021.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 29 June 2001**
 
@@ -66,4 +63,3 @@ original_file: "/writings/2fg/food/fog0000000021.html"
 
 
 
- |

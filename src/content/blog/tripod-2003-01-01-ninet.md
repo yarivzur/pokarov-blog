@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/Ninet.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 29 August 2003**
 
@@ -71,4 +68,3 @@ original_file: "/writings/2fg/TV/2003/Ninet.html"
 
 
 
- |

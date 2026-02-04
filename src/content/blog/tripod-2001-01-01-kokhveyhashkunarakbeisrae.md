@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2001/KokhveyHashkunaRakBeIsrae.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 14 December 2001**
 
@@ -135,4 +132,3 @@ original_file: "/writings/2fg/TV/2001/KokhveyHashkunaRakBeIsrae.html"
 
 
 
- |

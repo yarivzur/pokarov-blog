@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2002/GroupsChannel.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 18 January 2002**
 
@@ -49,4 +46,3 @@ original_file: "/writings/2fg/TV/2002/GroupsChannel.html"
 
 
 
- |

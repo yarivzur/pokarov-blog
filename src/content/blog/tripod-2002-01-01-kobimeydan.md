@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2002/KobiMeydan.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 04 January 2002**
 
@@ -61,4 +58,3 @@ original_file: "/writings/2fg/TV/2002/KobiMeydan.html"
 
 
 
- |

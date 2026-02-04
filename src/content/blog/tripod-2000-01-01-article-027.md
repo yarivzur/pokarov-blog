@@ -20,14 +20,11 @@ original_file: "/gibson/fog0000000027.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sat, 26 January 2002**
 Speeches by William Gibson and Bruce Sterling
@@ -110,4 +107,3 @@ Thank you.
 
 
 
- |

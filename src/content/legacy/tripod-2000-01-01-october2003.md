@@ -20,18 +20,15 @@ original_file: "/blog/archives/October2003.html"
 
 
 
- |
 
 
 
- |
-
-
- |
 
 
 
-[](../../writings/2fg/TV/2003/GavriLevi.html)Fri, 24 October 2003
+
+
+ Fri, 24 October 2003
 
 @כותרת: השמן הלא נכון – גברי לוי
 **
@@ -48,7 +45,7 @@ original_file: "/blog/archives/October2003.html"
 
 
 
-[](../../writings/2fg/TV/2003/Whatnottowear.html)Fri, 24 October 2003
+ Fri, 24 October 2003
 
 מה לא ללבוש
 
@@ -74,7 +71,7 @@ original_file: "/blog/archives/October2003.html"
 
 
 
-[](../../writings/2fg/TV/2003/Survivor6.html)Fri, 24 October 2003
+ Fri, 24 October 2003
 
 @כותרת: **
 **
@@ -105,7 +102,7 @@ original_file: "/blog/archives/October2003.html"
 
 
 
-[](../../writings/2fg/TV/2003/GuyPinesEliYatzpan.html)Fri, 24 October 2003
+ Fri, 24 October 2003
 
 @כותרת: **
 **
@@ -128,7 +125,7 @@ original_file: "/blog/archives/October2003.html"
 
 
 
-[](../../writings/2fg/TV/2003/Loveinthefall.html)Fri, 17 October 2003
+ Fri, 17 October 2003
 
 @כותרת: **
 **
@@ -151,7 +148,7 @@ original_file: "/blog/archives/October2003.html"
 
 
 
-[](../../writings/2fg/TV/2003/Keshet-SummerSeason.html)Fri, 17 October 2003
+ Fri, 17 October 2003
 
  
 
@@ -195,7 +192,7 @@ original_file: "/blog/archives/October2003.html"
 
 
 
-[](../../writings/2fg/TV/2003/TheExperiment.html)Fri, 17 October 2003
+ Fri, 17 October 2003
 
 @כותרת: **
 **
@@ -242,7 +239,7 @@ original_file: "/blog/archives/October2003.html"
 
 
 
-[](../../writings/2fg/TV/2003/Loveinthefall-2.html)Fri, 17 October 2003
+ Fri, 17 October 2003
 
 @כותרת: **
 **
@@ -267,7 +264,7 @@ original_file: "/blog/archives/October2003.html"
 
 
 
-[](../../writings/2fg/TV/2003/Taken-2.html)Fri, 17 October 2003
+ Fri, 17 October 2003
 
 @כותרת:
 
@@ -291,7 +288,7 @@ original_file: "/blog/archives/October2003.html"
 
 
 
-[](../../writings/2fg/TV/2003/Taken.html)Fri, 17 October 2003
+ Fri, 17 October 2003
 
 @כותרת:
 
@@ -315,7 +312,7 @@ original_file: "/blog/archives/October2003.html"
 
 
 
-[](../../writings/2fg/TV/2003/MaleBashing.html)Fri, 17 October 2003
+ Fri, 17 October 2003
 
 @כותרת: **
 **
@@ -332,7 +329,7 @@ original_file: "/blog/archives/October2003.html"
 
 
 
-[](../../writings/Yedioth_Sport/TheColinaRoar.html)Sun, 12 October 2003
+ Sun, 12 October 2003
 
 **קולינה שאג – מי לא יירא
 **
@@ -361,7 +358,7 @@ original_file: "/blog/archives/October2003.html"
 
 
 
-[](../../writings/2fg/TV/2003/Channel2-Quiz.html)Fri, 10 October 2003
+ Fri, 10 October 2003
 
 @כותרת:
 
@@ -633,7 +630,7 @@ d.    הפירסינג של טל ברמן
 
 
 
-[](../../writings/Yedioth_Sport/Songsfromthehood.html)Thu, 09 October 2003
+ Thu, 09 October 2003
 
 **שיר השכונה**
 
@@ -655,7 +652,7 @@ d.    הפירסינג של טל ברמן
 
 
 
-[](../../writings/blazer/DrugsinSports.html)Sat, 04 October 2003
+ Sat, 04 October 2003
 
 @כותבוקסה: אחד נגד כולם
 
@@ -697,7 +694,7 @@ d.    הפירסינג של טל ברמן
 
 
 
-[](../../writings/2fg/TV/2003/YProject-3.html)Fri, 03 October 2003
+ Fri, 03 October 2003
 
  
 
@@ -715,7 +712,7 @@ d.    הפירסינג של טל ברמן
 
 
 
-[](../../writings/2fg/TV/2003/ShantiYapim.html)Fri, 03 October 2003
+ Fri, 03 October 2003
 
 **@כותרת:
 
@@ -736,7 +733,7 @@ d.    הפירסינג של טל ברמן
 
 
 
-[](../../writings/2fg/TV/2003/Downloads.html)Fri, 03 October 2003
+ Fri, 03 October 2003
 
 @כותרת:
 
@@ -788,7 +785,7 @@ d.    הפירסינג של טל ברמן
 
 
 
-[](../../writings/2fg/TV/2003/KavHashever.html)Fri, 03 October 2003
+ Fri, 03 October 2003
 
  
 
@@ -810,7 +807,7 @@ d.    הפירסינג של טל ברמן
 
 
 
-[](../../writings/2fg/TV/2003/AgeofGenerals.html)Fri, 03 October 2003
+ Fri, 03 October 2003
 
 @**כותרת**:
 
@@ -853,4 +850,3 @@ d.    הפירסינג של טל ברמן
 
 
 
- |

@@ -20,14 +20,11 @@ original_file: "/writings/blazer/DrugsinSports.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sat, 04 October 2003**
 
@@ -79,4 +76,3 @@ original_file: "/writings/blazer/DrugsinSports.html"
 
 
 
- |

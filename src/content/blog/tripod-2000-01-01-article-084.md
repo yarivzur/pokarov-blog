@@ -20,14 +20,11 @@ original_file: "/writings/sports/Articles/fog0000000084.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sat, 24 August 2002**
 
@@ -136,4 +133,3 @@ original_file: "/writings/sports/Articles/fog0000000084.html"
 
 
 
- |

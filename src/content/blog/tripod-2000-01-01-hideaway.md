@@ -20,14 +20,11 @@ original_file: "/writings/blazer/Hideaway.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Mon, 05 May 2003**
 
@@ -59,4 +56,3 @@ original_file: "/writings/blazer/Hideaway.html"
 
 
 
- |

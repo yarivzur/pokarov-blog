@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/DanShilon.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 19 September 2003**
 
@@ -66,4 +63,3 @@ original_file: "/writings/2fg/TV/2003/DanShilon.html"
 
 
 
- |

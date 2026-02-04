@@ -20,14 +20,11 @@ original_file: "/writings/Yedioth_Sport/WildWeekend.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sun, 07 September 2003**
 
@@ -56,4 +53,3 @@ original_file: "/writings/Yedioth_Sport/WildWeekend.html"
 
 
 
- |

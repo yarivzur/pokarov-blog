@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/Thenextbestthing.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 14 February 2003**
 
@@ -61,4 +58,3 @@ original_file: "/writings/2fg/TV/2003/Thenextbestthing.html"
 
 
 
- |

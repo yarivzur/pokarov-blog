@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2002/AmIsraelLive.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 01 February 2002**
 
@@ -91,4 +88,3 @@ LIVE (להלן עי"ל – וזה לא סוגריים אלא הערה לסדר).
 
 
 
- |

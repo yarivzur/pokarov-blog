@@ -20,14 +20,11 @@ original_file: "/writings/sports/fog0000000044.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 ## Sports**
 
@@ -169,4 +166,3 @@ Published Version](http://www.tam.co.il/10_11_99/sport.html)
 
 
 
- |

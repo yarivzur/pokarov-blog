@@ -20,14 +20,11 @@ original_file: "/writings/blazer/compMay.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Tue, 18 June 2002**
 
@@ -187,4 +184,3 @@ original_file: "/writings/blazer/compMay.html"
 
 
 
- |

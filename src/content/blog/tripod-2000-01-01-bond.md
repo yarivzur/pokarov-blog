@@ -20,14 +20,11 @@ original_file: "/writings/blazer/bond.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Wed, 13 November 2002**
 
@@ -104,4 +101,3 @@ original_file: "/writings/blazer/bond.html"
 
 
 
- |

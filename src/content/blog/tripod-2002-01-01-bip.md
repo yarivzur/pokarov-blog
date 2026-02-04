@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2002/Bip.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sat, 06 July 2002**
 
@@ -92,4 +89,3 @@ original_file: "/writings/2fg/TV/2002/Bip.html"
 
 
 
- |

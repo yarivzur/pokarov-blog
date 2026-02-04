@@ -20,14 +20,11 @@ original_file: "/writings/YediothSport.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 ## **
 
@@ -68,19 +65,15 @@ removed promptly.
 
  | [Wild Weekend](Yedioth_Sport/WildWeekend.html)
  | Sun, 07 September 2003
- |
 
  | [Gate Of Mercy](Yedioth_Sport/GateOfMercy.html)
  | Sun, 14 September 2003
- |
 
  | [Lonely](Yedioth_Sport/Lonely.html)
  | Sun, 21 September 2003
- |
 
  | [Songs from the 'hood](Yedioth_Sport/Songsfromthehood.html)
  | Thu, 09 October 2003
- |
 
  | [The Colina Roar](Yedioth_Sport/TheColinaRoar.html)
  | Sun, 12 October 2003
@@ -97,4 +90,3 @@ removed promptly.
 
 
 
- |

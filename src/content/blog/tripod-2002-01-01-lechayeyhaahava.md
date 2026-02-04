@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2002/LechayeyHaahava.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 05 April 2002**
 
@@ -115,4 +112,3 @@ original_file: "/writings/2fg/TV/2002/LechayeyHaahava.html"
 
 
 
- |

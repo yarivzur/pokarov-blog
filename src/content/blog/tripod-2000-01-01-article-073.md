@@ -20,14 +20,11 @@ original_file: "/writings/misc/fog0000000073.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Thu, 31 January 2002**
 
@@ -85,4 +82,3 @@ Quake  – בימים אלה מסתובבת ברשה גרסת הניסיון ש
 
 
 
- |

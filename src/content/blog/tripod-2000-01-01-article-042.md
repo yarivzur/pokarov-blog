@@ -20,14 +20,11 @@ original_file: "/writings/private/fog0000000042.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 ##
 **
@@ -73,4 +70,3 @@ Never published, never will be.
 
 
 
- |

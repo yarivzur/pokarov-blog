@@ -18,14 +18,11 @@ original_file: "/writings/private/fog0000000069.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Thu, 31 January 2002**
 
@@ -40,4 +37,3 @@ original_file: "/writings/private/fog0000000069.html"
 
 
 
- |

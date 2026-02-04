@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/ShantiYapim.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 03 October 2003**
 
@@ -58,4 +55,3 @@ original_file: "/writings/2fg/TV/2003/ShantiYapim.html"
 
 
 
- |

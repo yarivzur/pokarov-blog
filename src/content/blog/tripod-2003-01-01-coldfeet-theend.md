@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2003/ColdFeet-TheEnd.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 30 May 2003**
 
@@ -59,4 +56,3 @@ original_file: "/writings/2fg/TV/2003/ColdFeet-TheEnd.html"
 
 
 
- |

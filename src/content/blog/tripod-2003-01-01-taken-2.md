@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/Taken-2.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 17 October 2003**
 
@@ -61,4 +58,3 @@ original_file: "/writings/2fg/TV/2003/Taken-2.html"
 
 
 
- |

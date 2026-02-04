@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2002/Recordbook.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 24 May 2002**
 
@@ -110,4 +107,3 @@ NBA סיים
 
 
 
- |

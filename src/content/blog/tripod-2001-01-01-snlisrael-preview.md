@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2001/SNLIsrael-Preview.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 19 October 2001**
 
@@ -63,4 +60,3 @@ original_file: "/writings/2fg/TV/2001/SNLIsrael-Preview.html"
 
 
 
- |

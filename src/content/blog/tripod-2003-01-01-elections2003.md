@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/Elections2003.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 31 January 2003**
 
@@ -99,4 +96,3 @@ original_file: "/writings/2fg/TV/2003/Elections2003.html"
 
 
 
- |

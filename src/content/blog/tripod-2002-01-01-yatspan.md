@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2002/Yatspan.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 08 March 2002**
 
@@ -130,4 +127,3 @@ YES!
 
 
 
- |

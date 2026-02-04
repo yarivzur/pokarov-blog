@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2002/DidiHarari.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 10 May 2002**
 
@@ -93,4 +90,3 @@ original_file: "/writings/2fg/TV/2002/DidiHarari.html"
 
 
 
- |

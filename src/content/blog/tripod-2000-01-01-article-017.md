@@ -18,14 +18,11 @@ original_file: "/writings/fog0000000017.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
  A collection of things I've written over the years...
 
@@ -56,4 +53,3 @@ original_file: "/writings/fog0000000017.html"
 
 
 
- |

@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2002/Mondial.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 07 June 2002**
 
@@ -91,4 +88,3 @@ original_file: "/writings/2fg/TV/2002/Mondial.html"
 
 
 
- |

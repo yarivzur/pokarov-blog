@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/TheManShow.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 27 June 2003**
 
@@ -107,4 +104,3 @@ original_file: "/writings/2fg/TV/2003/TheManShow.html"
 
 
 
- |

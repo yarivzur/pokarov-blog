@@ -20,14 +20,11 @@ original_file: "/writings/misc/fog0000000074.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Thu, 31 January 2002**
 
@@ -349,4 +346,3 @@ original_file: "/writings/misc/fog0000000074.html"
 
 
 
- |

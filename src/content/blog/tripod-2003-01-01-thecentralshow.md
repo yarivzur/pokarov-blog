@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2003/TheCentralShow.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 01 August 2003**
 
@@ -57,4 +54,3 @@ original_file: "/writings/2fg/TV/2003/TheCentralShow.html"
 
 
 
- |

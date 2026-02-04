@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2001/SexAndTheCity.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sun, 28 January 2001**
 
@@ -55,4 +52,3 @@ original_file: "/writings/2fg/TV/2001/SexAndTheCity.html"
 
 
 
- |

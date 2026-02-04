@@ -20,14 +20,11 @@ original_file: "/writings/sports/Articles/fog0000000092.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Wed, 10 November 1999**
 
@@ -206,4 +203,3 @@ games all year”
 
 
 
- |

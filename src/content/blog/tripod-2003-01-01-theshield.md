@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/TheShield.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 17 January 2003**
 
@@ -67,4 +64,3 @@ original_file: "/writings/2fg/TV/2003/TheShield.html"
 
 
 
- |

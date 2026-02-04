@@ -13,26 +13,21 @@ original_file: "/blog/general/Archive.html"
 
 
 
- |
 
 :: VLVL :: Blog
 
 
 
 
- |
-
-
-
- |
-
-
- |
 
 
 
 
- |
+
+
+
+
+
 
 **Archives**
 
@@ -72,4 +67,3 @@ What follows are archives for months in the past:
 
 
 
- |

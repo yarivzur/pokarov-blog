@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2001/LechayeyHaAhava.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 21 December 2001**
 
@@ -59,4 +56,3 @@ original_file: "/writings/2fg/TV/2001/LechayeyHaAhava.html"
 
 
 
- |

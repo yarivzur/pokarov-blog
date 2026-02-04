@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2003/YaelBarZohar.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 23 May 2003**
 
@@ -81,4 +78,3 @@ original_file: "/writings/2fg/TV/2003/YaelBarZohar.html"
 
 
 
- |

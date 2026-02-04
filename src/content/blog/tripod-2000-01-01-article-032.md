@@ -18,14 +18,11 @@ original_file: "/gibson/fog0000000032.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sat, 26 January 2002**
 Agrippa Info
@@ -90,4 +87,3 @@ just haven't gotten to the PC version yet," Begos added.
 
 
 
- |

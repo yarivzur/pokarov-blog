@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2003/Johny.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 04 July 2003**
 
@@ -86,4 +83,3 @@ original_file: "/writings/2fg/TV/2003/Johny.html"
 
 
 
- |

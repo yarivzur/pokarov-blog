@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2002/Tevel.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 03 May 2002**
 
@@ -77,4 +74,3 @@ original_file: "/writings/2fg/TV/2002/Tevel.html"
 
 
 
- |

@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/DawsonsCreek-LastSeason.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 25 April 2003**
 
@@ -65,4 +62,3 @@ original_file: "/writings/2fg/TV/2003/DawsonsCreek-LastSeason.html"
 
 
 
- |

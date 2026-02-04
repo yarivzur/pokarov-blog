@@ -18,14 +18,11 @@ original_file: "/writings/private/BachelorParty.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Mon, 26 May 2003**
 
@@ -121,4 +118,3 @@ original_file: "/writings/private/BachelorParty.html"
 
 
 
- |

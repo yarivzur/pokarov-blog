@@ -20,14 +20,11 @@ original_file: "/writings/blazer/compJuly.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Mon, 22 July 2002**
 
@@ -259,4 +256,3 @@ MIT הבינו שבשביל לממן כזאת כמות של מחקר תשתית�
 
 
 
- |

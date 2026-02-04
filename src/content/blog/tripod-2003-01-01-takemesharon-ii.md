@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/TakemeSharon-II.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 12 September 2003**
 
@@ -163,4 +160,3 @@ original_file: "/writings/2fg/TV/2003/TakemeSharon-II.html"
 
 
 
- |

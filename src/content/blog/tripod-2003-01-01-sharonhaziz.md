@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2003/SharonHaziz.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 16 May 2003**
 
@@ -53,4 +50,3 @@ original_file: "/writings/2fg/TV/2003/SharonHaziz.html"
 
 
 
- |

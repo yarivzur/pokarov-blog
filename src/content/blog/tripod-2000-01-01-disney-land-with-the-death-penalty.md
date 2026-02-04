@@ -20,14 +20,11 @@ original_file: "/gibson/fog0000000030.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sat, 26 January 2002**
 WIRED 1.4: "Disney Land with the Death Penalty" by William Gibson
@@ -558,4 +555,3 @@ please contact us via telephone (+1 (415) 904 0660) or email
 
 
 
- |

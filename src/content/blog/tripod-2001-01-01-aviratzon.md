@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2001/AviRatzon.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 26 October 2001**
 
@@ -65,4 +62,3 @@ original_file: "/writings/2fg/TV/2001/AviRatzon.html"
 
 
 
- |

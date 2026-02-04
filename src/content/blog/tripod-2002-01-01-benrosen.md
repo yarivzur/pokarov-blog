@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2002/BenRosen.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 15 February 2002**
 
@@ -101,4 +98,3 @@ CNN ומבחר
 
 
 
- |

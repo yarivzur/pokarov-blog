@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/ThebattleoverJerusalem.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 07 February 2003**
 
@@ -73,4 +70,3 @@ original_file: "/writings/2fg/TV/2003/ThebattleoverJerusalem.html"
 
 
 
- |

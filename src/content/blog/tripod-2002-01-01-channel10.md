@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2002/Channel10.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 11 January 2002**
 
@@ -67,4 +64,3 @@ original_file: "/writings/2fg/TV/2002/Channel10.html"
 
 
 
- |

@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2001/PovertyFestival.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 28 December 2001**
 
@@ -57,4 +54,3 @@ original_file: "/writings/2fg/TV/2001/PovertyFestival.html"
 
 
 
- |

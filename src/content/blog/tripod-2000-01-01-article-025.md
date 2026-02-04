@@ -20,14 +20,11 @@ original_file: "/writings/2fg/food/fog0000000025.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Mon, 21 August 2000**
 
@@ -62,4 +59,3 @@ original_file: "/writings/2fg/food/fog0000000025.html"
 
 
 
- |

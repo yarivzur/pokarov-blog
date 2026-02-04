@@ -18,14 +18,11 @@ original_file: "/writings/Yedioth_Sport/GateOfMercy.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sun, 14 September 2003**
 
@@ -61,4 +58,3 @@ original_file: "/writings/Yedioth_Sport/GateOfMercy.html"
 
 
 
- |

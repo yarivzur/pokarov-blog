@@ -20,14 +20,11 @@ original_file: "/writings/private/Enosh.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sat, 27 September 2003**
 
@@ -103,4 +100,3 @@ then instruct all beings.
 
 
 
- |

@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/Channel2-Quiz.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 10 October 2003**
 
@@ -309,4 +306,3 @@ d.    הפירסינג של טל ברמן
 
 
 
- |

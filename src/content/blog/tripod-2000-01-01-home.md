@@ -29,10 +29,8 @@ original_file: "/Home.html"
 
 
 
- |
   
 
- |
  [Contact](mailto:vl_vl@yahoo.com)
 
 

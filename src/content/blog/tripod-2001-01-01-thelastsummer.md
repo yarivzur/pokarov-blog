@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2001/Thelastsummer.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 02 November 2001**
 
@@ -59,4 +56,3 @@ original_file: "/writings/2fg/TV/2001/Thelastsummer.html"
 
 
 
- |

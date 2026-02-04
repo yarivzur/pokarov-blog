@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2003/Foodforthought.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 14 March 2003**
 
@@ -59,4 +56,3 @@ original_file: "/writings/2fg/TV/2003/Foodforthought.html"
 
 
 
- |

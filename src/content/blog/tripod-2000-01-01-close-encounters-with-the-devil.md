@@ -18,14 +18,11 @@ original_file: "/writings/private/fog0000000066.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Thu, 31 January 2002**
 
@@ -93,4 +90,3 @@ It's been two weeks since I got laid, and that was a pathetic one too.
 
 
 
- |

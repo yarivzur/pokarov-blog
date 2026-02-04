@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/AllyMcBeal.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 21 February 2003**
 
@@ -59,4 +56,3 @@ original_file: "/writings/2fg/TV/2003/AllyMcBeal.html"
 
 
 
- |

@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2001/Star-Trek.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sun, 16 December 2001**
 
@@ -67,4 +64,3 @@ Voyager**** – ****YES+****, ימי שבת ב- 16:40 (שני פרקים ברצ�
 
 
 
- |

@@ -18,14 +18,11 @@ original_file: "/gibson/fog0000000026.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sat, 26 January 2002**
  "My favorite piece of technology is the Walkman. It changed forever the way we perceive music. The Walkman has given us the opportunity to listen to whatever kind of music we wanted wherever we wanted."
@@ -52,4 +49,3 @@ Another book by Gibson is [Agrippa - A book of the dead](fog0000000031.html) whi
 
 
 
- |

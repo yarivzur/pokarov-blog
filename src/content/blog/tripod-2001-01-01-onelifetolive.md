@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2001/OneLifeToLive.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 12 October 2001**
 
@@ -73,4 +70,3 @@ original_file: "/writings/2fg/TV/2001/OneLifeToLive.html"
 
 
 
- |

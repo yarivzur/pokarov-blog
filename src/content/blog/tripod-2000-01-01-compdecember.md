@@ -20,14 +20,11 @@ original_file: "/writings/blazer/compDecember.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sat, 13 April 2002**
 
@@ -213,4 +210,3 @@ original_file: "/writings/blazer/compDecember.html"
 
 
 
- |

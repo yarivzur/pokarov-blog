@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2002/YomanShishi.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 07 June 2002**
 
@@ -69,4 +66,3 @@ original_file: "/writings/2fg/TV/2002/YomanShishi.html"
 
 
 
- |

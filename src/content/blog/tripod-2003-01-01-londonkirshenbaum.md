@@ -20,30 +20,24 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 14 February 2003**
 
 
 
- |
 
 
 קטגוריה
 
- |
 
 
 אולפן שישי **
 
- |
 
 
 **קירשנבאום ולונדון**
@@ -51,17 +45,14 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 שעה
 
- |
 
 
 דקה לשמונה – לפני האירוח
 
- |
 
 
 שמונה וחצי – לפני הקינוח
@@ -69,17 +60,14 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 משתתפים
 
- |
 
 
 סוללת הכוכבים
 
- |
 
 
 שני זקנים חביבים
@@ -87,17 +75,14 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 אווירה באולפן
 
- |
 
 
 מעונבת וכבדה
 
- |
 
 
 משוחררת וחמודה
@@ -105,17 +90,14 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 משפט מפתח
 
- |
 
 
 "הכותרת שלי להערב"
 
- |
 
 
 "אני יודע מה אתה הולך להגיד
@@ -124,17 +106,14 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 כתבות
 
- |
 
 
 פוליטיקה ובטחון
 
- |
 
 
 הכל חוץ משרון
@@ -142,17 +121,14 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 בין לבין
 
- |
 
 
 פרומואים עצמיים
 
- |
 
 
 קטעים לא מצחיקים
@@ -160,17 +136,14 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 מודל לחיקוי
 
- |
 
 
 שישים דקות
 
- |
 
 
 הזקנים מהחבובות
@@ -178,17 +151,14 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 תגובות הצופים
 
- |
 
 
 פחד מטרור וטילים
 
- |
 
 
 בלבלול מכמות המילים
@@ -196,17 +166,14 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 מנחה חדשות
 
- |
 
 
 דני קושמרו במראה אפור
 
- |
 
 
 שירה פליקס בבגדי עור
@@ -214,17 +181,14 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 זחיחות עצמית
 
- |
 
 
 אנחנו יודעים הכל
 
- |
 
 
 ידענו ושכחנו
@@ -232,18 +196,15 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 דעה אישית
 
- |
 
 
 שלי חיימוביץ ונחמיה שטרסלר מפחידים
  ילדים
 
- |
 
 
 עופר שלח ורינו צרור בטורים
@@ -252,17 +213,14 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 געגועים ל.
 
- |
 
 
 סוקניק ורוזן
 
- |
 
 
 ניקוי ראש
@@ -270,17 +228,14 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 אישה בצוות
 
- |
 
 
 לא תודה
 
- |
 
 
 מנהלת עבודה
@@ -288,17 +243,14 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 שורה תחתונה
 
- |
 
 
 חייבים לרענן
 
- |
 
 
 אסור לרסן
@@ -306,17 +258,14 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 אג'נדה
 
- |
 
 
 כל העם צבא
 
- |
 
 
 ביילין ברוך הבא
@@ -324,17 +273,14 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 שמחת חיים
 
- |
 
 
 הס פן תעיר
 
- |
 
 
 חגיגה בעיר
@@ -342,17 +288,14 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |
 
 
 סיכויים
 
- |
 
 
 כמו הפועל
 
- |
 
 
 כמו מכבי
@@ -372,4 +315,3 @@ original_file: "/writings/2fg/TV/2003/LondonKirshenbaum.html"
 
 
 
- |

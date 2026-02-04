@@ -18,14 +18,11 @@ original_file: "/writings/private/fog0000000065.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Thu, 31 January 2002**
 
@@ -91,4 +88,3 @@ And - Once again, I've proved how inadequate I am at this MalePower(tm) thing.
 
 
 
- |

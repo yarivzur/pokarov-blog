@@ -20,14 +20,11 @@ original_file: "/writings/misc/fog0000000043.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 ##
  Miscellanous**
@@ -97,4 +94,3 @@ removed promptly.
 
 
 
- |

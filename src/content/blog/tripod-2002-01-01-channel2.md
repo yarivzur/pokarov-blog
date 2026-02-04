@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2002/Channel2.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 04 January 2002**
 
@@ -57,4 +54,3 @@ original_file: "/writings/2fg/TV/2002/Channel2.html"
 
 
 
- |

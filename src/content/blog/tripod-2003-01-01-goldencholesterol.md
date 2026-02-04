@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/GoldenCholesterol.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 26 September 2003**
 
@@ -188,4 +185,3 @@ original_file: "/writings/2fg/TV/2003/GoldenCholesterol.html"
 
 
 
- |

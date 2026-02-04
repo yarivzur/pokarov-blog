@@ -18,14 +18,11 @@ original_file: "/writings/2fg/fog0000000038.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
  
 
@@ -69,4 +66,3 @@ Current:
 
 
 
- |

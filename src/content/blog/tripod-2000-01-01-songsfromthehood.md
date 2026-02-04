@@ -20,14 +20,11 @@ original_file: "/writings/Yedioth_Sport/Songsfromthehood.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Thu, 09 October 2003**
 
@@ -59,4 +56,3 @@ original_file: "/writings/Yedioth_Sport/Songsfromthehood.html"
 
 
 
- |

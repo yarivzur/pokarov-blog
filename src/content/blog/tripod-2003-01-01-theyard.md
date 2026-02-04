@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/TheYard.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 22 August 2003**
 
@@ -79,4 +76,3 @@ original_file: "/writings/2fg/TV/2003/TheYard.html"
 
 
 
- |

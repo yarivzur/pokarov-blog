@@ -20,18 +20,15 @@ original_file: "/blog/archives/September2003.html"
 
 
 
- |
 
 
 
- |
-
-
- |
 
 
 
-[](../../writings/private/Enosh.html)Sat, 27 September 2003
+
+
+ Sat, 27 September 2003
 
  
 
@@ -99,7 +96,7 @@ then instruct all beings.
 
 
 
-[](../../writings/2fg/TV/2003/GoldenCholesterol.html)Fri, 26 September 2003
+ Fri, 26 September 2003
 
 @כותרת:
 **
@@ -250,7 +247,7 @@ then instruct all beings.
 
 
 
-[](../../writings/Yedioth_Sport/Lonely.html)Sun, 21 September 2003
+ Sun, 21 September 2003
 
 שני גברים שמנים
 
@@ -292,7 +289,7 @@ then instruct all beings.
 
 
 
-[](../../writings/2fg/TV/2003/YProject-2.html)Fri, 19 September 2003
+ Fri, 19 September 2003
 
 **@כותרת:
 **
@@ -325,7 +322,7 @@ then instruct all beings.
 
 
 
-[](../../writings/2fg/TV/2003/JohnRitter.html)Fri, 19 September 2003
+ Fri, 19 September 2003
 
  
 
@@ -341,7 +338,7 @@ then instruct all beings.
 
 
 
-[](../../writings/2fg/TV/2003/TheLifeLaundry.html)Fri, 19 September 2003
+ Fri, 19 September 2003
 
 **@כותרת:
 **
@@ -366,7 +363,7 @@ then instruct all beings.
 
 
 
-[](../../writings/2fg/TV/2003/Tribuna.html)Fri, 19 September 2003
+ Fri, 19 September 2003
 
 כמו השמן והרזה, כמו טוילדי וטוילדם, כמו בן ורוזן (סתם, הם לא קשורים, אבל קשה לנו לשכוח אירועים טראומטיים), השילוב בין אבי רצון, שכל מה שאפשר לומר על היכולת שלו להגיד בדיוק את הדבר המרגיז, ושלמה שרף, שעל יכולת הביטוי שלו יעידו החברים נג'ואן גרייב ואברהם גרנט, הוא שלם שגדול מסכום מרכיביו.
 
@@ -390,7 +387,7 @@ then instruct all beings.
 
 
 
-[](../../writings/2fg/TV/2003/DanShilon.html)Fri, 19 September 2003
+ Fri, 19 September 2003
 
 **@כותרת:
 **
@@ -419,7 +416,7 @@ then instruct all beings.
 
 
 
-[](../../writings/Yedioth_Sport/GateOfMercy.html)Sun, 14 September 2003
+ Sun, 14 September 2003
 
 שקט משדרים
 
@@ -445,7 +442,7 @@ then instruct all beings.
 
 
 
-[](../../writings/2fg/TV/2003/TakemeSharon-II.html)Fri, 12 September 2003
+ Fri, 12 September 2003
 
 @כותרת:
 
@@ -571,7 +568,7 @@ then instruct all beings.
 
 
 
-[](../../writings/2fg/TV/2003/Sopranos.html)Fri, 12 September 2003
+ Fri, 12 September 2003
 
 **@כותבוקסה: השמן הלא-נכון
 **
@@ -596,7 +593,7 @@ then instruct all beings.
 
 
 
-[](../../writings/2fg/TV/2003/CSIMiami.html)Fri, 12 September 2003
+ Fri, 12 September 2003
 
 @כותרת: **
 **
@@ -621,7 +618,7 @@ then instruct all beings.
 
 
 
-[](../../writings/2fg/TV/2003/SesameStreet.html)Tue, 09 September 2003
+ Tue, 09 September 2003
 
 **@כותרת:
 **
@@ -742,7 +739,7 @@ then instruct all beings.
 
 
 
-[](../../writings/Yedioth_Sport/WildWeekend.html)Sun, 07 September 2003
+ Sun, 07 September 2003
 
 @**כותרת**: **
 **
@@ -761,7 +758,7 @@ then instruct all beings.
 
 
 
-[](../../writings/2fg/TV/2003/YProject-1.html)Fri, 05 September 2003
+ Fri, 05 September 2003
 
 **@כותרת:
 **
@@ -803,4 +800,3 @@ then instruct all beings.
 
 
 
- |

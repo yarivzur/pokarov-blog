@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/TheRealWorldbehindtheads.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 08 August 2003**
 
@@ -60,4 +57,3 @@ original_file: "/writings/2fg/TV/2003/TheRealWorldbehindtheads.html"
 
 
 
- |

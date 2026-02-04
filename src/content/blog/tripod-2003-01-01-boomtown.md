@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/Boomtown.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 09 May 2003**
 
@@ -57,4 +54,3 @@ original_file: "/writings/2fg/TV/2003/Boomtown.html"
 
 
 
- |

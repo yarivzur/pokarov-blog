@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/WarJournals.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 28 March 2003**
 
@@ -159,4 +156,3 @@ original_file: "/writings/2fg/TV/2003/WarJournals.html"
 
 
 
- |

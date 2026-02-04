@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2003/Eurovision-2.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sat, 03 May 2003**
 
@@ -63,4 +60,3 @@ original_file: "/writings/2fg/TV/2003/Eurovision-2.html"
 
 
 
- |

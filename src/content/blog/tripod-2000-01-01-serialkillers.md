@@ -20,14 +20,11 @@ original_file: "/writings/blazer/SerialKillers.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Thu, 12 December 2002**
 
@@ -222,17 +219,14 @@ original_file: "/writings/blazer/SerialKillers.html"
 
 
 
- |
 
 
 **לפי פופולריות**
 
- |
 
 
  ****
 
- |
 
 
 **לפי קורבנות**
@@ -240,17 +234,14 @@ original_file: "/writings/blazer/SerialKillers.html"
 
 
 
- |
 
 
 ג'פרי דאמר
 
- |
 
 
 **1**
 
- |
 
 
 פדרו אלפונסו
@@ -259,18 +250,15 @@ original_file: "/writings/blazer/SerialKillers.html"
 
 
 
- |
 
 
 אד גיין, שבהשראתו
  נכתבו "חניבעל" ו"שתיקת הכבשים"
 
- |
 
 
 **2**
 
- |
 
 
 הנרי לוקאס ואוטיס
@@ -279,19 +267,16 @@ original_file: "/writings/blazer/SerialKillers.html"
 
 
 
- |
 
 
 פריץ הרמן,
  "הקצב מהנובר", שנהג למכור הן את הבגדים והן את הבשר של קורבנותיו
  בשוק השחור
 
- |
 
 
 **3**
 
- |
 
 
 לואיס אלפרדו
@@ -300,17 +285,14 @@ original_file: "/writings/blazer/SerialKillers.html"
 
 
 
- |
 
 
 טד בנדי
 
- |
 
 
 **4**
 
- |
 
 
 פי ווי גאסקינס,
@@ -319,17 +301,14 @@ original_file: "/writings/blazer/SerialKillers.html"
 
 
 
- |
 
 
 פדרו אלפונסו לופז
 
- |
 
 
 **5**
 
- |
 
 
 ג'אבד איקבאל
@@ -339,18 +318,15 @@ original_file: "/writings/blazer/SerialKillers.html"
 
 
 
- |
 
 
 ארתור שוקרוס,
  "המפלצת הצרפתית", שאנס רצח ואכל ילדים.
 
- |
 
 
 **6**
 
- |
 
 
 דלפינה ומריה דה
@@ -360,18 +336,15 @@ original_file: "/writings/blazer/SerialKillers.html"
 
 
 
- |
 
 
 הנרי לוקאס ואוטיס
  טול
 
- |
 
 
 **7**
 
- |
 
 
 ברונו לודקה, שליח
@@ -380,18 +353,15 @@ original_file: "/writings/blazer/SerialKillers.html"
 
 
 
- |
 
 
 איאן בריידי
  ומיירה הינדלי
 
- |
 
 
 **8**
 
- |
 
 
 אנדריי צ'יקטילו,
@@ -400,17 +370,14 @@ original_file: "/writings/blazer/SerialKillers.html"
 
 
 
- |
 
 
 צ'רלס מנסון
 
- |
 
 
 **9**
 
- |
 
 
 אנטולי
@@ -420,17 +387,14 @@ original_file: "/writings/blazer/SerialKillers.html"
 
 
 
- |
 
 
 ג'והן וויין גייסי
 
- |
 
 
 **10**
 
- |
 
 
 אחמד סוראדג'י,
@@ -574,4 +538,3 @@ original_file: "/writings/blazer/SerialKillers.html"
 
 
 
- |

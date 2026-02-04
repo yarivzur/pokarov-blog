@@ -18,14 +18,11 @@ original_file: "/bio/fog0000000019.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
  
 
@@ -78,4 +75,3 @@ Formal Resume ([Microsoft Word format](https://vlvl.tripod.com/bio/CV.doc)) ([O
 
 
 
- |

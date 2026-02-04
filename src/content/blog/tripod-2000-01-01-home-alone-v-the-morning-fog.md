@@ -18,14 +18,11 @@ original_file: "/writings/private/Home_Alone/fog0000000058.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Wed, 30 January 2002**
 
@@ -52,4 +49,3 @@ Previous | Next
 
 
 
- |

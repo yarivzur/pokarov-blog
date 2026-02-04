@@ -21,29 +21,24 @@ original_file: "/blogIndex.html"
 
 
 
- |
 
 :: VLVL :: Blog
 
 
 
 
- |
-
-
-
- |
-
-
- |
 
 
 
 
- |
 
 
-[](blog/2004/02/22.html)Sun, 22 February 2004
+
+
+
+
+
+ Sun, 22 February 2004
 
 One of the things I really like about the american culture, is their need to preserve the appearance of 'fair-play'. You'd think it only extends to people & sports. Wrong. It can be found in the documentation of minute fucntions in the Win32 API:
 
@@ -53,7 +48,7 @@ One of the things I really like about the american culture, is their need to pre
 
 
 
-[](writings/2fg/TV/2003/SixFeetUnder.html)Fri, 07 November 2003
+ Fri, 07 November 2003
 
 @כותרת:
 **
@@ -80,7 +75,7 @@ One of the things I really like about the american culture, is their need to pre
 
 
 
-[](writings/2fg/TV/2003/YuvalNatan.html)Fri, 07 November 2003
+ Fri, 07 November 2003
 
 @**כותרת:
 **
@@ -153,7 +148,7 @@ One of the things I really like about the american culture, is their need to pre
 
 
 
-[](writings/2fg/TV/2003/TheSteveShow.html)Fri, 07 November 2003
+ Fri, 07 November 2003
 
 @כותרת:
 
@@ -173,7 +168,7 @@ One of the things I really like about the american culture, is their need to pre
 
 
 
-[](writings/2fg/TV/2003/GavriLevi.html)Fri, 24 October 2003
+ Fri, 24 October 2003
 
 @**כותרת: השמן הלא נכון – גברי לוי
 **
@@ -200,4 +195,3 @@ One of the things I really like about the american culture, is their need to pre
 
 
 
- |

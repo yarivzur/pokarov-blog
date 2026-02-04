@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2001/Redundant.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sun, 09 September 2001**
 
@@ -73,4 +70,3 @@ original_file: "/writings/2fg/TV/2001/Redundant.html"
 
 
 
- |

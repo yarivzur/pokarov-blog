@@ -18,14 +18,11 @@ original_file: "/writings/private/fog0000000067.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Thu, 31 January 2002**
 
@@ -79,4 +76,3 @@ Sleep well, fellow bretheren.
 
 
 
- |

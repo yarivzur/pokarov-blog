@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2001/Questions.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sat, 13 October 2001**
 
@@ -75,4 +72,3 @@ original_file: "/writings/2fg/TV/2001/Questions.html"
 
 
 
- |

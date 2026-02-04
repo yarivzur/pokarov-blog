@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2002/ForeignNetworkCoverage.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 12 April 2002**
 
@@ -105,4 +102,3 @@ SMS) מה
 
 
 
- |

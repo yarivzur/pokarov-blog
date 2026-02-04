@@ -20,14 +20,11 @@ original_file: "/writings/blazer/RobotWars.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sat, 13 April 2002**
 
@@ -342,4 +339,3 @@ Martens), אבל
 
 
 
- |

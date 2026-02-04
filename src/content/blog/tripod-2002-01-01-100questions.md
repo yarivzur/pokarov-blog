@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2002/100Questions.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Wed, 27 March 2002**
 
@@ -367,4 +364,3 @@ Y בלילה
 
 
 
- |

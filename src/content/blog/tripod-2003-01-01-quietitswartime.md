@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/QuietItswartime.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 21 March 2003**
 
@@ -151,4 +148,3 @@ original_file: "/writings/2fg/TV/2003/QuietItswartime.html"
 
 
 
- |

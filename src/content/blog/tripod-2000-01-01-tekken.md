@@ -20,14 +20,11 @@ original_file: "/writings/blazer/Tekken.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sat, 15 February 2003**
 
@@ -156,4 +153,3 @@ original_file: "/writings/blazer/Tekken.html"
 
 
 
- |

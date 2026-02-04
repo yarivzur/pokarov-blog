@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2001/Pigua.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Thu, 11 October 2001**
 
@@ -61,4 +58,3 @@ original_file: "/writings/2fg/TV/2001/Pigua.html"
 
 
 
- |

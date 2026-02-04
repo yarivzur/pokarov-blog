@@ -20,14 +20,11 @@ original_file: "/writings/2fg/fog0000000024.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 ## Two Fat Guys - Food**
 
@@ -65,19 +62,16 @@ The name "Two Fat Guys" is, of course, an homage to the legendary cooking show "
 
  | Mon, 21 August 2000
  | [Azrieli](food/fog0000000025.html)
- |
 
 
 
  | Fri, 29 June 2001
  | [Atarim](food/fog0000000021.html)
- |
 
 
 
  | Fri, 28 September 2001
  | [Avangard](food/fog0000000022.html)
- |
 
 
 
@@ -92,4 +86,3 @@ The name "Two Fat Guys" is, of course, an homage to the legendary cooking show "
 
 
 
- |

@@ -20,14 +20,11 @@ original_file: "/writings/Internet-2.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 ## Internet Column**
 
@@ -51,15 +48,9 @@ removed promptly.
  
 
 
- |
  | 1999
- |
- |
  | 2000
- |
- |
  | 2001
- |
 
  | 02.07.1999
  | [First Column](/blog/tripod-1999-01-01-06-20-1999/)
@@ -251,9 +242,6 @@ removed promptly.
  | [Unedited](/blog/tripod-2001-01-01-05-06-2001/)
  | [Published ](http://www.tam.co.il/11_5_2001/tarbut.htm)
 
- |
- |
- |
  | 22.05.2000
  | [Unedited](/blog/tripod-2000-01-01-05-22-2000/)
  | N/A
@@ -261,9 +249,6 @@ removed promptly.
  | [Unedited](/blog/tripod-2001-01-01-05-13-2001/)
  | [Published ](http://www.tam.co.il/18_5_2001/tarbut.htm)
 
- |
- |
- |
  | 27.05.2000
  | [Unedited](/blog/tripod-2000-01-01-05-27-2000/)
  | N/A
@@ -271,9 +256,6 @@ removed promptly.
  | [Unedited](/blog/tripod-2001-01-01-05-20-2001/)
  | [Published ](http://www.tam.co.il/25_5_2001/tarbut.htm)
 
- |
- |
- |
  | 03.06.2000
  | [Unedited](/blog/tripod-2000-01-01-06-03-2000/)
  | N/A
@@ -281,9 +263,6 @@ removed promptly.
  | [Unedited](/blog/tripod-2001-01-01-05-27-2001/)
  | [Published ](http://www.tam.co.il/1_6_2001/tarbut.htm)
 
- |
- |
- |
  | 02.07.2000
  | [Unedited](/blog/tripod-2000-01-01-07-02-2000/)
  | N/A
@@ -291,9 +270,6 @@ removed promptly.
  | [Unedited](/blog/tripod-2001-01-01-06-03-2001/)
  | N/A
 
- |
- |
- |
  | 08.07.2000
  | [4Sale](/blog/tripod-2000-01-01-4sale/)
  | N/A
@@ -301,9 +277,6 @@ removed promptly.
  | [Unedited](/blog/tripod-2001-01-01-06-10-2001/)
  | [Published ](http://www.tam.co.il/15_6_2001/tarbut.htm)
 
- |
- |
- |
  | 08.07.2000
  | [Unedited](/blog/tripod-2000-01-01-07-08-2000/)
  | N/A
@@ -311,9 +284,6 @@ removed promptly.
  | [Unedited](/blog/tripod-2001-01-01-06-17-2001/)
  | [Published ](http://www.tam.co.il/22_6_2001/tarbut.htm)
 
- |
- |
- |
  | 17.07.2000
  | [Unedited](/blog/tripod-2000-01-01-07-17-2000/)
  | N/A
@@ -321,9 +291,6 @@ removed promptly.
  | [Unedited](/blog/tripod-2001-01-01-06-24-2001/)
  | [Published ](http://www.tam.co.il/29_6_2001/tarbut.htm)
 
- |
- |
- |
  | 23.07.2000
  | [Unedited](/blog/tripod-2000-01-01-07-23-2000/)
  | N/A
@@ -331,9 +298,6 @@ removed promptly.
  | [Unedited](/blog/tripod-2001-01-01-07-01-2001/)
  | [Published ](http://www.tam.co.il/6_7_2001/tarbut.htm)
 
- |
- |
- |
  | 29.07.2000
  | [Unedited](/blog/tripod-2000-01-01-07-29-2000/)
  | N/A
@@ -341,9 +305,6 @@ removed promptly.
  | [Unedited](/blog/tripod-2001-01-01-07-08-2001/)
  | [Published ](http://www.tam.co.il/13_7_2001/tarbut.htm)
 
- |
- |
- |
  | 13.08.2000
  | Unedited
  | N/A
@@ -351,9 +312,6 @@ removed promptly.
  | N/A
  | [Published](http://www.tam.co.il/20_7_2001/tarbut.htm)
 
- |
- |
- |
  | 20.08.2000
  | [Unedited](/blog/tripod-2000-01-01-08-20-2000/)
  | N/A
@@ -361,9 +319,6 @@ removed promptly.
  | [Unedited](/blog/tripod-2001-01-01-07-22-2001/)
  | [Published ](http://www.tam.co.il/27_7_2001/tarbut.htm)
 
- |
- |
- |
  | 26.08.2000
  | [Unedited](/blog/tripod-2000-01-01-08-26-2000/)
  | N/A
@@ -371,9 +326,6 @@ removed promptly.
  | [Unedited](/blog/tripod-2001-01-01-07-29-2001/)
  | [Published ](http://www.tam.co.il/3_8_2001/tarbut.htm)
 
- |
- |
- |
  | 04.09.2000
  | [Unedited](/blog/tripod-2000-01-01-09-04-2000/)
  | N/A
@@ -381,9 +333,6 @@ removed promptly.
  | [Unedited](/blog/tripod-2001-01-01-08-05-2001/)
  | [Published ](http://www.tam.co.il/10_8_2001/tarbut.htm)
 
- |
- |
- |
  | 10.09.2000
  | [Unedited](/blog/tripod-2000-01-01-09-10-2000/)
  | N/A
@@ -391,103 +340,58 @@ removed promptly.
  | [The last one...](/blog/tripod-2001-01-01-08-12-2001/)
  | [Published ](http://www.tam.co.il/17_8_2001/index.htm)
 
- |
- |
- |
  | 17.09.2000
  | [Unedited](/blog/tripod-2000-01-01-09-17-2000/)
  | N/A
- |
- |
- |
 
- |
- |
- |
  | 24.09.2000
  | [Unedited](/blog/tripod-2000-01-01-09-24-2000/)
  | N/A
 
- |
- |
- |
  | 14.10.2000
  | [Unedited](/blog/tripod-2000-01-01-10-14-2000/)
  | N/A
 
- |
- |
- |
  | 22.10.2000
  | [Unedited](/blog/tripod-2000-01-01-10-22-2000/)
  | N/A
 
- |
- |
- |
  | 29.10.2000
  | Unedited
  | N/A
 
- |
- |
- |
  | 03.11.2000
  | Unedited
  | [Published](http://www.tam.co.il/3_11_2000/tarbut.htm)
 
- |
- |
- |
  | 10.11.2000
  | [Unedited](/blog/tripod-2000-01-01-11-13-2000/)
  | [Published](http://www.tam.co.il/10_11_2000/tarbut.htm)
 
- |
- |
- |
  | 17.11.2000
  | [Unedited](/blog/tripod-2000-01-01-11-20-2000/)
  | [Published](http://www.tam.co.il/17_11_2000/tarbut-internet.htm)
 
- |
- |
- |
  | 24.11.2000
  | [Unedited](/blog/tripod-2000-01-01-11-25-2000/)
  | [Published](http://www.tam.co.il/24_11_2000/tarbut.htm)
 
- |
- |
- |
  | 01.12.2000
  | [Unedited](/blog/tripod-2000-01-01-12-03-2000/)
  | [Published](http://www.tam.co.il/1_12_2000/tarbut.htm)
 
- |
- |
- |
  | 08.12.2000
  | [Unedited](/blog/tripod-2000-01-01-12-07-2000/)
  | [Published](http://www.tam.co.il/8_12_2000/tarbut.htm)
 
- |
- |
- |
  | 15.12.2000
  | [Unedited](/blog/tripod-2000-01-01-12-10-2000/)
  | [Published](http://www.tam.co.il/15_12_2000/tarbut.htm)
 
- |
- |
- |
  | 22.12.2000
  | Unedited
  | [Published](http://www.tam.co.il/22_12_2000/tarbut.htm)
 
- |
- |
- |
  | 29.12.2000
  | [Unedited](/blog/tripod-2000-01-01-12-31-2000/)
  | [Published](http://www.tam.co.il/29_12_2000/tarbut.htm)
@@ -503,4 +407,3 @@ removed promptly.
 
 
 
- |

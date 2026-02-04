@@ -20,14 +20,11 @@ original_file: "/writings/sports/Articles/fog0000000081.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Wed, 09 June 1999**
 
@@ -663,4 +660,3 @@ original_file: "/writings/sports/Articles/fog0000000081.html"
 
 
 
- |

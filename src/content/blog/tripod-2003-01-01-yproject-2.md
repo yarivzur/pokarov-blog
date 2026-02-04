@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/YProject-2.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 19 September 2003**
 
@@ -70,4 +67,3 @@ original_file: "/writings/2fg/TV/2003/YProject-2.html"
 
 
 
- |

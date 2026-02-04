@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/Thestrongestthereis.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 06 June 2003**
 
@@ -89,4 +86,3 @@ original_file: "/writings/2fg/TV/2003/Thestrongestthereis.html"
 
 
 
- |

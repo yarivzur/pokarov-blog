@@ -20,14 +20,11 @@ original_file: "/che/fog0000000020.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Wed, 23 January 2002**
 
@@ -87,4 +84,3 @@ I saw his teeth and the playful grin with which he foretold histoy, I felt his h
 
 
 
- |

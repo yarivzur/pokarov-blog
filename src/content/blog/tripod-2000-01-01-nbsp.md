@@ -20,26 +20,21 @@ original_file: "/bio/CV-Computers.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
  
 
 
 
- |
 
 
 .**Professional
  Experience
 
- |
 
 
  *
@@ -47,7 +42,6 @@ original_file: "/bio/CV-Computers.html"
 
 *2001-Current*
 
- |
 
 ##  
 
@@ -58,7 +52,6 @@ original_file: "/bio/CV-Computers.html"
 
 
 
- |
 
 # Software Development Manager
 
@@ -72,12 +65,10 @@ In charge of leading a software development team
 
 
 
- |
 
 
  ****
 
- |
 
 
 * *
@@ -85,7 +76,6 @@ In charge of leading a software development team
 
 *2000-2001*
 
- |
 
 
 * *
@@ -97,12 +87,10 @@ In charge of leading a software development team
 
 
 
- |
 
 
  ****
 
- |
 
 ### Vice President
  of Research & Development
@@ -142,12 +130,10 @@ Actively
 
 
 
- |
 
 
  ****
 
- |
 
 
 * *
@@ -155,7 +141,6 @@ Actively
 
 *1999-2000*
 
- |
 
 ####  
 
@@ -166,12 +151,10 @@ Actively
 
 
 
- |
 
 
  ****
 
- |
 
 ### Senior Software Developer
 
@@ -194,12 +177,10 @@ Developed
 
 
 
- |
 
 
  ****
 
- |
 
 ###  
 
@@ -207,7 +188,6 @@ Developed
 ### *1996-1999*
 
 
- |
 
 
 * *
@@ -218,12 +198,10 @@ Developed
 
 
 
- |
 
 
  ****
 
- |
 
 ### Software
  Engineer
@@ -245,12 +223,10 @@ As
 
 
 
- |
 
 
  ****
 
- |
 
 ###  
 
@@ -258,7 +234,6 @@ As
 ### *1991-1996*
 
 
- |
 
 
 * *
@@ -269,12 +244,10 @@ As
 
 
 
- |
 
 
  ****
 
- |
 
 ### Section
  Commanding Officer
@@ -302,23 +275,19 @@ Honorable discharge at
 
 
 
- |
 
 
 **.Education**
 
- |
  * *
  *1996-2002*
 
- |
  * *
  *Tel-Aviv University*
 
 
 
 
- |
 
 
  ****
@@ -326,12 +295,10 @@ Honorable discharge at
 
 
 
- |
 
 
  ****
 
- |
  B.Sc. in Computer Science and
  Psychology
 
@@ -341,26 +308,21 @@ Honorable discharge at
 
 
 
- |
 
 
  ****
 
- |
  *1996-2000*
 
- |
  *Tel-Aviv University*
 
 
 
 
- |
 
 
  ****
 
- |
  The “Formal approaches to
  Knowledge, Decision Making and Language” Honors Programs
 
@@ -377,12 +339,10 @@ An Honors program which
 
 
 
- |
 
 
  ****
 
- |
 
 
 Professional Courses:
@@ -403,7 +363,6 @@ Professional Courses:
 
 
 
- |
 
 
 ** **
@@ -412,7 +371,6 @@ Professional Courses:
 **.Professional
  Skills**
 
- |
 
 
  
@@ -446,13 +404,11 @@ Professional Courses:
 
 
 
- |
 
 
 **.Teaching
  Experience**
 
- |
   
 
 
@@ -477,12 +433,10 @@ Professional Courses:
 
 
 
- |
 
 
 **.Languages**
 
- |
 
 
  
@@ -503,35 +457,27 @@ Professional Courses:
 
 
 
- |
 
 
 **.Extra
  Curricular**
 
- |
   
 
 
 
 
- |
 
 
 **.Areas of
  Interest**
 
- |
   
 
 
 
 
 
- |
- |
- |
- |
 
 
 
@@ -550,4 +496,3 @@ Professional Courses:
 
 
 
- |

@@ -20,14 +20,11 @@ original_file: "/writings/Yedioth_Sport/TheColinaRoar.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Sun, 12 October 2003**
 
@@ -66,4 +63,3 @@ original_file: "/writings/Yedioth_Sport/TheColinaRoar.html"
 
 
 
- |

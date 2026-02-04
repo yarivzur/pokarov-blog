@@ -20,18 +20,15 @@ original_file: "/blog/archives/November2003.html"
 
 
 
- |
 
 
 
- |
-
-
- |
 
 
 
-[](../../writings/2fg/TV/2003/SixFeetUnder.html)Fri, 07 November 2003
+
+
+ Fri, 07 November 2003
 
 @כותרת:
 **
@@ -58,7 +55,7 @@ original_file: "/blog/archives/November2003.html"
 
 
 
-[](../../writings/2fg/TV/2003/YuvalNatan.html)Fri, 07 November 2003
+ Fri, 07 November 2003
 
 @**כותרת:
 **
@@ -131,7 +128,7 @@ original_file: "/blog/archives/November2003.html"
 
 
 
-[](../../writings/2fg/TV/2003/TheSteveShow.html)Fri, 07 November 2003
+ Fri, 07 November 2003
 
 @כותרת:
 
@@ -160,4 +157,3 @@ original_file: "/blog/archives/November2003.html"
 
 
 
- |

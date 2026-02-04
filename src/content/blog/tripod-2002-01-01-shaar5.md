@@ -18,14 +18,11 @@ original_file: "/writings/2fg/TV/2002/Shaar5.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 24 May 2002**
 
@@ -80,4 +77,3 @@ original_file: "/writings/2fg/TV/2002/Shaar5.html"
 
 
 
- |

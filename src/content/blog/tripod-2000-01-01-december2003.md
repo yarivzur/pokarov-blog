@@ -18,14 +18,6 @@ original_file: "/blog/archives/December2003.html"
 
 
 
- |
-
-
-
- |
-
-
- |
 
 
 
@@ -38,4 +30,8 @@ original_file: "/blog/archives/December2003.html"
 
 
 
- |
+
+
+
+
+

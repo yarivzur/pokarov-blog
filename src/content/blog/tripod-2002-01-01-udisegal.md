@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2002/UdiSegal.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Wed, 17 July 2002**
 
@@ -65,4 +62,3 @@ original_file: "/writings/2fg/TV/2002/UdiSegal.html"
 
 
 
- |

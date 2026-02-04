@@ -20,14 +20,11 @@ original_file: "/writings/2fg/TV/2003/GilRiva.html"
 
 
 
- |
 
 
 
- |
 
 
- |
 
 **Fri, 20 June 2003**
 
@@ -105,4 +102,3 @@ original_file: "/writings/2fg/TV/2003/GilRiva.html"
 
 
 
- |
