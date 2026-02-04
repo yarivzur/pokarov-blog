@@ -1,25 +1,37 @@
 ---
 import { type CollectionEntry, getCollection, render } from "astro:content";
 import BlogPost from "@/layouts/BlogPost.astro";
+import { getSortedPosts } from "@/utils/postAdapter";
 
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
+  const sortedPosts = getSortedPosts(posts);
 
-  return posts.flatMap((post) => ([
-    // Canonical URL
-    { params: { slug: post.id }, props: post },
+  return sortedPosts.flatMap((post, index) => {
+    const prevPost = index > 0 ? sortedPosts[index - 1] : null;
+    const nextPost = index < sortedPosts.length - 1 ? sortedPosts[index + 1] : null;
 
-    // Legacy links that include ".md" extension
-    { params: { slug: `${post.id}.md` }, props: post },
-  ]));
+    const props = { post, prevPost, nextPost };
+
+    return [
+      // Canonical URL
+      { params: { slug: post.id }, props },
+      // Legacy links that include ".md" extension
+      { params: { slug: `${post.id}.md` }, props },
+    ];
+  });
 }
 
-type Props = CollectionEntry<"blog">;
+type Props = {
+  post: CollectionEntry<"blog">;
+  prevPost: CollectionEntry<"blog"> | null;
+  nextPost: CollectionEntry<"blog"> | null;
+};
 
-const post = Astro.props;
+const { post, prevPost, nextPost } = Astro.props;
 const { Content } = await render(post);
 ---
 
-<BlogPost {...post.data} post={post}>
+<BlogPost {...post.data} post={post} prevPost={prevPost} nextPost={nextPost}>
   <Content />
 </BlogPost>

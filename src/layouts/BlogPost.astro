@@ -10,12 +10,13 @@ import { getPubDatetime, getModDatetime, getTags } from "@/utils/postAdapter";
 import { SITE } from "@/config";
 
 type Props = CollectionEntry<"blog">["data"] & {
-  // Allow passing the full post for adapter functions
   post?: CollectionEntry<"blog">;
+  prevPost?: CollectionEntry<"blog"> | null;
+  nextPost?: CollectionEntry<"blog"> | null;
 };
 
 const props = Astro.props;
-const { title, description, heroImage, category } = props;
+const { title, description, heroImage, category, prevPost, nextPost } = props;
 
 // Use adapter to get dates
 const pubDate = props.pubDatetime ?? props.pubDate;
@@ -89,9 +90,49 @@ const tags = props.tags ?? (category ? [category] : []);
     </article>
 
     <nav class="post-nav mt-12 border-t border-border pt-6">
-      <a href="/blog" class="back-link text-accent hover:underline">
-        ← Back to all posts
-      </a>
+      <!-- Back to all posts -->
+      <div class="mb-6">
+        <a href="/blog" class="back-link text-accent hover:underline">
+          ← Back to all posts
+        </a>
+      </div>
+
+      <!-- Prev/Next navigation -->
+      <div class="prev-next grid grid-cols-1 gap-4 sm:grid-cols-2">
+        {prevPost ? (
+          <a
+            href={`/blog/${encodeURIComponent(prevPost.id)}/`}
+            class="prev-post group flex items-start gap-2 rounded-lg border border-border p-4 transition-colors hover:border-accent"
+          >
+            <span class="shrink-0 text-foreground/50 group-hover:text-accent">←</span>
+            <div class="min-w-0">
+              <div class="text-xs uppercase tracking-wide text-foreground/50">Previous</div>
+              <div class="mt-1 font-medium text-foreground group-hover:text-accent line-clamp-2" dir="auto">
+                {prevPost.data.title}
+              </div>
+            </div>
+          </a>
+        ) : (
+          <div></div>
+        )}
+
+        {nextPost ? (
+          <a
+            href={`/blog/${encodeURIComponent(nextPost.id)}/`}
+            class="next-post group flex items-start justify-end gap-2 rounded-lg border border-border p-4 text-right transition-colors hover:border-accent sm:col-start-2"
+          >
+            <div class="min-w-0">
+              <div class="text-xs uppercase tracking-wide text-foreground/50">Next</div>
+              <div class="mt-1 font-medium text-foreground group-hover:text-accent line-clamp-2" dir="auto">
+                {nextPost.data.title}
+              </div>
+            </div>
+            <span class="shrink-0 text-foreground/50 group-hover:text-accent">→</span>
+          </a>
+        ) : (
+          <div></div>
+        )}
+      </div>
     </nav>
   </main>
 
@@ -153,5 +194,12 @@ const tags = props.tags ?? (category ? [category] : []);
 
   .tag {
     transition: all 0.2s ease;
+  }
+
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
 </style>
