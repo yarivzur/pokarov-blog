@@ -1,6 +1,6 @@
 ---
 title: "BenRosen"
-pubDate: "2002-01-01"
+pubDate: "2002-02-15"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/BenRosen.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2002/BenRosen.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 15 February 2002**
 
 @כותרת:****
 ******

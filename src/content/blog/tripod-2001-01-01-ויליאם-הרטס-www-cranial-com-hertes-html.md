@@ -9,23 +9,6 @@ original_file: "/writings/internet/2001/01.21.2001.html"
 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 13 April 2002**
-
  
 
 :: מקור ראשון ::

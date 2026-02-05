@@ -1,6 +1,6 @@
 ---
 title: "DrugsinSports"
-pubDate: "2000-01-01"
+pubDate: "2003-10-04"
 source: "tripod"
 category: "blazer"
 original_file: "/writings/blazer/DrugsinSports.html"
@@ -10,23 +10,6 @@ original_file: "/writings/blazer/DrugsinSports.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 04 October 2003**
 
 @כותבוקסה: אחד נגד כולם
 

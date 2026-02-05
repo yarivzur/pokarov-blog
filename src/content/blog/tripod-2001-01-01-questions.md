@@ -1,6 +1,6 @@
 ---
 title: "Questions"
-pubDate: "2001-01-01"
+pubDate: "2001-10-13"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/Questions.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2001/Questions.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 13 October 2001**
 
  
 

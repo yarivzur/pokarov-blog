@@ -1,6 +1,6 @@
 ---
 title: "Elections2003"
-pubDate: "2003-01-01"
+pubDate: "2003-01-31"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/Elections2003.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/Elections2003.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 31 January 2003**
 
 @כותרת: קפטן ג'ק**
 

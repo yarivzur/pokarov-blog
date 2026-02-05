@@ -1,6 +1,6 @@
 ---
 title: "RafiReshefvs.KobiMeydan"
-pubDate: "2003-01-01"
+pubDate: "2003-03-07"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/RafiReshefvs.KobiMeydan.html"
@@ -8,24 +8,6 @@ original_file: "/writings/2fg/TV/2003/RafiReshefvs.KobiMeydan.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 07 March 2003**
-
 
 קטגוריה
 

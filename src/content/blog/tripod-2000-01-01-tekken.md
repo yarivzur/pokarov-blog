@@ -1,6 +1,6 @@
 ---
 title: "Tekken"
-pubDate: "2000-01-01"
+pubDate: "2003-02-15"
 source: "tripod"
 category: "blazer"
 original_file: "/writings/blazer/Tekken.html"
@@ -10,23 +10,6 @@ original_file: "/writings/blazer/Tekken.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 15 February 2003**
 
  
 

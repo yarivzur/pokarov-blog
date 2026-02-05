@@ -1,6 +1,6 @@
 ---
 title: "WildWeekend"
-pubDate: "2000-01-01"
+pubDate: "2003-09-07"
 source: "tripod"
 category: "sports"
 original_file: "/writings/Yedioth_Sport/WildWeekend.html"
@@ -10,23 +10,6 @@ original_file: "/writings/Yedioth_Sport/WildWeekend.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sun, 07 September 2003**
 
 @כותרת**: **
 **

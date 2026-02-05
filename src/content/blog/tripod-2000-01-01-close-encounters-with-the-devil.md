@@ -1,6 +1,6 @@
 ---
 title: "Close encounters with the Devil"
-pubDate: "2000-01-01"
+pubDate: "2002-01-31"
 source: "tripod"
 category: "personal"
 original_file: "/writings/private/fog0000000066.html"
@@ -8,23 +8,6 @@ original_file: "/writings/private/fog0000000066.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Thu, 31 January 2002**
 
 # Close encounters with the Devil
 Friday night. The time when the lonely ones start missing the pistols they left at their parents home, and contemplate thoughts like:"Is it legal commiting suicide with a gun if you no longer have a license to it?". It was at that time , while I was gulping down Knor's onion soup (Are you supposed to use *hot* water?!) Did the telephone ring.

@@ -11,23 +11,6 @@ original_file: "/writings/blazer/Simulator.html"
 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 13 April 2002**
-
 @כותרת: זה מטוס! זה ציפור! זה סימולטור!**
 
 ** **

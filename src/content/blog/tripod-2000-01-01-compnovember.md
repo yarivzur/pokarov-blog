@@ -11,23 +11,6 @@ original_file: "/writings/blazer/compNovember.html"
 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 13 April 2002**
-
 @כותרת: בנה ביתך**
 
 ** **

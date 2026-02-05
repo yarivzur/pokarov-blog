@@ -1,6 +1,6 @@
 ---
 title: "TheCentralShow"
-pubDate: "2003-01-01"
+pubDate: "2003-08-01"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/TheCentralShow.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2003/TheCentralShow.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 01 August 2003**
 
 המופע המרכזי
 

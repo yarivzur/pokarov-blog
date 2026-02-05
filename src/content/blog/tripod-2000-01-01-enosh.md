@@ -1,6 +1,6 @@
 ---
 title: "Enosh"
-pubDate: "2000-01-01"
+pubDate: "2003-09-27"
 source: "tripod"
 category: "personal"
 original_file: "/writings/private/Enosh.html"
@@ -10,23 +10,6 @@ original_file: "/writings/private/Enosh.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 27 September 2003**
 
  
 

@@ -1,6 +1,6 @@
 ---
 title: "TheAmazingRace"
-pubDate: "2003-01-01"
+pubDate: "2003-07-11"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/TheAmazingRace.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/TheAmazingRace.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 11 July 2003**
 
 @כותרת: **
 

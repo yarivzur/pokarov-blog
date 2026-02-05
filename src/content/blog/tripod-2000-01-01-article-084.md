@@ -1,6 +1,6 @@
 ---
 title: "article-084"
-pubDate: "2000-01-01"
+pubDate: "2002-08-24"
 source: "tripod"
 category: "sports"
 original_file: "/writings/sports/Articles/fog0000000084.html"
@@ -10,23 +10,6 @@ original_file: "/writings/sports/Articles/fog0000000084.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 24 August 2002**
 
  
 

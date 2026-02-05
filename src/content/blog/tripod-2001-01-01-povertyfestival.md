@@ -1,6 +1,6 @@
 ---
 title: "PovertyFestival"
-pubDate: "2001-01-01"
+pubDate: "2001-12-28"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/PovertyFestival.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2001/PovertyFestival.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 28 December 2001**
 
 @כותרת: כשהעוני יורה, הקדמנים שותקים
 

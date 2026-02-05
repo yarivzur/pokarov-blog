@@ -1,6 +1,6 @@
 ---
 title: "Tchelet"
-pubDate: "2003-01-01"
+pubDate: "2003-04-11"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/Tchelet.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/Tchelet.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 11 April 2003**
 
 @כותרת:
 

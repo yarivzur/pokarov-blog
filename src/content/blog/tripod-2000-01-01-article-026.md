@@ -1,6 +1,6 @@
 ---
 title: "article-026"
-pubDate: "2000-01-01"
+pubDate: "2002-01-26"
 source: "tripod"
 category: "archive"
 original_file: "/gibson/fog0000000026.html"
@@ -9,22 +9,6 @@ original_file: "/gibson/fog0000000026.html"
 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 26 January 2002**
  "My favorite piece of technology is the Walkman. It changed forever the way we perceive music. The Walkman has given us the opportunity to listen to whatever kind of music we wanted wherever we wanted."
 
 ---William Gibson, 1994.

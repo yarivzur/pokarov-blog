@@ -1,6 +1,6 @@
 ---
 title: "Survivor6"
-pubDate: "2003-01-01"
+pubDate: "2003-10-24"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/Survivor6.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/Survivor6.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 24 October 2003**
 
 @כותרת:
 **

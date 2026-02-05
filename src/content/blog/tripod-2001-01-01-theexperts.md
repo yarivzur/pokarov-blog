@@ -1,6 +1,6 @@
 ---
 title: "TheExperts"
-pubDate: "2001-01-01"
+pubDate: "2001-11-23"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/TheExperts.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2001/TheExperts.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 23 November 2001**
 
 @כותרת:ימי הרדיו
 

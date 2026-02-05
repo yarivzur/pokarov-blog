@@ -1,6 +1,6 @@
 ---
 title: "bond"
-pubDate: "2000-01-01"
+pubDate: "2002-11-13"
 source: "tripod"
 category: "blazer"
 original_file: "/writings/blazer/bond.html"
@@ -10,23 +10,6 @@ original_file: "/writings/blazer/bond.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Wed, 13 November 2002**
 
 @כותרת: **
 

@@ -1,6 +1,6 @@
 ---
 title: "Mondial"
-pubDate: "2002-01-01"
+pubDate: "2002-06-07"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/Mondial.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2002/Mondial.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 07 June 2002**
 
  
 

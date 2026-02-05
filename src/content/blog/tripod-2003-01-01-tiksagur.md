@@ -1,6 +1,6 @@
 ---
 title: "TikSagur"
-pubDate: "2003-01-01"
+pubDate: "2003-02-28"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/TikSagur.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/TikSagur.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 28 February 2003**
 
 @כותרת:
 

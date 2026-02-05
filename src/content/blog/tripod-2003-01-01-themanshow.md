@@ -1,6 +1,6 @@
 ---
 title: "TheManShow"
-pubDate: "2003-01-01"
+pubDate: "2003-06-27"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/TheManShow.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/TheManShow.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 27 June 2003**
 
 @כותרת: **
 

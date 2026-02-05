@@ -1,6 +1,6 @@
 ---
 title: "BachelorParty"
-pubDate: "2000-01-01"
+pubDate: "2003-05-26"
 source: "tripod"
 category: "personal"
 original_file: "/writings/private/BachelorParty.html"
@@ -8,23 +8,6 @@ original_file: "/writings/private/BachelorParty.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Mon, 26 May 2003**
 
 **** 
 

@@ -1,6 +1,6 @@
 ---
 title: "EizenshteinTzinovich"
-pubDate: "2003-01-01"
+pubDate: "2003-03-21"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/EizenshteinTzinovich.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2003/EizenshteinTzinovich.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 21 March 2003**
 
 במדינת ישראל של היום, זה ידוע
 

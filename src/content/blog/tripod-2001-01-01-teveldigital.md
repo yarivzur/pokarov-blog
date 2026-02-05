@@ -1,6 +1,6 @@
 ---
 title: "TevelDigital"
-pubDate: "2001-01-01"
+pubDate: "2001-11-09"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/TevelDigital.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2001/TevelDigital.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 09 November 2001**
 
 @כותרת: היפה בתבל**
 

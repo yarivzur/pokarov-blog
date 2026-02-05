@@ -1,6 +1,6 @@
 ---
 title: "TheWeakestLink"
-pubDate: "2002-01-01"
+pubDate: "2002-02-08"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/TheWeakestLink.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2002/TheWeakestLink.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 08 February 2002**
 
 בשם האתיקה
 המקצועית (מושג אבסרקטי ששמענו עליו פעם) נתחיל בגילוי נאות – אחד מאיתנו ניסה בשנה

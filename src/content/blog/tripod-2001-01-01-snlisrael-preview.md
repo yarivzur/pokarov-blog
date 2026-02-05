@@ -1,6 +1,6 @@
 ---
 title: "SNLIsrael-Preview"
-pubDate: "2001-01-01"
+pubDate: "2001-10-19"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/SNLIsrael-Preview.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2001/SNLIsrael-Preview.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 19 October 2001**
 
  
 

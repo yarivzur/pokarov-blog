@@ -1,6 +1,6 @@
 ---
 title: "article-025"
-pubDate: "2000-01-01"
+pubDate: "2000-08-21"
 source: "tripod"
 category: "food-reviews"
 original_file: "/writings/2fg/food/fog0000000025.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/food/fog0000000025.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Mon, 21 August 2000**
 
 **
 

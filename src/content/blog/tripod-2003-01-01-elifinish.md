@@ -1,6 +1,6 @@
 ---
 title: "EliFinish"
-pubDate: "2003-01-01"
+pubDate: "2003-02-21"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/EliFinish.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/EliFinish.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 21 February 2003**
 
 אלי נגד העולם (1)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Thestrongestthereis"
-pubDate: "2003-01-01"
+pubDate: "2003-06-06"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/Thestrongestthereis.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/Thestrongestthereis.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 06 June 2003**
 
 @כותרת:
 

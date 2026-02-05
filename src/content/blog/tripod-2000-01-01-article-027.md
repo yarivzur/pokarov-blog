@@ -1,6 +1,6 @@
 ---
 title: "article-027"
-pubDate: "2000-01-01"
+pubDate: "2002-01-26"
 source: "tripod"
 category: "archive"
 original_file: "/gibson/fog0000000027.html"
@@ -11,22 +11,6 @@ original_file: "/gibson/fog0000000027.html"
 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 26 January 2002**
 Speeches by William Gibson and Bruce Sterling
 National Academy of Sciences
 Convocation on Technology and Education

@@ -1,6 +1,6 @@
 ---
 title: "AmIsraelLive"
-pubDate: "2002-01-01"
+pubDate: "2002-02-01"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/AmIsraelLive.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2002/AmIsraelLive.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 01 February 2002**
 
 אחת התלונות המרכזיות כלפינו,
 מעבר לעניין הסוגריים (וחוץ מזה – אם התרגלתם לגיל ריבה, מה זה כמה הערות שוליים?),

@@ -1,6 +1,6 @@
 ---
 title: "TheYard"
-pubDate: "2003-01-01"
+pubDate: "2003-08-22"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/TheYard.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/TheYard.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 22 August 2003**
 
 @כותרת:
 **

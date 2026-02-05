@@ -9,23 +9,6 @@ original_file: "/writings/internet/1999/11.01.1999.html"
 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 13 April 2002**
-
 #  
 
 # האתרים שאתם חייבים להכיר

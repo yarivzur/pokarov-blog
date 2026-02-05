@@ -1,6 +1,6 @@
 ---
 title: "Silver equals Gold"
-pubDate: "2000-01-01"
+pubDate: "1999-11-10"
 source: "tripod"
 category: "sports"
 original_file: "/writings/sports/Articles/fog0000000092.html"
@@ -10,23 +10,6 @@ original_file: "/writings/sports/Articles/fog0000000092.html"
 
 *
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Wed, 10 November 1999**
 
 # Silver equals Gold
 

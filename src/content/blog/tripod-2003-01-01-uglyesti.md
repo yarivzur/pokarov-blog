@@ -1,6 +1,6 @@
 ---
 title: "UglyEsti"
-pubDate: "2003-01-01"
+pubDate: "2003-07-11"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/UglyEsti.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2003/UglyEsti.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 11 July 2003**
 
 בימים כתיקונם אנחנו אנשים של
 ויסקי. כמו גברים אמיתיים (דגש על ה'כמו'),  תנו לנו בקבוק 12 שנה ואנחנו מסודרים. אבל

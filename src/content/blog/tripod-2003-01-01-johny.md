@@ -1,6 +1,6 @@
 ---
 title: "Johny"
-pubDate: "2003-01-01"
+pubDate: "2003-07-04"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/Johny.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2003/Johny.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 04 July 2003**
 
  
 

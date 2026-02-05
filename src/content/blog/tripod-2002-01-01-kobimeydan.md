@@ -1,6 +1,6 @@
 ---
 title: "KobiMeydan"
-pubDate: "2002-01-01"
+pubDate: "2002-01-04"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/KobiMeydan.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2002/KobiMeydan.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 04 January 2002**
 
 @כותרת: 
 

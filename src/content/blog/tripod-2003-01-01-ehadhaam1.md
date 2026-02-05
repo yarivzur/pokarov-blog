@@ -1,6 +1,6 @@
 ---
 title: "EhadHaam1"
-pubDate: "2003-01-01"
+pubDate: "2003-08-15"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/EhadHaam1.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/EhadHaam1.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 15 August 2003**
 
 @כותרת:
 

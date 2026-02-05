@@ -1,6 +1,6 @@
 ---
 title: "Home Alone VI - A New Morning"
-pubDate: "2000-01-01"
+pubDate: "2002-01-30"
 source: "tripod"
 category: "personal"
 original_file: "/writings/private/Home_Alone/fog0000000059.html"
@@ -8,23 +8,6 @@ original_file: "/writings/private/Home_Alone/fog0000000059.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Wed, 30 January 2002**
 
 # Home Alone VI - A New Morning
 Good Morning. Waking up to a new morning. All my best friends have turned into text mode. As Master Binyamini put it last night - "Now we are going to be good friends, you'll see, Wait a minute I have a call waiting from Dana. Talk to you later".

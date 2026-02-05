@@ -1,6 +1,6 @@
 ---
 title: "YaelBarZohar"
-pubDate: "2003-01-01"
+pubDate: "2003-05-23"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/YaelBarZohar.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2003/YaelBarZohar.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 23 May 2003**
 
 @כותרת:
 

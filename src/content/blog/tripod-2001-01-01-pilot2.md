@@ -1,6 +1,6 @@
 ---
 title: "Pilot2"
-pubDate: "2001-01-01"
+pubDate: "2001-06-14"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/Pilot2.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2001/Pilot2.html"
 
 *
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Thu, 14 June 2001**
 
 ** 
 

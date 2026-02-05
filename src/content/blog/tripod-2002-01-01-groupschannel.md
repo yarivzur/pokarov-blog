@@ -1,6 +1,6 @@
 ---
 title: "GroupsChannel"
-pubDate: "2002-01-01"
+pubDate: "2002-01-18"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/GroupsChannel.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2002/GroupsChannel.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 18 January 2002**
 
  
 

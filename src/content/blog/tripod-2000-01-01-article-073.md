@@ -1,6 +1,6 @@
 ---
 title: "article-073"
-pubDate: "2000-01-01"
+pubDate: "2002-01-31"
 source: "tripod"
 category: "misc"
 original_file: "/writings/misc/fog0000000073.html"
@@ -10,23 +10,6 @@ original_file: "/writings/misc/fog0000000073.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Thu, 31 January 2002**
 
  **
 

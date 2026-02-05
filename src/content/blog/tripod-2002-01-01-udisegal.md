@@ -1,6 +1,6 @@
 ---
 title: "UdiSegal"
-pubDate: "2002-01-01"
+pubDate: "2002-07-17"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/UdiSegal.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2002/UdiSegal.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Wed, 17 July 2002**
 
  
 

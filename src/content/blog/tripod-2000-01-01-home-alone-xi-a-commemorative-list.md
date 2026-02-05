@@ -1,6 +1,6 @@
 ---
 title: "Home Alone XI - A Commemorative list"
-pubDate: "2000-01-01"
+pubDate: "2002-01-30"
 source: "tripod"
 category: "personal"
 original_file: "/writings/private/Home_Alone/fog0000000064.html"
@@ -8,23 +8,6 @@ original_file: "/writings/private/Home_Alone/fog0000000064.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Wed, 30 January 2002**
 
 # Home Alone XI - A Commemorative list
 Hiya all. Sweating my way along midtown TA this morning (Friday) I realized I was looking at a lot of things for the last time untill I return from Miluim, In a month or so. So I compiled a short list of all the things here (as opposed to distant Prague or fantasy NYC) which I will miss this month:

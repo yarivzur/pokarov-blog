@@ -1,6 +1,6 @@
 ---
 title: "MensPackage"
-pubDate: "2002-01-01"
+pubDate: "2002-01-11"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/MensPackage.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2002/MensPackage.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 11 January 2002**
 
 @כותרת:
 

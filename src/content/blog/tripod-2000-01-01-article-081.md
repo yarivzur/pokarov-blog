@@ -1,6 +1,6 @@
 ---
 title: "article-081"
-pubDate: "2000-01-01"
+pubDate: "1999-06-09"
 source: "tripod"
 category: "sports"
 original_file: "/writings/sports/Articles/fog0000000081.html"
@@ -10,23 +10,6 @@ original_file: "/writings/sports/Articles/fog0000000081.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Wed, 09 June 1999**
 
  
 

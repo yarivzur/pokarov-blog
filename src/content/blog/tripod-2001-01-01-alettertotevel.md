@@ -1,6 +1,6 @@
 ---
 title: "ALetterToTevel"
-pubDate: "2001-01-01"
+pubDate: "2001-03-05"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/ALetterToTevel.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2001/ALetterToTevel.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Mon, 05 March 2001**
 
 לכבוד
 

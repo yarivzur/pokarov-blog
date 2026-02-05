@@ -1,6 +1,6 @@
 ---
 title: "Localnews"
-pubDate: "2003-01-01"
+pubDate: "2003-04-04"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/Localnews.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/Localnews.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 04 April 2003**
 
 @כותרת: מהנעשה במתנ"ס תל-חרשפים**
 

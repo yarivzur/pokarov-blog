@@ -1,6 +1,6 @@
 ---
 title: "QuietItswartime"
-pubDate: "2003-01-01"
+pubDate: "2003-03-21"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/QuietItswartime.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/QuietItswartime.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 21 March 2003**
 
 @כותרת:
 

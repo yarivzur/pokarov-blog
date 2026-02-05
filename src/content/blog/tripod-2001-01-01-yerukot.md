@@ -1,6 +1,6 @@
 ---
 title: "Yerukot"
-pubDate: "2001-01-01"
+pubDate: "2001-11-16"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/Yerukot.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2001/Yerukot.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 16 November 2001**
 
 @כותרת: גל ירוק
 

@@ -1,6 +1,6 @@
 ---
 title: "OneLifeToLive-2"
-pubDate: "2001-01-01"
+pubDate: "2001-11-30"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/OneLifeToLive-2.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2001/OneLifeToLive-2.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 30 November 2001**
 
 ::שני גברים שמנים::
 

@@ -1,6 +1,6 @@
 ---
 title: "Pilot-TakeI"
-pubDate: "2001-01-01"
+pubDate: "2001-06-03"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/Pilot-TakeI.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2001/Pilot-TakeI.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sun, 03 June 2001**
 
 ** 
 

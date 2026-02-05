@@ -1,6 +1,6 @@
 ---
 title: "YomanShishi"
-pubDate: "2002-01-01"
+pubDate: "2002-06-07"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/YomanShishi.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2002/YomanShishi.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 07 June 2002**
 
 בשבועות האחרונים מתנהל בביתו של האב הגאה וזוגתו, האם הקדושה,
 מאבק אידיאולוגי עיקש שכמותו לא נראה מאז העימות בין מעריצות היי פייב לגרופיות של

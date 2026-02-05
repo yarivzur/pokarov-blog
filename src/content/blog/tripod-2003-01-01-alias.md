@@ -1,6 +1,6 @@
 ---
 title: "Alias"
-pubDate: "2003-01-01"
+pubDate: "2003-06-13"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/Alias.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/Alias.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 13 June 2003**
 
 @כותרת: **
 

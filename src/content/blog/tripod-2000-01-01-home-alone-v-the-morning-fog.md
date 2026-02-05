@@ -1,6 +1,6 @@
 ---
 title: "Home Alone V - The Morning Fog"
-pubDate: "2000-01-01"
+pubDate: "2002-01-30"
 source: "tripod"
 category: "personal"
 original_file: "/writings/private/Home_Alone/fog0000000058.html"
@@ -8,23 +8,6 @@ original_file: "/writings/private/Home_Alone/fog0000000058.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Wed, 30 January 2002**
 
 # Home Alone V - The Morning Fog
 Good Morning 'all. I left Tamar's house at around 07:20, and lo and behold you couldn't see streets ending 50m away from you. The Morning Fog. This got me thinking. This morning fog is great. First of all, there's this aura of mystery and coolness on the city, minutes before the harsh desert sun vaporizes all such hopes and illusions. Imagine you could have morning fog in your houses and beds when you wake up (No contact lens cracks please) - Everything around you is softer, like a vaseline smudged camera lens. You can't see the sand on the floor which you dragged in by mistake, You can't see the quarrel of last night, you can't see all those tiny flaws which you hate seeing every morning. Viva le fog!

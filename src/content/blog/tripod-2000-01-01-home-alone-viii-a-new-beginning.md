@@ -1,6 +1,6 @@
 ---
 title: "Home Alone VIII - A New Beginning"
-pubDate: "2000-01-01"
+pubDate: "2002-01-30"
 source: "tripod"
 category: "personal"
 original_file: "/writings/private/Home_Alone/fog0000000061.html"
@@ -8,23 +8,6 @@ original_file: "/writings/private/Home_Alone/fog0000000061.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Wed, 30 January 2002**
 
 # Home Alone VIII - A New Beginning
 Good evening everyone.

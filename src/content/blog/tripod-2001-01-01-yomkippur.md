@@ -1,6 +1,6 @@
 ---
 title: "YomKippur"
-pubDate: "2001-01-01"
+pubDate: "2001-10-05"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/YomKippur.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2001/YomKippur.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 05 October 2001**
 
 @כותבוקסה: קצת עקביות, בבקשה, תודה.
 

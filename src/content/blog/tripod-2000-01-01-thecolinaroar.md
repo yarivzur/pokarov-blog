@@ -1,6 +1,6 @@
 ---
 title: "TheColinaRoar"
-pubDate: "2000-01-01"
+pubDate: "2003-10-12"
 source: "tripod"
 category: "sports"
 original_file: "/writings/Yedioth_Sport/TheColinaRoar.html"
@@ -10,23 +10,6 @@ original_file: "/writings/Yedioth_Sport/TheColinaRoar.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sun, 12 October 2003**
 
 קולינה שאג – מי לא יירא
 **

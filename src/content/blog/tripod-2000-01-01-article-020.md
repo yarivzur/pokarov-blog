@@ -1,6 +1,6 @@
 ---
 title: "article-020"
-pubDate: "2000-01-01"
+pubDate: "2002-01-23"
 source: "tripod"
 category: "archive"
 original_file: "/che/fog0000000020.html"
@@ -10,23 +10,6 @@ original_file: "/che/fog0000000020.html"
 
 *
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Wed, 23 January 2002**
 
 ##
 **

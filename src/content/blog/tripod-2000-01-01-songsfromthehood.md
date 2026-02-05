@@ -1,6 +1,6 @@
 ---
 title: "Songsfromthehood"
-pubDate: "2000-01-01"
+pubDate: "2003-10-09"
 source: "tripod"
 category: "sports"
 original_file: "/writings/Yedioth_Sport/Songsfromthehood.html"
@@ -10,23 +10,6 @@ original_file: "/writings/Yedioth_Sport/Songsfromthehood.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Thu, 09 October 2003**
 
 שיר השכונה**
 

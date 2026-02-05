@@ -1,6 +1,6 @@
 ---
 title: "Thelastsummer"
-pubDate: "2001-01-01"
+pubDate: "2001-11-02"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/Thelastsummer.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2001/Thelastsummer.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 02 November 2001**
 
 למרות שרצף הזכיות של ערוץ 1 בתואר "הגוף הכי מרגיז בעולם - גרסת השמנים" מזכיר יותר ויותר את אוסף האליפויות של מכבי ת"א (שנה אחת פשוט היינו חייבים לתת את התואר ל"בזק", בשם הצדק ההיסטורי) אנחנו מוצאים את עצמנו נדהמים כל פעם מחדש מחוסר הסבירות הקיצונית שלוקים בה אנשי ההר.
 

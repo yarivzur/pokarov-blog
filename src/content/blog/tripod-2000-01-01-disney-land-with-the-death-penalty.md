@@ -1,6 +1,6 @@
 ---
 title: "Disney Land with the Death Penalty"
-pubDate: "2000-01-01"
+pubDate: "2002-01-26"
 source: "tripod"
 category: "archive"
 original_file: "/gibson/fog0000000030.html"
@@ -11,22 +11,6 @@ original_file: "/gibson/fog0000000030.html"
 *
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 26 January 2002**
 WIRED 1.4: "Disney Land with the Death Penalty" by William Gibson
 
 # Disney Land with the Death Penalty

@@ -1,6 +1,6 @@
 ---
 title: "The Unwilling Confidant"
-pubDate: "2000-01-01"
+pubDate: "2002-01-31"
 source: "tripod"
 category: "personal"
 original_file: "/writings/private/fog0000000067.html"
@@ -8,23 +8,6 @@ original_file: "/writings/private/fog0000000067.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Thu, 31 January 2002**
 
 # The Unwilling Confidant
 It was 14:35. VL was sitting alone on the stairs at the cafeteria, donning his lumberjack hat and outdated sunglasses, reading 'Introduction to government and binding theory', when from the other end of the cafeteria galit approached him, wearing a breast enhancing gray sweater. She sat in front of him and a conversation commenced. Let me, your humble narrator, try and reconstruct that conversation for yea eager listeners:

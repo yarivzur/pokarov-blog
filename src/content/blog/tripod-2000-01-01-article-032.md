@@ -1,6 +1,6 @@
 ---
 title: "article-032"
-pubDate: "2000-01-01"
+pubDate: "2002-01-26"
 source: "tripod"
 category: "archive"
 original_file: "/gibson/fog0000000032.html"
@@ -9,22 +9,6 @@ original_file: "/gibson/fog0000000032.html"
 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 26 January 2002**
 Agrippa Info
 
 Cyberpunk author William Gibson has been writing about technology,

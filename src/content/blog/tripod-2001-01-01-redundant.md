@@ -1,6 +1,6 @@
 ---
 title: "Redundant"
-pubDate: "2001-01-01"
+pubDate: "2001-09-09"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/Redundant.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2001/Redundant.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sun, 09 September 2001**
 
  
 

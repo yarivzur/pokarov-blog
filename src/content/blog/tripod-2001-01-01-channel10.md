@@ -1,6 +1,6 @@
 ---
 title: "Channel10"
-pubDate: "2001-01-01"
+pubDate: "2001-01-28"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/Channel10.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2001/Channel10.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sun, 28 January 2001**
 
 @כותרת: נו, שוין**
 

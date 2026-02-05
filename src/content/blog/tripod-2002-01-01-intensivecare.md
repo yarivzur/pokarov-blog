@@ -1,6 +1,6 @@
 ---
 title: "IntensiveCare"
-pubDate: "2002-01-01"
+pubDate: "2002-05-03"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/IntensiveCare.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2002/IntensiveCare.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 03 May 2002**
 
 @כותרת:
 

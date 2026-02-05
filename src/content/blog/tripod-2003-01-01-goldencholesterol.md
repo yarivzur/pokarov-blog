@@ -1,6 +1,6 @@
 ---
 title: "GoldenCholesterol"
-pubDate: "2003-01-01"
+pubDate: "2003-09-26"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/GoldenCholesterol.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/GoldenCholesterol.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 26 September 2003**
 
 @כותרת:
 **

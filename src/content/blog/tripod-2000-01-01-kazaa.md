@@ -1,6 +1,6 @@
 ---
 title: "KaZaA"
-pubDate: "2000-01-01"
+pubDate: "2003-04-22"
 source: "tripod"
 category: "blazer"
 original_file: "/writings/blazer/KaZaA.html"
@@ -10,23 +10,6 @@ original_file: "/writings/blazer/KaZaA.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Tue, 22 April 2003**
 
 @כותרת:
 

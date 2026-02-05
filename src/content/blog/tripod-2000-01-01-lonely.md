@@ -1,6 +1,6 @@
 ---
 title: "Lonely"
-pubDate: "2000-01-01"
+pubDate: "2003-09-21"
 source: "tripod"
 category: "sports"
 original_file: "/writings/Yedioth_Sport/Lonely.html"
@@ -8,23 +8,6 @@ original_file: "/writings/Yedioth_Sport/Lonely.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sun, 21 September 2003**
 
 שני גברים שמנים
 

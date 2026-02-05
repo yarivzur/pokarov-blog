@@ -1,6 +1,6 @@
 ---
 title: "CSIMiami"
-pubDate: "2003-01-01"
+pubDate: "2003-09-12"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/CSIMiami.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/CSIMiami.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 12 September 2003**
 
 @כותרת:
 **

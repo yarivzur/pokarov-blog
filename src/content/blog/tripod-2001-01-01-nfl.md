@@ -1,6 +1,6 @@
 ---
 title: "NFL"
-pubDate: "2001-01-01"
+pubDate: "2001-09-11"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/NFL.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2001/NFL.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Tue, 11 September 2001**
 
  
 

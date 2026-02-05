@@ -9,23 +9,6 @@ original_file: "/writings/internet/2000/12.21.2000.html"
 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 13 April 2002**
-
  
 
 :: סיכום השנה ::

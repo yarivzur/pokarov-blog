@@ -1,6 +1,6 @@
 ---
 title: "PassportGourmet"
-pubDate: "2003-01-01"
+pubDate: "2003-01-10"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/PassportGourmet.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/PassportGourmet.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 10 January 2003**
 
 @כותרת: **
 

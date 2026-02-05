@@ -1,6 +1,6 @@
 ---
 title: "Recordbook"
-pubDate: "2002-01-01"
+pubDate: "2002-05-24"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/Recordbook.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2002/Recordbook.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 24 May 2002**
 
 @כותרת: ספר השיאים
 

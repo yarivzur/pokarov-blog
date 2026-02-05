@@ -1,6 +1,6 @@
 ---
 title: "SerialKillers"
-pubDate: "2000-01-01"
+pubDate: "2002-12-12"
 source: "tripod"
 category: "blazer"
 original_file: "/writings/blazer/SerialKillers.html"
@@ -10,23 +10,6 @@ original_file: "/writings/blazer/SerialKillers.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Thu, 12 December 2002**
 
  
 

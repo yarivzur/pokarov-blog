@@ -1,6 +1,6 @@
 ---
 title: "SciFiBabes"
-pubDate: "2000-01-01"
+pubDate: "2003-01-23"
 source: "tripod"
 category: "blazer"
 original_file: "/writings/blazer/SciFiBabes.html"
@@ -10,23 +10,6 @@ original_file: "/writings/blazer/SciFiBabes.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Thu, 23 January 2003**
 
  **
 

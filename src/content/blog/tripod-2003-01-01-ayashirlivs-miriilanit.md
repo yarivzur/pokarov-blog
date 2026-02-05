@@ -1,6 +1,6 @@
 ---
 title: "AyaShirlivs.MiriIlanit"
-pubDate: "2003-01-01"
+pubDate: "2003-04-25"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/AyaShirlivs.MiriIlanit.html"
@@ -8,24 +8,6 @@ original_file: "/writings/2fg/TV/2003/AyaShirlivs.MiriIlanit.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 25 April 2003**
-
 
 קטגוריה
 

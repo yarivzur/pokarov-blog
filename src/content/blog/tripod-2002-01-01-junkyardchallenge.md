@@ -1,6 +1,6 @@
 ---
 title: "JunkyardChallenge"
-pubDate: "2002-01-01"
+pubDate: "2002-05-10"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/JunkyardChallenge.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2002/JunkyardChallenge.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 10 May 2002**
 
 @ככותרת:
 

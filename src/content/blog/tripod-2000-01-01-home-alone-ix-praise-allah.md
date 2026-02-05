@@ -1,6 +1,6 @@
 ---
 title: "Home Alone IX - Praise Allah"
-pubDate: "2000-01-01"
+pubDate: "2002-01-30"
 source: "tripod"
 category: "personal"
 original_file: "/writings/private/Home_Alone/fog0000000062.html"
@@ -8,23 +8,6 @@ original_file: "/writings/private/Home_Alone/fog0000000062.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Wed, 30 January 2002**
 
 # Home Alone IX - Praise Allah
 A Fine morning to you all. First I would like to tell you that I am writing this to you on my new ergonomic keyboard (The new Microsoft ones, with the keys split into two segments, which allows you to really type blindly), so I apologize for any spelling mistakes. In the Radio, Razi Barkai is talking with this meteorologist about the weather in TA (30 degrees, 75% Humisidy) and asked her when will it change. She said - well, this will last all summer, give or take a degree. So he told her to look at the synoptic map and tell him where the most pleasent place to be is in the world. She hesitated for a minute and then said - Europe. Definately Europe.

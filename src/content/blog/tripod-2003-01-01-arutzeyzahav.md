@@ -1,6 +1,6 @@
 ---
 title: "ArutzeyZahav"
-pubDate: "2003-01-01"
+pubDate: "2003-08-08"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/ArutzeyZahav.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/ArutzeyZahav.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 08 August 2003**
 
 @כותרת: כן הכל זהב, הכל זהב
 **

@@ -1,6 +1,6 @@
 ---
 title: "Channel2-Quiz"
-pubDate: "2003-01-01"
+pubDate: "2003-10-10"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/Channel2-Quiz.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/Channel2-Quiz.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 10 October 2003**
 
 @כותרת:
 

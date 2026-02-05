@@ -1,6 +1,6 @@
 ---
 title: "Thenextbestthing"
-pubDate: "2003-01-01"
+pubDate: "2003-02-14"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/Thenextbestthing.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/Thenextbestthing.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 14 February 2003**
 
 @כותרת: **
 

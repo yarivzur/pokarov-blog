@@ -1,6 +1,6 @@
 ---
 title: "SharonHaziz"
-pubDate: "2003-01-01"
+pubDate: "2003-05-16"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/SharonHaziz.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2003/SharonHaziz.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 16 May 2003**
 
  
 

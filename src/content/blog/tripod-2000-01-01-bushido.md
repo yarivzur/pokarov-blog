@@ -11,23 +11,6 @@ original_file: "/writings/blazer/Bushido.html"
 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 13 April 2002**
-
  **
 
 **:: דרכו של הלוחם ::**

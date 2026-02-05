@@ -1,6 +1,6 @@
 ---
 title: "LechayeyHaAhava"
-pubDate: "2001-01-01"
+pubDate: "2001-12-21"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/LechayeyHaAhava.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2001/LechayeyHaAhava.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 21 December 2001**
 
 @כותרת: לתשומת לב הקורא שלום קיטל**
 

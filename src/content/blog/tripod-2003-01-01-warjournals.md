@@ -1,6 +1,6 @@
 ---
 title: "WarJournals"
-pubDate: "2003-01-01"
+pubDate: "2003-03-28"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/WarJournals.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/WarJournals.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 28 March 2003**
 
 @כותרת: יום במלחמה**
 

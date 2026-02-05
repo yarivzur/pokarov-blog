@@ -1,6 +1,6 @@
 ---
 title: "Tevel"
-pubDate: "2002-01-01"
+pubDate: "2002-05-03"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/Tevel.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2002/Tevel.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 03 May 2002**
 
 קארמה פוליס
 

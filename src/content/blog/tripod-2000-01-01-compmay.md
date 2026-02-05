@@ -1,6 +1,6 @@
 ---
 title: "compMay"
-pubDate: "2000-01-01"
+pubDate: "2002-06-18"
 source: "tripod"
 category: "blazer"
 original_file: "/writings/blazer/compMay.html"
@@ -10,23 +10,6 @@ original_file: "/writings/blazer/compMay.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Tue, 18 June 2002**
 
 @כותרת: עוד שבת של כדורגל**
 

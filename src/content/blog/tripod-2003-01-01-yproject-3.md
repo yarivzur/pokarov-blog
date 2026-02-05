@@ -1,6 +1,6 @@
 ---
 title: "YProject-3"
-pubDate: "2003-01-01"
+pubDate: "2003-10-03"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/YProject-3.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2003/YProject-3.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 03 October 2003**
 
  
 

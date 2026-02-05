@@ -1,6 +1,6 @@
 ---
 title: "Bip"
-pubDate: "2002-01-01"
+pubDate: "2002-07-06"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/Bip.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2002/Bip.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 06 July 2002**
 
 @כותרת:
 

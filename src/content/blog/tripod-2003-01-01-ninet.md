@@ -1,6 +1,6 @@
 ---
 title: "Ninet"
-pubDate: "2003-01-01"
+pubDate: "2003-08-29"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/Ninet.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/Ninet.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 29 August 2003**
 
 @כותרת: 5 הערות על "כוכב נולד"**
 

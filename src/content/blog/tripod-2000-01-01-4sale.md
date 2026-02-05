@@ -11,23 +11,6 @@ original_file: "/writings/internet/2000/4Sale.html"
 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 13 April 2002**
-
  **
 
 **:: פראיירים לא מתים,

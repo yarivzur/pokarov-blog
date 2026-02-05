@@ -1,6 +1,6 @@
 ---
 title: "Yatspan"
-pubDate: "2002-01-01"
+pubDate: "2002-03-08"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/Yatspan.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2002/Yatspan.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 08 March 2002**
 
 @כותרת:
 

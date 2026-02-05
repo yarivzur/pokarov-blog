@@ -1,6 +1,6 @@
 ---
 title: "article-053"
-pubDate: "2000-01-01"
+pubDate: "2002-01-26"
 source: "tripod"
 category: "personal"
 original_file: "/writings/private/fog0000000053.html"
@@ -10,23 +10,6 @@ original_file: "/writings/private/fog0000000053.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 26 January 2002**
 
 לך ישר לכלא****…******
 

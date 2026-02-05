@@ -1,6 +1,6 @@
 ---
 title: "DuduTopaz"
-pubDate: "2002-01-01"
+pubDate: "2002-06-28"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/DuduTopaz.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2002/DuduTopaz.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 28 June 2002**
 
 למרות ששמחה
 לאיד תמיד הייתה אחד מענפי הספורט האהובים עלינו (ממש אחרי שנאה עצמית, תיעוב הדדי

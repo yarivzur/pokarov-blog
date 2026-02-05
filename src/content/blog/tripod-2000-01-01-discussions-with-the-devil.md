@@ -1,6 +1,6 @@
 ---
 title: "Discussions with the Devil"
-pubDate: "2000-01-01"
+pubDate: "2002-01-31"
 source: "tripod"
 category: "personal"
 original_file: "/writings/private/fog0000000065.html"
@@ -8,23 +8,6 @@ original_file: "/writings/private/fog0000000065.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Thu, 31 January 2002**
 
 # Discussions with the Devil
 Last night, as I was glumly staring at a Scheme exercise, hoping it would blink first, the phone rang, and Hila Hoffman was on the line.

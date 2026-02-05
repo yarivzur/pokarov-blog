@@ -1,6 +1,6 @@
 ---
 title: "Keshet-SummerSeason"
-pubDate: "2003-01-01"
+pubDate: "2003-10-17"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/Keshet-SummerSeason.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2003/Keshet-SummerSeason.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 17 October 2003**
 
  
 

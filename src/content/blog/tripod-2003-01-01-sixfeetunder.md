@@ -1,6 +1,6 @@
 ---
 title: "SixFeetUnder"
-pubDate: "2003-01-01"
+pubDate: "2003-11-07"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/SixFeetUnder.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/SixFeetUnder.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 07 November 2003**
 
 @כותרת:
 **

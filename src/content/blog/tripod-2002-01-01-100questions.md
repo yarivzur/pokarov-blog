@@ -1,6 +1,6 @@
 ---
 title: "100Questions"
-pubDate: "2002-01-01"
+pubDate: "2002-03-27"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/100Questions.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2002/100Questions.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Wed, 27 March 2002**
 
 @כותרת**: 100 קושיות
 

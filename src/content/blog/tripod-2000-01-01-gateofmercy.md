@@ -1,6 +1,6 @@
 ---
 title: "GateOfMercy"
-pubDate: "2000-01-01"
+pubDate: "2003-09-14"
 source: "tripod"
 category: "sports"
 original_file: "/writings/Yedioth_Sport/GateOfMercy.html"
@@ -8,23 +8,6 @@ original_file: "/writings/Yedioth_Sport/GateOfMercy.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sun, 14 September 2003**
 
 שקט משדרים
 

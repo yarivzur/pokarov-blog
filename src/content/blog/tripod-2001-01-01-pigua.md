@@ -1,6 +1,6 @@
 ---
 title: "Pigua"
-pubDate: "2001-01-01"
+pubDate: "2001-10-11"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/Pigua.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2001/Pigua.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Thu, 11 October 2001**
 
 @כותרת: 4 הערות על המצב**
 

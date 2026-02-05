@@ -1,6 +1,6 @@
 ---
 title: "Channel33"
-pubDate: "2001-01-01"
+pubDate: "2001-09-28"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/Channel33.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2001/Channel33.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 28 September 2001**
 
  
 

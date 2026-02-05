@@ -1,6 +1,6 @@
 ---
 title: "KokhveyHashkunaRakBeIsrae"
-pubDate: "2001-01-01"
+pubDate: "2001-12-14"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/KokhveyHashkunaRakBeIsrae.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2001/KokhveyHashkunaRakBeIsrae.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 14 December 2001**
 
 @כותרת:**** ****שקט שיהיה שם!**
 

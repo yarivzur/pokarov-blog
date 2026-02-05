@@ -1,6 +1,6 @@
 ---
 title: "Hideaway"
-pubDate: "2000-01-01"
+pubDate: "2003-05-05"
 source: "tripod"
 category: "blazer"
 original_file: "/writings/blazer/Hideaway.html"
@@ -10,23 +10,6 @@ original_file: "/writings/blazer/Hideaway.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Mon, 05 May 2003**
 
 @כותרת:**
 

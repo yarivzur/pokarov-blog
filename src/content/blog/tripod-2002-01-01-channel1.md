@@ -1,6 +1,6 @@
 ---
 title: "Channel1"
-pubDate: "2002-01-01"
+pubDate: "2002-04-12"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/Channel1.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2002/Channel1.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 12 April 2002**
 
 @כותרת: מכונת הזמן**
 

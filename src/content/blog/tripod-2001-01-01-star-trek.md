@@ -1,6 +1,6 @@
 ---
 title: "Star-Trek"
-pubDate: "2001-01-01"
+pubDate: "2001-12-16"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2001/Star-Trek.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2001/Star-Trek.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sun, 16 December 2001**
 
  
 

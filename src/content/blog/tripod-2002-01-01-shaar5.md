@@ -1,6 +1,6 @@
 ---
 title: "Shaar5"
-pubDate: "2002-01-01"
+pubDate: "2002-05-24"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2002/Shaar5.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2002/Shaar5.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 24 May 2002**
 
 כבר כמה שנים, בתדירות שמאפיינת של קצב הקאמבקים הלא ממש
 מוצלחים של צביקה "טוני ודאג הם לא היחידים שתקועים במנהרת זמן" פיק, טורח גברי לוי

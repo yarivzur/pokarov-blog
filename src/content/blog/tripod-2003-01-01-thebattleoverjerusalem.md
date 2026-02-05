@@ -1,6 +1,6 @@
 ---
 title: "ThebattleoverJerusalem"
-pubDate: "2003-01-01"
+pubDate: "2003-02-07"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/ThebattleoverJerusalem.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/ThebattleoverJerusalem.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 07 February 2003**
 
 @כותרת:
 

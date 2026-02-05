@@ -1,6 +1,6 @@
 ---
 title: "compJuly"
-pubDate: "2000-01-01"
+pubDate: "2002-07-22"
 source: "tripod"
 category: "blazer"
 original_file: "/writings/blazer/compJuly.html"
@@ -10,23 +10,6 @@ original_file: "/writings/blazer/compJuly.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Mon, 22 July 2002**
 
 @כותרת:
 

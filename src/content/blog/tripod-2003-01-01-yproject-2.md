@@ -1,6 +1,6 @@
 ---
 title: "YProject-2"
-pubDate: "2003-01-01"
+pubDate: "2003-09-19"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/YProject-2.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/YProject-2.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 19 September 2003**
 
 @כותרת:
 **

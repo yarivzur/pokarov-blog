@@ -1,6 +1,6 @@
 ---
 title: "GilRiva"
-pubDate: "2003-01-01"
+pubDate: "2003-06-20"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/GilRiva.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/GilRiva.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 20 June 2003**
 
 @כותרת: **
 

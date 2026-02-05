@@ -11,23 +11,6 @@ original_file: "/writings/blazer/Hooligans.html"
 *
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 13 April 2002**
-
 @כותרת: החבר'ה הטובים
 
  **

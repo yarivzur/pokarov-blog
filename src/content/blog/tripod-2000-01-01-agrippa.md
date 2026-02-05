@@ -1,6 +1,6 @@
 ---
 title: "AGRIPPA"
-pubDate: "2000-01-01"
+pubDate: "2002-01-26"
 source: "tripod"
 category: "archive"
 original_file: "/gibson/fog0000000031.html"
@@ -8,23 +8,6 @@ original_file: "/gibson/fog0000000031.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sat, 26 January 2002**
 
 Agrippa(A book of the dead)
 

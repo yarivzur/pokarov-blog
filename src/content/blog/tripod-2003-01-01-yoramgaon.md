@@ -1,6 +1,6 @@
 ---
 title: "YoramGaon"
-pubDate: "2003-01-01"
+pubDate: "2003-01-24"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/YoramGaon.html"
@@ -8,23 +8,6 @@ original_file: "/writings/2fg/TV/2003/YoramGaon.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 24 January 2003**
 
 מי גאון של אמא?
 

@@ -1,6 +1,6 @@
 ---
 title: "RamiVeredVs.AdirMiler"
-pubDate: "2003-01-01"
+pubDate: "2003-01-17"
 source: "tripod"
 category: "tv-reviews"
 original_file: "/writings/2fg/TV/2003/RamiVeredVs.AdirMiler.html"
@@ -10,23 +10,6 @@ original_file: "/writings/2fg/TV/2003/RamiVeredVs.AdirMiler.html"
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Fri, 17 January 2003**
 
 @כותרת: **
 
