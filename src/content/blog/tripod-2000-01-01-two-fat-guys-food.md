@@ -61,17 +61,17 @@ The name "Two Fat Guys" is, of course, an homage to the legendary cooking show "
 
 
  | Mon, 21 August 2000
- | [Azrieli](food/fog0000000025.html)
+ | [Azrieli](/blog/tripod-2000-01-01-article-025/)
 
 
 
  | Fri, 29 June 2001
- | [Atarim](food/fog0000000021.html)
+ | [Atarim](/blog/tripod-2000-01-01-article-021/)
 
 
 
  | Fri, 28 September 2001
- | [Avangard](food/fog0000000022.html)
+ | Avangard
 
 
 

@@ -33,25 +33,25 @@ original_file: "/writings/private/fog0000000042.html"
 
 Never published, never will be.
 
-- [Go Straight to Jail...](fog0000000053.html) (Sep '98). A short story.
+- [Go Straight to Jail...](/blog/tripod-2000-01-01-article-053/) (Sep '98). A short story.
 
-- [The Home Alone Series](Home_Alone/fog0000000054.html) (Jul '98). A series of 11 e-mails written when my friends left me alone in Tel-Aviv.
+- [The Home Alone Series](/blog/tripod-2000-01-01-home-alone-i/) (Jul '98). A series of 11 e-mails written when my friends left me alone in Tel-Aviv.
 
-- [Dicussions with the Devil](fog0000000065.html), Originally written as an E-mail letter to my friends after a weird phone call.
+- [Dicussions with the Devil](/blog/tripod-2000-01-01-discussions-with-the-devil/), Originally written as an E-mail letter to my friends after a weird phone call.
 
-- [Close Encounters with the Devil](fog0000000066.html), A continuation of Discussions with the Devil, and was also originally written as an E-mail.
+- [Close Encounters with the Devil](/blog/tripod-2000-01-01-close-encounters-with-the-devil/), A continuation of Discussions with the Devil, and was also originally written as an E-mail.
 
-- [The Unwilling Confidant](fog0000000067.html), The last of the E-mail Trilogy. Another dialougue with a member of the female species.
+- [The Unwilling Confidant](/blog/tripod-2000-01-01-the-unwilling-confidant/), The last of the E-mail Trilogy. Another dialougue with a member of the female species.
 
-- [Fortress](fog0000000068.html). (Oct '97). A song written lately.
+- [Fortress](/blog/tripod-2000-01-01-article-068/). (Oct '97). A song written lately.
 
-- ['Spect](fog0000000069.html). (Oct '97). A song written lately.
+- ['Spect](/blog/tripod-2000-01-01-article-069/). (Oct '97). A song written lately.
 
-- [April '97](fog0000000070.html). A piece inspired by "Bluz lahofesh hagadol"
+- [April '97](/blog/tripod-2000-01-01-article-070/). A piece inspired by "Bluz lahofesh hagadol"
 
-- [Che Guevara](../../che/fog0000000020.html). A dedicated page.
+- [Che Guevara](/blog/tripod-2000-01-01-article-020/). A dedicated page.
 
-- [William Gibson](../../gibson/fog0000000026.html). A dedicated page.
+- [William Gibson](/blog/tripod-2000-01-01-article-026/). A dedicated page.
 
 - [Bachelor Party](BachelorParty.html). A poem written by Yotam Hadas after my bachelor party.
 

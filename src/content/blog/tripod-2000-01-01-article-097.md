@@ -54,7 +54,7 @@ Aladdin Knowledge Systems.](http://www.aks.com/)
 -
 
 [
-uTOK](../uTOK/fog0000000045.html)
+uTOK](/blog/tripod-2000-01-01-article-045/)
 
 -
 

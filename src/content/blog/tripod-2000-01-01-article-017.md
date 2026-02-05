@@ -28,17 +28,17 @@ original_file: "/writings/fog0000000017.html"
 
 [.Internet.Columns ](Internet-2.html)
 
-[.Sports](sports/fog0000000044.html)
+[.Sports](/blog/tripod-2000-01-01-sports/)
 
 [.Blazer](Blazer-2.html)
 
-[.Misc.Journalism](misc/fog0000000043.html)
+[.Misc.Journalism](/blog/tripod-2000-01-01-nbsp-miscellanous/)
 
-[.Private](private/fog0000000042.html)
+[.Private](/blog/tripod-2000-01-01-article-042/)
 
-[.2FG.Television](2fg/fog0000000038.html)
+[.2FG.Television](/blog/tripod-2000-01-01-article-038/)
 
-[.2FG.Food](2fg/fog0000000024.html)
+[.2FG.Food](/blog/tripod-2000-01-01-two-fat-guys-food/)
 
 [.Yedioth.Sport ](YediothSport.html)
 

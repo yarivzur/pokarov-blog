@@ -21,7 +21,7 @@ original_file: "/uTOK/fog0000000045.html"
 
 
 
-For almost two years, I've been immersed in the small dream called uTOK. uTOK was a company which had a dream of building the next generation of internet communication layer. A nice dream, bad, bad, reality. This section of the site a mini-shrine to that company, and the people working there. For those of you who came here with hopes of finding the old 'uTOK unofficial team page', it's still [here](fog0000000029.html).
+For almost two years, I've been immersed in the small dream called uTOK. uTOK was a company which had a dream of building the next generation of internet communication layer. A nice dream, bad, bad, reality. This section of the site a mini-shrine to that company, and the people working there. For those of you who came here with hopes of finding the old 'uTOK unofficial team page', it's still [here](/blog/tripod-2000-01-01-article-029/).
 
 For the rest of you, here is (I think) a comprehensive list of all those involved in this failed dream.
 
@@ -41,7 +41,7 @@ Arale Blitzer
 
 [Guy Hoffman](http://guyhoffman.tripod.com)
 
-[Yariv (vlvl) Zur](../bio/fog0000000019.html)
+[Yariv (vlvl) Zur](/blog/tripod-2000-01-01-article-019/)
 
 Galya Ladire
 

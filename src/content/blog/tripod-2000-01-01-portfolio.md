@@ -42,7 +42,7 @@ original_file: "/Portfolio.html"
 
 [uTOK - Asynchronous group collaboration over the Web](PF/utok_overview.html)
 
-[Tel-Aviv Magazine](writings/2fg/fog0000000038.html)
+[Tel-Aviv Magazine](/blog/tripod-2000-01-01-article-038/)
 
  | Developer, Vice President for R&D   1999-2001
  | Television Critic   2001-2003

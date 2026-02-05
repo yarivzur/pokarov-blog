@@ -51,61 +51,61 @@ removed promptly.
 
 
  | Thu, 11 February 1999
- | [Kubicka](Articles/fog0000000080.html)
+ | [Kubicka](/blog/tripod-2000-01-01-באמת-היתה-לארבע-נקודות-האלה-כזאת-השפעה-הרי-הפסדתם/)
  | Published Version N/A
 
 
 
  | Wed, 09 June 1999
- | [Beni Tabak](Articles/fog0000000081.html)
+ | [Beni Tabak](/blog/tripod-2000-01-01-article-081/)
  | Published Version N/A
 
 
 
  | Wed, 11 August 1999
- | [Bney Yehuda](Articles/fog0000000082.html)
+ | [Bney Yehuda](/blog/tripod-2000-01-01-הקבוצה-חיה-וקיימת-אבל-בכל-זאת-יש-הרבה-רעש-בזמן-הא/)
  | Published Version N/A
 
 
 
  | Tue, 24 August 1999
- | [Ashdod](Articles/fog0000000078.html)
+ | [Ashdod](/blog/tripod-2000-01-01-או-על-החיים-של-המאמן/)
  | Published Version N/A
 
 
 
  | Sat, 28 August 1999
- | [Shimon Mizrahi](Articles/fog0000000083.html)
+ | [Shimon Mizrahi](/blog/tripod-2000-01-01-שמעון-מזרחי/)
  | Published Version N/A
 
 
 
  | Sun, 29 August 1999
- | [Ronen Harazi](Articles/fog0000000085.html)
+ | [Ronen Harazi](/blog/tripod-2000-01-01-רונן-אני-מניח-שההרגשה-יותר-טובה-הוצאתם-על-כפר-סב/)
  | Published Version N/A
 
 
 
  | Fri, 10 September 1999
- | [Marko Shalma](Articles/fog0000000086.html)
+ | [Marko Shalma](/blog/tripod-2000-01-01-עד-שמישהו-מביא-מדליה-ואז-מדברים-על-זה-חודש-וזה-נע/)
  | Never Published
 
 
 
  | Mon, 13 September 1999
- | [Maccabi Tel-Aviv ](Articles/fog0000000088.html)
+ | [Maccabi Tel-Aviv ](/blog/tripod-2000-01-01-מדריך-הטרמפיסט-לאירופה/)
  | Published Version N/A
 
 
 
  | Mon, 27 September 1999
- | [Yoram Arbel & Rami Weitz](Articles/fog0000000089.html)
+ | Yoram Arbel & Rami Weitz
  | Published Version N/A
 
 
 
  | Wed, 10 November 1999
- | [Adam Silver (Hebrew)](Articles/fog0000000091.html)
+ | [Adam Silver (Hebrew)](/blog/tripod-2000-01-01-מדובר-בהתחלה-על-קהל-מצומצם-מכיוון-שזה-ערוץ-דיגיטל/)
  | [
 
 Published Version](http://www.tam.co.il/10_11_99/sport.html)
@@ -113,7 +113,7 @@ Published Version](http://www.tam.co.il/10_11_99/sport.html)
 
 
  | Wed, 10 November 1999
- | [Adam Silver (English)](Articles/fog0000000092.html)
+ | [Adam Silver (English)](/blog/tripod-2000-01-01-silver-equals-gold/)
  | [
 
 Published Version](http://www.tam.co.il/10_11_99/sport.html)
@@ -121,31 +121,31 @@ Published Version](http://www.tam.co.il/10_11_99/sport.html)
 
 
  | Sat, 27 November 1999
- | [Ofer Shelah & Aviv Lavi](Articles/fog0000000093.html)
+ | Ofer Shelah & Aviv Lavi
  | Published Version N/A
 
 
 
  | Mon, 27 December 1999
- | [List](Articles/fog0000000094.html)
+ | [List](/blog/tripod-2000-01-01-רשימת-דברים-שהיינו-רוצים-שייעלמו-מהספורט-יחד-עם/)
  | Published Version N/A
 
 
 
  | Mon, 27 December 1999
- | [Ralph Klein](Articles/fog0000000095.html)
+ | [Ralph Klein](/blog/tripod-2000-01-01-שמנו-לב/)
  | Published Version N/A
 
 
 
  | Sat, 24 August 2002
- | [Rafi Agiv](Articles/fog0000000084.html)
+ | [Rafi Agiv](/blog/tripod-2000-01-01-article-084/)
  | Published Version N/A
 
 
 
  | Sat, 26 October 2002
- | [Liron Basis](Articles/fog0000000090.html)
+ | [Liron Basis](/blog/tripod-2000-01-01-בכל-זאת-אתר-רשמי-של-הקבוצה/)
  | Published Version N/A
 
 

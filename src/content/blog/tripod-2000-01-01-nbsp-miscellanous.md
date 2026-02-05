@@ -48,27 +48,27 @@ removed promptly.
 
 
  | ??.11.1998
- | [Frogs in Antin Square](fog0000000072.html)
+ | [Frogs in Antin Square](/blog/tripod-2000-01-01-article-072/)
  | Published in Ha'Ir Magazine
 
  | 03.09.1999
- | [Violence](fog0000000073.html)
+ | [Violence](/blog/tripod-2000-01-01-article-073/)
  | [Published Version](http://www.tam.co.il/3_9_99/magnet.html)
 
  | 20.12.1999
- | [Guy Maroz and Yoni Lahav](fog0000000074.html)
+ | [Guy Maroz and Yoni Lahav](/blog/tripod-2000-01-01-article-074/)
  | Published in [Tel-Aviv Magazine](http://www.tam.co.il)
 
  | 20.04.2000
- | [Start-up Dictionary](fog0000000071.html)
+ | [Start-up Dictionary](/blog/tripod-2000-01-01-א/)
  | Published in [Tel-Aviv Magazine](http://www.tam.co.il)
 
  | 06.06.2000
- | [Combina](fog0000000075.html)
+ | [Combina](/blog/tripod-2000-01-01-article-075/)
  | Published in Yedioth Ahronot
 
  | 06.06.2000
- | [Drugs](fog0000000076.html)
+ | Drugs
  | Was supposed to be published in Yedioth Ahronot
 
  | 17.12.2003
