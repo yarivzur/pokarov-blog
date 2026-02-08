@@ -1,5 +1,5 @@
 ---
-title: "utok_papers"
+title: "uTOK Docs & Papers"
 pubDate: "2000-01-01"
 source: "tripod"
 category: "archive"
@@ -11,17 +11,6 @@ original_file: "/PF/utok_papers.html"
 [Overview](/p/utok-overview/) · [Awards & Press](/p/utok_awards/) · [User Reviews](/p/utok_user/) · [Docs & Papers](/p/utok_papers/) · [Links](/p/utok_links/)
 
 ---
-
-**uTOK — Asynchronous group collaboration**
-
-
----
-
-**
-
-
-uTOK**
-Asynchronous group collaboration
 
 
  | [uTOK Patent Application](/utok/papers/uTOK_Patent_application.pdf) - 48 pages, Adobe Acrobat file, 340KB.

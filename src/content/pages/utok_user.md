@@ -1,5 +1,5 @@
 ---
-title: "utok_user"
+title: "uTOK User Reviews"
 pubDate: "2000-01-01"
 source: "tripod"
 category: "archive"
@@ -12,16 +12,6 @@ original_file: "/PF/utok_user.html"
 
 ---
 
-**uTOK — Asynchronous group collaboration**
-
-
----
-
-**
-
-
-uTOK**
-Asynchronous group collaboration
 
 
  | Epinions, Member Reviews - 100% Recommending 

@@ -1,5 +1,5 @@
 ---
-title: "utok_links"
+title: "uTOK Links"
 pubDate: "2000-01-01"
 source: "tripod"
 category: "archive"
@@ -11,17 +11,6 @@ original_file: "/PF/utok_links.html"
 [Overview](/p/utok-overview/) · [Awards & Press](/p/utok_awards/) · [User Reviews](/p/utok_user/) · [Docs & Papers](/p/utok_papers/) · [Links](/p/utok_links/)
 
 ---
-
-**uTOK — Asynchronous group collaboration**
-
-
----
-
-**
-
-
-uTOK**
-Asynchronous group collaboration
 
 
  | [Practical usage](http://www.gypsyhollow.com/Club/Tower.html) - The Ivory tower - a Clubhouse for the uTOK literature group
