@@ -12,7 +12,12 @@ const isActive = (path: string) => {
 const navLinks = [
   { href: "/", label: "Home" },
   { href: "/blog", label: "Blog" },
+];
+
+const moreLinks = [
   { href: "/about", label: "About" },
+  { href: "/p/utok-overview", label: "uTOK Overview" },
+  { href: "/p/buypass_overview", label: "BuyPass" },
 ];
 ---
 
@@ -62,6 +67,40 @@ const navLinks = [
             </a>
           </li>
         ))}
+        <li class="relative">
+          <button
+            id="more-btn"
+            class:list={[
+              "flex items-center gap-1 py-2 font-medium transition-colors hover:text-accent",
+              { "active-nav text-accent": moreLinks.some(l => isActive(l.href)) },
+            ]}
+            aria-expanded="false"
+            aria-haspopup="true"
+          >
+            More
+            <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </button>
+          <ul
+            id="more-menu"
+            class="absolute right-0 top-full z-50 mt-1 hidden min-w-[160px] rounded-md border border-border bg-background py-1 shadow-lg"
+          >
+            {moreLinks.map(({ href, label }) => (
+              <li>
+                <a
+                  href={href}
+                  class:list={[
+                    "block px-4 py-2 text-sm font-medium transition-colors hover:bg-accent/10 hover:text-accent",
+                    { "text-accent": isActive(href) },
+                  ]}
+                >
+                  {label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </li>
       </ul>
 
       <!-- Theme toggle -->
@@ -153,6 +192,22 @@ const navLinks = [
         </a>
       </li>
     ))}
+    <li class="pt-2 border-t border-border mt-2">
+      <span class="block py-1 text-xs font-semibold uppercase tracking-wider text-foreground/50">More</span>
+    </li>
+    {moreLinks.map(({ href, label }) => (
+      <li>
+        <a
+          href={href}
+          class:list={[
+            "block py-2 pl-2 font-medium transition-colors hover:text-accent",
+            { "active-nav text-accent": isActive(href) },
+          ]}
+        >
+          {label}
+        </a>
+      </li>
+    ))}
   </ul>
 </header>
 
@@ -177,6 +232,26 @@ const navLinks = [
     });
   }
 
+  function toggleMoreMenu() {
+    const moreBtn = document.getElementById("more-btn");
+    const moreMenu = document.getElementById("more-menu");
+    if (!moreBtn || !moreMenu) return;
+
+    moreBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      const isOpen = moreBtn.getAttribute("aria-expanded") === "true";
+      moreBtn.setAttribute("aria-expanded", isOpen ? "false" : "true");
+      moreMenu.classList.toggle("hidden");
+    });
+
+    document.addEventListener("click", () => {
+      moreBtn.setAttribute("aria-expanded", "false");
+      moreMenu.classList.add("hidden");
+    });
+  }
+
   toggleNav();
+  toggleMoreMenu();
   document.addEventListener("astro:after-swap", toggleNav);
+  document.addEventListener("astro:after-swap", toggleMoreMenu);
 </script>

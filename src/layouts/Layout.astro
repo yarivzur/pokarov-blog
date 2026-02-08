@@ -112,9 +112,7 @@ const structuredData = {
 
         function getPreferTheme() {
           if (currentTheme) return currentTheme;
-          return window.matchMedia("(prefers-color-scheme: dark)").matches
-            ? "dark"
-            : "light";
+          return "light";
         }
 
         const themeValue = getPreferTheme();
