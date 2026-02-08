@@ -37,6 +37,18 @@ export const SOCIALS = [
     active: true,
   },
   {
+    name: "Instagram",
+    href: "https://www.instagram.com/vl_vl/",
+    linkTitle: `Follow on Instagram`,
+    active: true,
+  },
+  {
+    name: "LinkedIn",
+    href: "https://www.linkedin.com/in/yarivzur/",
+    linkTitle: `Connect on LinkedIn`,
+    active: true,
+  },
+  {
     name: "Mail",
     href: "mailto:yarivzur@gmail.com",
     linkTitle: `Send an email`,
