@@ -40,7 +40,7 @@ const tags = props.tags ?? (category ? [category] : []);
   <Header />
 
   <main class="app-layout flex-1 py-8">
-    <article class="post">
+    <article class="post" data-pagefind-body>
       {heroImage && (
         <div class="hero-image mb-8">
           <Image
@@ -89,7 +89,7 @@ const tags = props.tags ?? (category ? [category] : []);
       </div>
     </article>
 
-    <nav class="post-nav mt-12 border-t border-border pt-6">
+    <nav class="post-nav mt-12 border-t border-border pt-6" data-pagefind-ignore>
       <!-- Back to all posts -->
       <div class="mb-6">
         <a href="/blog" class="back-link text-accent hover:underline">

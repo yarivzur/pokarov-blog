@@ -73,6 +73,7 @@ const categories = getUniqueCategories(sortedPosts);
               data-category={post.data.category ?? ""}
               data-tags={post.data.tags?.join(",") ?? ""}
               data-search={`${post.data.title ?? ""} ${post.data.description ?? ""}`.toLowerCase()}
+              data-url={`/blog/${encodeURIComponent(post.id)}/`}
               class="flex items-start gap-4 py-2 transition-opacity"
             >
               <time
@@ -126,6 +127,8 @@ const categories = getUniqueCategories(sortedPosts);
   const items = Array.from(document.querySelectorAll(".year-group li"));
   const yearGroups = Array.from(document.querySelectorAll(".year-group"));
   let activeCategory = "";
+  let pagefindInstance: any = null;
+  let searchResultUrls: Set<string> | null = null;
 
   // Check URL for initial category filter
   const urlParams = new URLSearchParams(window.location.search);
@@ -134,21 +137,39 @@ const categories = getUniqueCategories(sortedPosts);
     activeCategory = initialCategory;
   }
 
-  function normalize(s: string): string {
-    return (s || "").toLowerCase().replace(/\s+/g, " ").trim();
+  async function initPagefind() {
+    if (pagefindInstance) return pagefindInstance;
+    try {
+      const pagefindPath = `/pagefind/pagefind.js`;
+      pagefindInstance = await import(/* @vite-ignore */ pagefindPath);
+      await pagefindInstance.init();
+    } catch (e) {
+      console.warn("Pagefind not available (dev mode?):", e);
+      pagefindInstance = null;
+    }
+    return pagefindInstance;
   }
 
-  function apply(): void {
-    const q = normalize(searchEl?.value || "");
+  function applyVisibility(): void {
     let visible = 0;
 
     for (const li of items) {
       const cat = li.getAttribute("data-category") || "";
       const tags = li.getAttribute("data-tags") || "";
+      const url = li.getAttribute("data-url") || "";
       const hay = li.getAttribute("data-search") || "";
 
       const matchCat = !activeCategory || cat === activeCategory || tags.includes(activeCategory);
-      const matchQ = !q || hay.includes(q);
+
+      let matchQ = true;
+      if (searchResultUrls !== null) {
+        // Normalize data-url to match pagefind's decoded URLs
+        const decodedUrl = decodeURIComponent(url);
+        matchQ = searchResultUrls.has(decodedUrl);
+      } else {
+        const q = (searchEl?.value || "").toLowerCase().replace(/\s+/g, " ").trim();
+        matchQ = !q || hay.includes(q);
+      }
 
       const show = matchCat && matchQ;
       (li as HTMLElement).style.display = show ? "" : "none";
@@ -163,6 +184,42 @@ const categories = getUniqueCategories(sortedPosts);
     }
   }
 
+  let searchTimeout: ReturnType<typeof setTimeout> | null = null;
+
+  async function onSearchInput(): Promise<void> {
+    const q = (searchEl?.value || "").trim();
+
+    if (!q) {
+      searchResultUrls = null;
+      applyVisibility();
+      return;
+    }
+
+    if (searchTimeout) clearTimeout(searchTimeout);
+    searchTimeout = setTimeout(async () => {
+      const pf = await initPagefind();
+      if (!pf) {
+        searchResultUrls = null;
+        applyVisibility();
+        return;
+      }
+
+      const search = await pf.search(q);
+      const results = await Promise.all(search.results.map((r: any) => r.data()));
+      searchResultUrls = new Set(
+        results.map((r: any) => {
+          // Normalize: decode URI, strip index.html, ensure trailing slash
+          let url = decodeURIComponent(new URL(r.url, window.location.origin).pathname);
+          url = url.replace(/\/index\.html$/, "/");
+          if (!url.endsWith("/")) url += "/";
+          return url;
+        })
+      );
+
+      applyVisibility();
+    }, 300);
+  }
+
   function setActiveChip(): void {
     for (const btn of chips) {
       const isActive = (btn as HTMLElement).dataset.category === activeCategory;
@@ -175,8 +232,7 @@ const categories = getUniqueCategories(sortedPosts);
     btn.addEventListener("click", () => {
       activeCategory = (btn as HTMLElement).dataset.category || "";
       setActiveChip();
-      apply();
-      // Update URL
+      applyVisibility();
       const url = new URL(window.location.href);
       if (activeCategory) {
         url.searchParams.set("category", activeCategory);
@@ -189,18 +245,19 @@ const categories = getUniqueCategories(sortedPosts);
 
   // Search typing
   if (searchEl) {
-    searchEl.addEventListener("input", apply);
+    searchEl.addEventListener("input", onSearchInput);
+    searchEl.addEventListener("focus", () => initPagefind(), { once: true });
   }
 
   // Clear
   if (clearBtn) {
     clearBtn.addEventListener("click", () => {
       activeCategory = "";
+      searchResultUrls = null;
       if (searchEl) searchEl.value = "";
       setActiveChip();
-      apply();
+      applyVisibility();
       searchEl?.focus?.();
-      // Clear URL params
       const url = new URL(window.location.href);
       url.searchParams.delete("category");
       window.history.replaceState({}, "", url.toString());
@@ -209,5 +266,5 @@ const categories = getUniqueCategories(sortedPosts);
 
   // Initial state
   setActiveChip();
-  apply();
+  applyVisibility();
 </script>
