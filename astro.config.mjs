@@ -8,7 +8,7 @@ import { join } from "node:path";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://bitterness-inc.vercel.app",
+  site: "https://blog.pokarov.com",
   integrations: [
     mdx(),
     sitemap({
